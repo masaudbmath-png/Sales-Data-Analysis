@@ -1,0 +1,2001 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,Region,SalesRep,Status
+ORD-100354,"Oct 18, 2024",Gizmo Pro,3.0,109.35,  West  ,Alice Khan,Pending
+ORD-101805,2024-08-20,Thingamajig,1.0,345.62,West ,Dana White,  Pending  
+ORD-101859,"Nov 10, 2023",widget a,-1.0,285.6,East,  Evan Brooks  ,
+ORD-101249,11-06-2023,Sprocket,2.0,$349.95,West,Fiona Grant,Completed
+ORD-100046,03/13/2023,Sprocket,2.0,228.07,SOUTH,Dana White,Pending
+ORD-101775,2023-11-21,  Gadget X  ,1.0,341.65,north,Alice Khan,Pending
+ORD-101826,2024-10-19,Sprocket,-1.0,$420.34,South,  Evan Brooks  ,Completed
+ORD-101586,"Nov 02, 2024",Gadget X,1.0,162.16,South,alice khan,Cancelled
+ORD-100018,2024/07/19,Doohickey,1.0,N/A,,Bob Smith,Cancelled
+ORD-101257,05/24/2024,widget a,2.0,$5.43,north,  Dana White  ,Completed
+ORD-100627,"Oct 26, 2023",GADGET X,2.0,43.03,West,Fiona Grant,Completed
+ORD-100374,2023/07/01,Gizmo Pro,2.0,301.91, East,Alice Khan,Completed
+ORD-101190,2024-09-12,Gadget Y,1.0,,  East  ,Bob Smith,
+ORD-100994,"Jun 22, 2023",Gadget X,2.0,91.53,South,  Bob Smith  ,Completed
+ORD-100142,27-06-2024,Widget A,1.0,61.75,West,Alice Khan,Refunded
+ORD-101608,09/27/2024,Gadget X,4.0,379.81,West,alice khan,COMPLETED
+ORD-101390,"Jan 02, 2023",Gadget Y,1.0,497.17,SOUTH,Charlie Lee ,COMPLETED
+ORD-101626,21-03-2024,Sprocket,1.0,293.45,North,  Charlie Lee  ,Completed
+ORD-100281,2023/06/29,Gadget Y,4.0,281.52, East,Evan Brooks,Completed
+ORD-100139,02/07/2024,Gadget X,3.0,7.95,South,Evan Brooks,completed
+ORD-100313,08/26/2023,  Widget B  ,2.0,328.84,East,,Refunded
+ORD-100114,"Jul 20, 2024",  Gizmo Pro  ,1.0,220.76,  West   ,Charlie Lee,  Completed  
+ORD-100261,01/26/2023,Gadget Y,-1.0,$136.48,,Alice Khan,
+ORD-100107,"Dec 13, 2023",Thingamajig,1.0,69.39,,Evan Brooks,Pending
+ORD-100572,04/03/2023,Thingamajig,2.0,471.21,East,alice khan,Completed
+ORD-100395,"Nov 06, 2024",Thingamajig,4.0,,West,alice khan,Completed
+ORD-100938,07/29/2023,  Gadget Y  ,2.0,-298.35,East,Fiona Grant,Refunded
+ORD-100645,01-04-2024,GADGET X,2.0,$63.19,West,Charlie Lee ,Refunded
+ORD-101613,2024/09/11,Doohickey,1.0,225.22,north,Fiona Grant,Completed
+ORD-101623,2024-05-29,Gadget X,1.0,424.75,,Bob  Smith,  completed  
+ORD-100880,26-03-2023,  GADGET X  ,1.0,258.83,North,Bob Smith,Completed
+ORD-100773,19-09-2024,  Gizmo Pro  ,0.0,251.89,North,Dana White,  completed  
+ORD-100902,19-08-2023,Sprocket,0.0,155.19,North,Bob Smith,  Completed  
+ORD-101674,2023/12/16,Gadget Y,,48.46,West,,Completed
+ORD-100597,12/18/2023,Doohickey,2.0,328.24,West,Charlie Lee,Completed
+ORD-101341,"Nov 26, 2024",Gadget Y,2.0,290.07,  East  ,Evan Brooks,Completed
+ORD-101110,02/02/2023,Gizmo Pro,1.0,48.11,North,Charlie Lee,Completed
+ORD-101089,09/25/2024,Gadget X,-1.0,146.2,North,Evan Brooks,Cancelled
+ORD-101909,"Apr 13, 2023",Gadget Y,-1.0,83.09,SOUTH,Dana White,Completed
+ORD-100706,"Oct 18, 2024",Sprocket,2.0,$445.18,North,Evan Brooks,Refunded
+ORD-100653,28-06-2023,GADGET X,3.0,338.23,West ,Evan Brooks,Completed
+ORD-101070,05-02-2023,Gadget Y,2.0,339.83,North,Fiona Grant,Refunded
+ORD-101507,2023/05/16,  Sprocket  ,2.0,224.71,north,Charlie Lee ,Completed
+ORD-100988,"Oct 30, 2023",Widget B,1.0,100.61,South,Charlie Lee,completed
+ORD-100009,2023-06-17,Gadget X,1.0,130.87,SOUTH,Charlie Lee,Completed
+ORD-100661,09-08-2024,Widget A,3.0,259.64,,Evan Brooks,completed
+ORD-101411,"Apr 20, 2024",Widget B,2.0,$486.18, East,alice khan,Completed
+ORD-101876,"May 08, 2023",Thingamajig,1.0,483.31,South,Alice Khan,Refunded
+ORD-100370,2024/06/16,Doohickey,1.0,94.05,West,Dana White,Completed
+ORD-100531,2024-11-09,Thingamajig,,357.39,north,Charlie Lee,Completed
+ORD-100647,2023/03/01,Widget B,1.0,369.15,South,alice khan,Completed
+ORD-100606,"Jul 19, 2023",Doohickey,4.0,391.74,  East  ,Alice Khan,
+ORD-100146,"Jan 12, 2023",Thingamajig,3.0,310.96,,  Bob Smith  ,completed
+ORD-101717,2023/06/11,Gadget Y,1.0,495.96,north,,Cancelled
+ORD-100287,02-04-2024,Thingamajig,1.0,68.76,East,  Bob Smith  ,Completed
+ORD-100294,02/20/2023,Gizmo Pro,1.0,$328.37, East,Bob  Smith,  Completed  
+ORD-101354,2024-10-09,Gizmo Pro,1.0,445.28,,Bob Smith,  Cancelled  
+ORD-101363,07/17/2023,Gadget X,1.0,,  South  ,Dana White,Completed
+ORD-100501,2023-12-27,Gadget X,4.0,,  East  ,Bob Smith,Completed
+ORD-101484,06/03/2024,Sprocket,4.0,315.1,East,,Refunded
+ORD-101494,05-05-2023,GADGET X,1.0,55.86,South,Alice Khan,  Completed  
+ORD-100305,2023/06/02,Widget B,5.0,363.05,West,Dana White,Pending
+ORD-101211,2024-11-07,Thingamajig,5.0,-409.43,North,Evan Brooks,Pending
+ORD-100273,19-01-2023,  Sprocket  ,3.0,181.74,West,Fiona Grant,Cancelled
+ORD-100622,2024-10-23,Widget B,1.0,355.07,SOUTH,Bob Smith,COMPLETED
+ORD-101782,11/07/2023,Gadget X,2.0,71.57,West,Charlie Lee,completed
+ORD-100626,"Apr 09, 2023",Sprocket,2.0,100.01,  West  ,  Fiona Grant  ,Completed
+ORD-100592,06/19/2023,Gadget X,5.0,246.48,SOUTH,,
+ORD-101116,2023/12/06,Gizmo Pro,4.0,472.91,North,Bob  Smith,Completed
+ORD-101723,13-01-2024,Sprocket,3.0,$357.1,South,Bob  Smith,Completed
+ORD-100709,09/27/2024,Thingamajig,2.0,36.35,East,Bob  Smith,Pending
+ORD-100208,2024-05-23,Widget B,1.0,270.24,   East  ,Bob Smith,Completed
+ORD-100919,"Aug 20, 2023",  Gadget Y  ,0.0,205.26,West ,alice khan,  Pending  
+ORD-100043,23-02-2023,Gadget Y,1.0,$300.56,West,Bob  Smith,COMPLETED
+ORD-100728,08/15/2023,Thingamajig,2.0,168.88,West ,Evan Brooks,Completed
+ORD-101708,2023-11-02,Gadget Y,1.0,331.53,North,Bob  Smith,Completed
+ORD-101016,03/05/2023,,4.0,282.64,West ,Dana White,Completed
+ORD-100922,"Sep 05, 2024",Widget B,3.0,267.91,north,Bob Smith,Cancelled
+ORD-100864,17-03-2024,  Thingamajig  ,3.0,49.19,West ,Alice Khan,Pending
+ORD-100331,"Jan 20, 2024",Doohickey,1.0,287.64,East,Dana White,
+ORD-100907,06-05-2024,Gizmo Pro,2.0,51.8,South,Fiona Grant,Completed
+ORD-101532,09/23/2023,Doohickey,2.0,376.14,South,Alice Khan,  Refunded  
+ORD-100553,2023/07/03,Gadget Y,,166.84,SOUTH,Alice Khan,Completed
+ORD-100826,07/10/2023,Sprocket,1.0,N/A,  West  ,Dana White,Cancelled
+ORD-100576,06-12-2023,  Gadget X  ,1.0,150.56, East,Dana White,COMPLETED
+ORD-100060,2024/02/05,Widget A,1.0,296.35,South,Dana White,Refunded
+ORD-100386,12/15/2024,Widget B,1.0,243.06, East,Charlie Lee ,  COMPLETED  
+ORD-100712,2024-04-29,  Gadget X  ,1.0,204.47,West,Bob Smith,Pending
+ORD-100755,"Dec 04, 2024",Gizmo Pro,2.0,$123.05,West,Fiona Grant,
+ORD-100850,2023/10/03,Widget A,2.0,432.99,North,Dana White,Completed
+ORD-100721,"Nov 26, 2023",Gizmo Pro,1.0,339.99,West ,alice khan,Pending
+ORD-101320,02/03/2023,Gadget X,-1.0,460.91, East,alice khan,
+ORD-101846,09/16/2023,Gizmo Pro,-1.0,340.21,East,Charlie Lee ,Pending
+ORD-100306,2023-10-24,Thingamajig,1.0,310.78,north,Bob  Smith,  Pending  
+ORD-101002,06/29/2024,Gizmo Pro,1.0,354.28,West,Bob Smith,completed
+ORD-100950,25-01-2024,  Widget B  ,1.0,469.87,East,Fiona Grant,Cancelled
+ORD-101258,2023-06-12,Widget A,2.0,$277.04,South,  Fiona Grant  ,Completed
+ORD-100667,"Mar 21, 2024",Gizmo Pro,2.0,274.54,north,Bob Smith,Cancelled
+ORD-101152,02/01/2024,Widget A,1.0,251.29,north,Evan Brooks,Pending
+ORD-100910,2023/10/14,Widget A,4.0,264.06, East,alice khan,Cancelled
+ORD-100253,"Apr 10, 2024",GADGET X,1.0,352.46,North,Fiona Grant,COMPLETED
+ORD-100199,03/09/2024,Doohickey,4.0,271.0,,Fiona Grant,Cancelled
+ORD-101919,2024-02-08,Widget A,1.0,35.83,north,Fiona Grant,completed
+ORD-101752,07/20/2024,Widget A,3.0,$463.21,West,alice khan,Completed
+ORD-101342,2023-02-25,Gadget X,4.0,217.12,North,,Completed
+ORD-101464,2023/03/03,  Widget B  ,1.0,316.14,SOUTH,Dana White,Completed
+ORD-100969,05/01/2023,Gadget X,2.0,21.14,  West   ,Dana White,Completed
+ORD-100763,13-02-2024,Gadget Y,2.0,N/A,,Bob Smith,Pending
+ORD-101104,"Apr 16, 2023",Gadget Y,1.0,258.21,West,Charlie Lee ,Pending
+ORD-101511,25-11-2023,Doohickey,1.0,$454.43,West ,Charlie Lee ,Completed
+ORD-100461,"Aug 10, 2023",Gadget Y,1.0,$234.07,West,Evan Brooks,COMPLETED
+ORD-101774,2024-09-16,Widget A,1.0,40.03,East,Evan Brooks,completed
+ORD-101624,"Oct 24, 2023",Doohickey,1.0,400.79,north,Dana White,Completed
+ORD-100277,2024/04/09,,4.0,358.21,South,Dana White,Completed
+ORD-101162,24-06-2023,Gadget Y,2.0,$304.2,South,Charlie Lee,Completed
+ORD-100318,"Jun 07, 2023",Sprocket,2.0,69.38,   East  ,Dana White,Completed
+ORD-100887,2024-05-14,GADGET X,4.0,247.82,West ,Evan Brooks,  Completed  
+ORD-100260,2023-07-05,Sprocket,1.0,$152.52,West ,Bob Smith,Completed
+ORD-101879,31-03-2023,GADGET X,0.0,356.22,,Charlie Lee,  completed  
+ORD-101301,2023-02-02,Gadget X,3.0,496.9,SOUTH,Dana White,Pending
+ORD-101318,21-02-2024,GADGET X,1.0,443.43,South,Alice Khan,Pending
+ORD-100955,07/28/2023,Gadget Y,3.0,198.41,north,Charlie Lee ,Cancelled
+ORD-100924,10/11/2024,widget a,5.0,$70.49,north,Fiona Grant,
+ORD-100066,2023/03/31,Gadget X,1.0,278.27,East,Charlie Lee,Cancelled
+ORD-100904,"Sep 09, 2024",Doohickey,2.0,198.49,West ,Bob  Smith,Cancelled
+ORD-101733,04/22/2024,Widget B,3.0,,South,Fiona Grant,Completed
+ORD-100758,01/06/2024,Widget B,3.0,$248.06, East,  Alice Khan  ,COMPLETED
+ORD-100300,09/03/2024,Doohickey,1.0,276.37,North,Evan Brooks,Pending
+ORD-101785,30-09-2023,Sprocket,4.0,194.13,South,,Completed
+ORD-101631,04/18/2024,Sprocket,1.0,316.73,,Dana White,Completed
+ORD-100122,2023-03-06,Thingamajig,1.0,252.42,,alice khan,completed
+ORD-101601,"Jan 18, 2023",Widget A,1.0,N/A,,alice khan,Pending
+ORD-101832,"Jul 18, 2024",Gadget X,2.0,483.3,  North  ,Alice Khan,Completed
+ORD-100175,2023-02-28,Thingamajig,1.0,113.54,SOUTH,Fiona Grant,  Completed  
+ORD-100423,2023/09/03,Widget A,,-426.91,East,Dana White,Completed
+ORD-101206,"Feb 06, 2023",Widget B,3.0,$37.59,,Dana White,Pending
+ORD-101393,05-02-2024,  Sprocket  ,5.0,$352.82,West,Fiona Grant,Completed
+ORD-101292,2023-07-16,Gadget Y,1.0,316.41,South,Alice Khan,Completed
+ORD-100540,02/24/2023,Doohickey,2.0,283.21,South,Dana White,Cancelled
+ORD-100651,"Aug 02, 2024",Widget B,1.0,484.03,South,Bob Smith,Refunded
+ORD-101343,"Apr 04, 2023",Doohickey,2.0,$32.54,West ,alice khan,Completed
+ORD-100713,05/03/2024,Gadget X,4.0,46.49,,Bob Smith,completed
+ORD-100117,2023/11/30,  Widget A  ,4.0,244.85,West ,Bob Smith,  Cancelled  
+ORD-100349,"Jan 12, 2024",Gadget X,-1.0,478.89,  West   ,,  Refunded  
+ORD-101073,2024-01-16,Gizmo Pro,4.0,252.46,  South  ,,completed
+ORD-100238,10/30/2023,Doohickey,1.0,20.99,SOUTH,Dana White,Cancelled
+ORD-100371,07-07-2024,Gizmo Pro,2.0,,East,alice khan,Completed
+ORD-101079,"Aug 03, 2024",Widget A,2.0,$482.59,South,Alice Khan,Pending
+ORD-100341,"Apr 01, 2024",,2.0,169.5,South,Charlie Lee ,Refunded
+ORD-100872,2024/01/04,  Thingamajig  ,2.0,201.56,East,  Alice Khan  ,Completed
+ORD-100162,10/26/2024,  Sprocket  ,4.0,$66.15,East,Dana White,Completed
+ORD-101877,2024-03-27,  Sprocket  ,4.0,N/A,West,Charlie Lee,Refunded
+ORD-100778,05/09/2024,Widget B,1.0,-384.27,,Charlie Lee,Completed
+ORD-101324,2024-10-13,Thingamajig,2.0,412.51,North,,Completed
+ORD-100339,04/17/2023,widget a,,277.23,South,Charlie Lee,  Pending  
+ORD-100366,2023/04/17,Gadget X,1.0,305.05,north,Bob  Smith,Completed
+ORD-101839,2023/11/03,Widget A,1.0,171.98,SOUTH,Charlie Lee,Completed
+ORD-101159,13-10-2024,  Thingamajig  ,2.0,,north,Alice Khan,Pending
+ORD-101902,2024-05-30,Gizmo Pro,1.0,332.48,West ,Evan Brooks,Pending
+ORD-100317,"Aug 12, 2024",widget a,2.0,N/A,north,  Dana White  ,Refunded
+ORD-100781,11/13/2023,Widget A,4.0,$321.0,East,,Pending
+ORD-101506,2024/07/15,Thingamajig,5.0,$225.91,,Bob Smith,Pending
+ORD-101138,08/29/2024,Gadget Y,1.0,62.47,,  Fiona Grant  ,Completed
+ORD-100220,16-08-2023,GADGET X,2.0,436.36,West,Dana White,Completed
+ORD-101243,07-12-2024,Gadget X,1.0,38.58, East,,  completed  
+ORD-101372,2024-10-04,Thingamajig,3.0,$291.78,,Fiona Grant,Refunded
+ORD-100291,"Oct 15, 2023",Widget A,5.0,21.29,South,Alice Khan,
+ORD-100023,02/06/2024,Sprocket,4.0,488.11,,Dana White,completed
+ORD-101461,08-03-2023,Sprocket,2.0,65.4,South,Fiona Grant,Cancelled
+ORD-100190,26-02-2024,Gizmo Pro,3.0,85.7,,Bob Smith,Completed
+ORD-101066,2024-06-20,Doohickey,,284.63,East,  Alice Khan  ,Refunded
+ORD-101406,2024-07-16,Gadget Y,2.0,,,Bob Smith,Refunded
+ORD-100141,10/12/2023,Widget B,-1.0,396.36,SOUTH,alice khan,Completed
+ORD-101305,"Feb 19, 2023",Gadget X,1.0,420.21,  north  ,  Evan Brooks  ,Completed
+ORD-100612,"Dec 01, 2024",Doohickey,1.0,$159.69,West,Charlie Lee,Completed
+ORD-101338,2024/03/20,Gizmo Pro,1.0,,South,  Alice Khan  ,Refunded
+ORD-101039,2023/07/06,,1.0,249.63,South,  Evan Brooks  ,Completed
+ORD-101535,04-02-2023,Doohickey,3.0,412.48,East,  Alice Khan  ,completed
+ORD-101904,2024/01/30,Widget B,3.0,259.16,East,,completed
+ORD-100852,11/13/2024,Doohickey,1.0,355.41,South,Alice Khan,Refunded
+ORD-100321,"Jul 10, 2023",Widget B,4.0,47.42,West ,Dana White,Completed
+ORD-100617,12/14/2023,Thingamajig,1.0,184.85,north,Charlie Lee,Completed
+ORD-100444,27-02-2023,  Thingamajig  ,,40.34,East,Alice Khan,Pending
+ORD-101234,2024/01/08,widget a,1.0,93.59, East,Dana White,Refunded
+ORD-101911,2024-10-21,Gizmo Pro,2.0,138.28,,Dana White,Pending
+ORD-101470,2024/08/07,Widget B,2.0,282.65,West,Alice Khan,Completed
+ORD-101828,"Dec 14, 2024",,1.0,-71.27,East,Alice Khan,  Completed  
+ORD-100034,18-09-2024,  Gizmo Pro  ,-1.0,201.74,East,  Fiona Grant  ,Completed
+ORD-100633,2024-08-23,Widget B,1.0,279.58,SOUTH,Fiona Grant,Refunded
+ORD-100851,10/31/2024,Doohickey,1.0,247.97,North,Fiona Grant,Completed
+ORD-101092,12/12/2023,,3.0,$10.24,South,Alice Khan,Pending
+ORD-101179,2024/04/16,,0.0,477.82,South,Charlie Lee ,  Pending  
+ORD-100373,30-07-2023,Sprocket,2.0,57.76,,Bob  Smith,Completed
+ORD-101800,11/10/2023,Gizmo Pro,1.0,117.26,North,Bob  Smith,
+ORD-100584,2024-02-09,  Thingamajig  ,2.0,$233.0,West,Fiona Grant,Completed
+ORD-100792,08/21/2024,Gizmo Pro,-1.0,54.57,South,,Completed
+ORD-101259,"Mar 10, 2024",Gadget X,2.0,118.68,West,Charlie Lee ,Completed
+ORD-100337,2023-08-19,Gadget X,2.0,389.14,North,Evan Brooks,Completed
+ORD-101286,2024-04-22,Sprocket,1.0,362.59,north,Dana White,completed
+ORD-101863,2024/11/10,  GADGET X  ,1.0,383.3,north,Bob Smith,Pending
+ORD-101404,08-10-2024,Gadget X,4.0,384.54,West,Dana White,Completed
+ORD-101398,"Feb 20, 2023",GADGET X,2.0,47.11,East,Alice Khan,Completed
+ORD-101551,"Nov 17, 2024",,1.0,N/A,North,Fiona Grant,  Completed  
+ORD-101134,2024/05/28,  GADGET X  ,3.0,479.05,East,Evan Brooks,completed
+ORD-100403,29-11-2024,Doohickey,2.0,489.92,,Alice Khan,completed
+ORD-100446,2023-05-20,Widget A,2.0,402.75,West,Dana White,COMPLETED
+ORD-100007,"Jan 13, 2024",Widget A,1.0,,north,Bob Smith,Completed
+ORD-101743,2024/10/08,Doohickey,2.0,486.32,  North  ,Fiona Grant,
+ORD-100808,2024/09/01,Doohickey,3.0,166.56,north,Fiona Grant,completed
+ORD-101474,15-10-2024,Widget B,2.0,$239.42,West,Dana White,Refunded
+ORD-100399,03/21/2023,Sprocket,2.0,163.16,North,Bob Smith,Pending
+ORD-101861,2023-05-11,  Gizmo Pro  ,2.0,223.75,South,Dana White,Refunded
+ORD-101119,2024-04-10,Thingamajig,2.0,,South,Evan Brooks,Pending
+ORD-101037,05/14/2024,Widget B,1.0,N/A,South,Charlie Lee,Completed
+ORD-101849,"Sep 08, 2024",Widget B,1.0,$229.36,  North  ,Bob Smith,Completed
+ORD-101351,2024-06-09,widget a,4.0,376.61,West,Evan Brooks,Completed
+ORD-101492,2024/10/11,,3.0,N/A,,  Charlie Lee  ,Refunded
+ORD-100254,2023-10-11,Widget B,1.0,302.49, East,  Dana White  ,
+ORD-100415,2024-04-01,Widget A,2.0,235.2,West,Charlie Lee,  Completed  
+ORD-100987,11/26/2023,Gadget Y,1.0,298.58,West,Bob Smith,Completed
+ORD-100353,"May 17, 2023",Doohickey,3.0,101.88,,Dana White,Cancelled
+ORD-101469,2023/08/11,widget a,1.0,$382.12,north,Bob  Smith,  completed  
+ORD-101465,04/19/2024,GADGET X,4.0,,South,Evan Brooks,
+ORD-100512,2024-08-09,Widget A,3.0,149.42,South,Fiona Grant,
+ORD-100035,05/30/2024,Sprocket,1.0,398.58,North,,  COMPLETED  
+ORD-101038,"Nov 08, 2023",Widget A,5.0,46.53,West ,Dana White,
+ORD-100405,2023-12-15,Widget A,2.0,478.57,East,Fiona Grant,  Completed  
+ORD-100701,"May 16, 2024",Widget A,1.0,160.14,West,,Pending
+ORD-101936,09/28/2023,Doohickey,4.0,$423.78,West ,Fiona Grant,Cancelled
+ORD-100835,"Jan 08, 2023",Gadget Y,2.0,262.28,South,Dana White,Refunded
+ORD-101880,06/30/2023,Doohickey,3.0,471.96,SOUTH,,Completed
+ORD-101295,12/03/2024,Thingamajig,2.0,64.58,North,Evan Brooks,COMPLETED
+ORD-100084,04-02-2024,widget a,3.0,$405.12,North,Charlie Lee ,Completed
+ORD-101588,2024/06/05,Sprocket,2.0,$27.43,West,Charlie Lee ,Pending
+ORD-100813,2023-05-24,Gizmo Pro,1.0,$487.29,  SOUTH  ,Evan Brooks,completed
+ORD-101364,03/14/2024,Gadget Y,1.0,219.95,North,Bob Smith,Completed
+ORD-100970,2024/04/30,Sprocket,1.0,$336.72,   East  ,Bob  Smith,
+ORD-100893,"May 19, 2024",Gizmo Pro,1.0,102.06,North,Charlie Lee ,Pending
+ORD-100308,"Nov 07, 2024",Gadget X,2.0,180.95,West ,Fiona Grant,Completed
+ORD-100506,"Apr 05, 2024",Sprocket,3.0,150.94,North,Fiona Grant,completed
+ORD-100105,04/25/2023,Widget B,2.0,438.12,East,Bob Smith,Refunded
+ORD-101852,02/24/2023,Gadget Y,5.0,78.86,,  Alice Khan  ,COMPLETED
+ORD-100817,08-01-2024,Sprocket,2.0,429.22,South,Dana White,
+ORD-101001,2023/09/15,Widget B,2.0,115.34,   East  ,Dana White,COMPLETED
+ORD-101571,2023-11-20,widget a,4.0,$63.56,north,Fiona Grant,Pending
+ORD-100829,28-06-2024,Thingamajig,2.0,427.47,North,Alice Khan,Pending
+ORD-101225,2024/06/16,Widget A,0.0,106.67,north,Charlie Lee,COMPLETED
+ORD-101558,2024/03/24,Sprocket,1.0,379.1,East,Bob  Smith,completed
+ORD-101300,04-10-2024,Widget B,2.0,83.73,West,Bob Smith,Completed
+ORD-100971,"Aug 02, 2024",Gizmo Pro,2.0,$138.87,   East  ,,Pending
+ORD-101275,2023-07-13,Widget B,1.0,402.21,North,Bob  Smith,  Completed  
+ORD-100295,2023-01-17,Gizmo Pro,2.0,172.17, East,Evan Brooks,  Completed  
+ORD-101180,04/06/2023,Widget A,1.0,46.87,West ,Bob Smith,  COMPLETED  
+ORD-100665,2023-12-05,Widget A,,470.61,East,Charlie Lee ,Completed
+ORD-101765,12-06-2024,Gadget Y,,260.06,West,Bob  Smith,Completed
+ORD-100916,06/26/2024,Thingamajig,2.0,480.79,north,Alice Khan,Pending
+ORD-100235,"Nov 03, 2024",Gadget X,4.0,21.64,West ,Dana White,Completed
+ORD-100995,11-09-2024,Sprocket,1.0,473.48,North,Evan Brooks,Completed
+ORD-100725,2024-05-16,,1.0,351.73, East,Charlie Lee,Completed
+ORD-100430,"Feb 15, 2024",Gizmo Pro,1.0,107.56,SOUTH,Bob Smith,Completed
+ORD-101462,2023/12/22,  GADGET X  ,2.0,403.33,West,Alice Khan,Completed
+ORD-100264,2024-07-29,Widget A,2.0,133.84,South,Bob Smith,Completed
+ORD-101766,2023-05-12,  Gadget X  ,3.0,467.11,South,Evan Brooks,COMPLETED
+ORD-101697,16-01-2023,Sprocket,1.0,115.16,,  Charlie Lee  ,Completed
+ORD-100656,2023-04-04,Widget A,1.0,,South,Charlie Lee,completed
+ORD-100052,"Jul 11, 2023",Doohickey,2.0,332.1,,Alice Khan,Pending
+ORD-100400,08/07/2023,Gadget X,1.0,309.96,East,  Alice Khan  ,  Completed  
+ORD-101707,2023-12-29,Doohickey,1.0,$143.83,South,alice khan,  Completed  
+ORD-101646,01/10/2023,Widget A,3.0,448.16,West,Bob Smith,  COMPLETED  
+ORD-100946,07-06-2023,Gadget Y,2.0,261.89,West ,Bob Smith,Pending
+ORD-101443,2024-09-25,Sprocket,3.0,91.76,  North  ,Bob  Smith,Completed
+ORD-100865,2024-08-14,Sprocket,2.0,438.72,South,Bob Smith,Refunded
+ORD-100167,03/09/2024,widget a,0.0,130.17,North,Dana White,Completed
+ORD-101658,"Oct 20, 2024",Widget A,2.0,22.54,South,  Evan Brooks  ,Completed
+ORD-100439,09-10-2024,Widget A,1.0,$105.09,  West   ,  Alice Khan  ,Completed
+ORD-100650,2023-01-31,Gadget Y,,178.96,  North  ,Evan Brooks,Completed
+ORD-100372,2024/09/24,Sprocket,1.0,78.88,West ,Dana White,  Completed  
+ORD-101157,10/22/2024,Sprocket,1.0,230.46,,Bob  Smith,  Completed  
+ORD-101419,20-09-2023,Widget B,1.0,-202.9,East,Bob  Smith,Cancelled
+ORD-100760,"Sep 06, 2023",Widget B,4.0,344.23,SOUTH,Bob Smith,Cancelled
+ORD-100494,2023/03/22,Widget B,2.0,$393.09,SOUTH,Evan Brooks,Completed
+ORD-101675,27-12-2023,Sprocket,4.0,$281.56, East,Dana White,  Completed  
+ORD-101748,04/20/2024,Gadget X,3.0,76.12,West,Evan Brooks,Completed
+ORD-101778,2023/04/27,Gadget Y,1.0,$309.74,West ,Fiona Grant,Pending
+ORD-101939,2024-09-25,Widget A,1.0,$326.15,  North  ,Evan Brooks,Pending
+ORD-100925,"Jun 28, 2024",Doohickey,2.0,51.13,,Charlie Lee,Completed
+ORD-101545,2023-05-01,Doohickey,2.0,217.52,North,,Completed
+ORD-100078,"Dec 10, 2024",Widget B,,341.94,north,alice khan,Completed
+ORD-101836,2023-05-20,Sprocket,5.0,232.0,North,Bob  Smith,Completed
+ORD-101654,11-03-2023,widget a,5.0,$58.48,  SOUTH  ,Evan Brooks,Completed
+ORD-100772,"Nov 15, 2023",Gadget X,1.0,391.36, East,Charlie Lee,Pending
+ORD-101269,"Oct 02, 2024",Widget A,1.0,154.07,South,Charlie Lee ,Completed
+,,,,,,,
+ORD-101485,2024-05-21,Sprocket,1.0,494.47,,Evan Brooks,Completed
+ORD-100109,"Sep 02, 2023",Widget A,1.0,241.85,North,Evan Brooks,COMPLETED
+ORD-101763,2023/12/16,Widget B,1.0,172.82,West ,Bob  Smith,  Cancelled  
+ORD-101822,2023-09-06,  Widget A  ,1.0,267.87,North,Fiona Grant,Completed
+ORD-101090,14-08-2023,Gadget X,2.0,278.31,north,  Dana White  ,completed
+ORD-100087,10/11/2023,  Gadget X  ,1.0,$70.68, East,Charlie Lee,Completed
+ORD-100577,2023-01-28,Widget B,1.0,339.43,north,Evan Brooks,COMPLETED
+ORD-100315,05/05/2024,Gizmo Pro,2.0,353.37,north,Fiona Grant,completed
+ORD-101078,"Jul 04, 2024",,1.0,,north,Alice Khan,COMPLETED
+ORD-101097,25-10-2024,Widget A,3.0,10.52,East,Dana White,Completed
+ORD-100873,2024/10/25,Thingamajig,-1.0,62.89,East,Fiona Grant,Cancelled
+ORD-100940,07-02-2024,Doohickey,2.0,230.02,  SOUTH  ,  Charlie Lee   ,Completed
+ORD-100845,2023/06/29,Gadget Y,5.0,$345.81,West,Charlie Lee,Completed
+ORD-100058,"Oct 23, 2023",Widget B,2.0,45.71,South,Charlie Lee,Completed
+ORD-100742,2024-03-24,Sprocket,2.0,79.59,East,  Charlie Lee   ,Completed
+ORD-101597,12/10/2024,Sprocket,-1.0,31.18,West,Alice Khan,Completed
+ORD-101734,2023/07/05,Doohickey,3.0,335.3,  East  ,Charlie Lee ,Pending
+ORD-101383,"Feb 15, 2023",Gadget X,2.0,169.98,South,Charlie Lee,Completed
+ORD-100027,"Aug 15, 2024",Widget B,1.0,30.42,  West  ,Charlie Lee,Completed
+ORD-100616,"Nov 05, 2024",Thingamajig,2.0,14.39, East,Bob Smith,Completed
+ORD-100508,2023/12/06,,-1.0,96.2,South,alice khan,Completed
+ORD-100230,09-04-2024,Gizmo Pro,1.0,347.65,  north  ,Charlie Lee ,
+ORD-101017,2023/06/29,  Doohickey  ,2.0,92.02,West,Fiona Grant,Completed
+ORD-101317,2024/03/01,Gadget Y,4.0,45.8,West ,,Completed
+ORD-101887,06/06/2023,Widget B,5.0,61.82,   East  ,Charlie Lee,Completed
+ORD-101651,12/26/2023,Widget B,2.0,$257.61,  East  ,Evan Brooks,Cancelled
+ORD-100025,2024-08-27,Sprocket,1.0,186.37,North,alice khan,Completed
+ORD-100270,2024-06-29,Widget A,2.0,310.06,  West   ,Dana White,Pending
+ORD-101085,"Dec 09, 2024",Doohickey,2.0,N/A, East,Bob Smith,  Completed  
+ORD-101898,2023/02/13,Widget A,4.0,6.83,SOUTH,Alice Khan,Completed
+ORD-100884,"Nov 27, 2023",Widget B,1.0,N/A,SOUTH,  Fiona Grant  ,Completed
+ORD-100159,16-10-2023,Widget B,2.0,29.57,North,Alice Khan,Completed
+ORD-101642,2023/07/04,Gadget Y,1.0,48.57,North,Charlie Lee ,  Completed  
+ORD-100993,"Oct 24, 2024",Gadget X,2.0,257.91,  North  ,Dana White,  Completed  
+ORD-101686,01/09/2024,Sprocket,2.0,302.8, East,,completed
+ORD-100498,10/05/2024,Gadget Y,1.0,301.39,,  Alice Khan  ,Completed
+ORD-100226,"May 24, 2023",Gizmo Pro,4.0,368.1,,  Evan Brooks  ,Completed
+ORD-100779,11/28/2023,  Gadget X  ,1.0,,West,  Evan Brooks  ,Refunded
+ORD-100154,2024-03-23,Gadget X,1.0,223.74,West ,,COMPLETED
+ORD-100869,2024/01/22,Doohickey,-1.0,-482.25,SOUTH,Bob Smith,  Cancelled  
+ORD-101889,2023/04/10,Doohickey,3.0,$228.96,SOUTH,Alice Khan,  completed  
+ORD-101632,"Apr 01, 2024",Sprocket,1.0,49.59,  East  ,Charlie Lee,COMPLETED
+ORD-101052,"Jan 03, 2023",Sprocket,1.0,461.91,SOUTH,Fiona Grant,Completed
+ORD-101840,25-07-2024,Widget A,3.0,486.59,West,  alice khan  ,COMPLETED
+ORD-100089,2023/04/21,Widget A,2.0,,SOUTH,Fiona Grant,Completed
+ORD-100527,"Aug 23, 2024",Widget B,0.0,85.94,North,,COMPLETED
+ORD-100422,2024-11-15,Widget A,4.0,183.5,North,,  Completed  
+ORD-101043,10/30/2023,Widget A,4.0,N/A,West ,Evan Brooks,Completed
+ORD-101124,2024/03/24,  Sprocket  ,1.0,332.06,SOUTH,Bob Smith,Cancelled
+ORD-100402,"Aug 29, 2024",Widget B,1.0,331.07,West,Fiona Grant,Completed
+ORD-100207,02-10-2023,Widget B,2.0,172.19,North,Evan Brooks,COMPLETED
+ORD-101498,09/28/2023,Widget A,2.0,307.68,,alice khan,Completed
+ORD-100347,2024/12/29,Widget B,4.0,353.74,North,,COMPLETED
+ORD-101399,09-04-2024,widget a,2.0,328.0,West,Evan Brooks,Pending
+ORD-101241,08/15/2023,Gadget X,2.0,$483.81,north,Charlie Lee,Refunded
+ORD-100614,2024/04/27,Gadget X,3.0,306.65,North,Charlie Lee,COMPLETED
+ORD-101714,"Dec 26, 2024",widget a,3.0,$265.09,West,alice khan,Completed
+ORD-100132,"Aug 04, 2024",  Widget B  ,1.0,491.58,North,Charlie Lee ,Cancelled
+ORD-100322,2023-12-05,Doohickey,3.0,,South,Charlie Lee ,Completed
+ORD-101177,"Dec 02, 2023",,2.0,98.97,East,alice khan,completed
+ORD-100840,22-08-2023,Doohickey,3.0,228.31,South,Bob Smith,Refunded
+ORD-100581,2024/08/21,Widget B,2.0,498.27, East,Dana White,COMPLETED
+ORD-100952,09-11-2023,Gadget X,2.0,410.47,East,Fiona Grant,Completed
+ORD-101914,"Apr 24, 2024",Widget B,4.0,$235.1,South,Evan Brooks,Pending
+ORD-100098,2024/10/19,Gizmo Pro,3.0,367.72,   East  ,  Fiona Grant  ,COMPLETED
+ORD-100920,2023-05-22,Widget B,1.0,226.06,West,Charlie Lee ,  Refunded  
+ORD-101656,2024-04-22,Doohickey,5.0,250.43,North,Bob  Smith,Completed
+ORD-100570,24-06-2023,Gadget X,0.0,172.29,North,Fiona Grant,COMPLETED
+ORD-100145,24-05-2023,Thingamajig,2.0,7.88,West,Fiona Grant,Completed
+ORD-100695,2024/01/13,,1.0,$167.01,SOUTH,  Dana White  ,Refunded
+ORD-101160,08/14/2024,Widget A,-1.0,41.49,SOUTH,Bob  Smith,Pending
+ORD-101561,31-05-2023,Gadget X,5.0,116.81,North,Evan Brooks,Refunded
+ORD-101673,08/05/2024,Gadget X,3.0,51.9,north,Charlie Lee,Cancelled
+ORD-100326,"Nov 08, 2024",,2.0,136.46,North,Bob Smith,Cancelled
+ORD-101659,04/26/2023,GADGET X,3.0,469.23,north,Charlie Lee ,Completed
+ORD-101322,2024/08/02,Widget B,2.0,447.61,  West   ,Fiona Grant,  Completed  
+ORD-101585,"Jul 03, 2024",Gadget X,4.0,$353.54,South,Dana White,Completed
+ORD-100573,05/30/2023,Gadget Y,1.0,,north,Bob Smith,Completed
+ORD-100048,2023-12-14,Widget B,1.0,167.46,north,Dana White,Completed
+ORD-100791,2024-07-02,Doohickey,1.0,344.32,East,Bob Smith,Refunded
+ORD-101476,"Apr 05, 2023",  Sprocket  ,4.0,475.78,,Alice Khan,Completed
+ORD-100176,2023/02/26,Widget A,1.0,87.61,,Bob Smith,Completed
+ORD-101935,06/07/2023,Sprocket,1.0,244.32,East,Charlie Lee,
+ORD-101829,"Jun 07, 2024",Widget A,2.0,173.65,  South  ,Evan Brooks,
+ORD-100056,01/26/2023,Widget A,1.0,$214.79,   East  ,  Bob  Smith  ,Cancelled
+ORD-100560,2024/12/02,  Gadget X  ,2.0,241.87,,Bob Smith,Refunded
+ORD-100545,"Aug 19, 2023",Gadget X,2.0,391.47,South,Charlie Lee,Completed
+ORD-101640,2024-08-17,Sprocket,2.0,332.14,North,Dana White,completed
+ORD-100160,"Apr 02, 2023",Widget B,3.0,211.03,South,Fiona Grant,Cancelled
+ORD-100580,2023/01/27,Gizmo Pro,1.0,133.42,South,  Fiona Grant  ,Completed
+ORD-101857,2023/11/21,Thingamajig,4.0,$61.75,East,Fiona Grant,Completed
+ORD-101738,2024-07-30,widget a,2.0,86.24,north,alice khan,Pending
+ORD-100583,12/07/2023,Gizmo Pro,2.0,442.56,South,Bob Smith,Pending
+ORD-101468,11-10-2023,Thingamajig,2.0,134.27,  South  ,alice khan,Pending
+ORD-101236,2023-09-23,Thingamajig,3.0,$473.84,North,Alice Khan,Completed
+ORD-100958,09-09-2024,Gizmo Pro,2.0,,,Evan Brooks,COMPLETED
+ORD-101757,2023-09-02,Widget A,1.0,$462.69,SOUTH,Alice Khan,Completed
+ORD-101725,2023/02/02,Gizmo Pro,1.0,63.97,North,Charlie Lee ,Completed
+ORD-100379,2024/03/10,Widget A,2.0,$295.65, East,Fiona Grant,Completed
+ORD-101929,2023/01/31,Widget B,3.0,9.92,East,Fiona Grant,Cancelled
+ORD-101339,2024/07/08,Sprocket,0.0,64.8,South,Evan Brooks,COMPLETED
+ORD-100894,2023/06/17,Widget B,1.0,263.89,North,,Refunded
+ORD-101565,"Jun 19, 2024",Sprocket,1.0,414.12,north,Charlie Lee,Completed
+ORD-101885,16-03-2023,Gadget X,1.0,57.54,South,Dana White,Pending
+ORD-101274,2024/08/10,  Widget A  ,3.0,$200.52,West,Alice Khan,Pending
+ORD-100171,"Jul 31, 2023",Thingamajig,3.0,412.92,West,  Dana White  ,  Completed  
+ORD-100364,2023-01-22,,1.0,,West ,Charlie Lee,Completed
+ORD-100989,04/08/2023,Widget B,1.0,393.92,north,Dana White,completed
+ORD-101706,03/29/2023,Gadget Y,2.0,496.42, East,Bob Smith,Completed
+ORD-100575,02/04/2023,Widget B,1.0,182.98,north,Dana White,Completed
+ORD-101020,04/13/2024,Widget A,2.0,359.26,East,  Alice Khan  ,Completed
+ORD-101834,"Feb 14, 2023",GADGET X,5.0,217.17,North,Charlie Lee,Completed
+ORD-101454,09/04/2023,Widget A,3.0,N/A,South,,Completed
+ORD-100901,12/04/2023,  Sprocket  ,3.0,417.51,South,Evan Brooks,  Completed  
+ORD-101687,09-08-2024,GADGET X,1.0,450.64,north,Alice Khan,Pending
+ORD-101009,2023-05-03,Widget A,3.0,69.3,South,  Bob Smith  ,Pending
+ORD-101811,2023-02-26,Widget A,2.0,155.54, East,  Bob Smith  ,Completed
+ORD-100453,02-12-2024,Widget A,4.0,-292.12, East,Charlie Lee ,Cancelled
+ORD-101260,"Feb 16, 2024",Gadget Y,3.0,,  West  ,Charlie Lee ,COMPLETED
+ORD-100475,01-04-2024,  Doohickey  ,2.0,$246.05,South,Fiona Grant,Cancelled
+ORD-100775,2024-10-22,Widget B,4.0,N/A,West,Charlie Lee,COMPLETED
+ORD-101096,2024-12-18,Widget B,1.0,$201.54,  north  ,Dana White,Completed
+ORD-100493,"Sep 21, 2023",  Sprocket  ,1.0,409.34,West ,Charlie Lee,Completed
+ORD-101537,2024-12-12,Gadget Y,2.0,82.16,SOUTH,Charlie Lee,Pending
+ORD-101248,2023-11-20,Gadget X,1.0,,north,  Dana White  ,Pending
+ORD-101496,2023/11/17,Gadget Y,3.0,$5.83,South,Bob Smith,Completed
+ORD-101639,2024/01/02,Gizmo Pro,2.0,385.14,East,Bob Smith,Completed
+ORD-101166,06/24/2023,Gadget Y,2.0,353.5,  South  ,Charlie Lee,Cancelled
+ORD-101718,05-12-2023,widget a,3.0,242.16,  West  ,Bob Smith,COMPLETED
+ORD-101047,2023-07-16,Gadget X,1.0,314.49,South,alice khan,  Pending  
+ORD-101700,"Oct 02, 2024",Thingamajig,5.0,53.01,West,Fiona Grant,Completed
+ORD-100992,2023-07-15,Thingamajig,,234.4,South,Alice Khan,Completed
+ORD-101059,07/16/2023,Gizmo Pro,5.0,$310.15,north,Charlie Lee,Completed
+ORD-100727,2023-07-04,Doohickey,4.0,N/A,,Charlie Lee,completed
+ORD-101147,2023/01/28,Gadget X,0.0,N/A,SOUTH,Evan Brooks,Completed
+ORD-100702,04-07-2024,Sprocket,2.0,38.04,,Alice Khan,Pending
+ORD-101681,"Mar 25, 2024",Doohickey,4.0,165.82,North,Charlie Lee,Cancelled
+ORD-100579,"Sep 09, 2024",Widget A,2.0,32.74,South,Dana White,Pending
+ORD-100486,08/23/2024,Doohickey,1.0,424.01,SOUTH,Charlie Lee,Completed
+ORD-101313,"Mar 16, 2023",Widget B,2.0,383.23,North,Bob  Smith,  completed  
+ORD-100976,12-09-2023,Doohickey,,344.66,East,Dana White,Pending
+ORD-100830,04-12-2023,Gadget X,2.0,288.57,West,Bob Smith,  Cancelled  
+ORD-100254,2024/04/24,Gizmo Pro,1.0,490.97,,Bob Smith,completed
+ORD-100859,14-10-2024,  Widget A  ,5.0,$147.55,  South  ,Evan Brooks,Completed
+ORD-100888,2023-05-24,Gadget X,5.0,,North,Fiona Grant,Pending
+ORD-100133,"Dec 27, 2024",Sprocket,0.0,268.76,SOUTH,Bob Smith,COMPLETED
+ORD-100764,08/25/2023,Sprocket,3.0,242.2,South,  Alice Khan  ,
+ORD-101663,2024/02/28,Doohickey,2.0,363.8,South,,Pending
+ORD-101450,2023-02-16,Gadget X,2.0,333.36,West ,,  Completed  
+ORD-100999,"Jun 04, 2023",Sprocket,1.0,330.42,North,Dana White,
+ORD-100927,2023-02-28,Gadget X,1.0,206.07,,  Charlie Lee   ,Cancelled
+ORD-100882,18-07-2024,  Sprocket  ,2.0,448.8,West,,  Cancelled  
+ORD-100555,17-07-2024,Doohickey,3.0,61.35,East,Evan Brooks,Pending
+ORD-101735,"May 22, 2023",Widget A,1.0,67.51,,Bob Smith,Completed
+ORD-100764,08/25/2023,Sprocket,3.0,242.2,South,Alice Khan,
+ORD-101523,"Jun 18, 2024",Gizmo Pro,4.0,466.12,  East  ,Charlie Lee,Completed
+ORD-101665,2024/11/28,Sprocket,4.0,,West,  Charlie Lee  ,Completed
+ORD-101185,2023-11-12,Sprocket,2.0,$409.11,North,Alice Khan,Cancelled
+ORD-100898,"Aug 25, 2024",Gadget X,0.0,310.65,South,Alice Khan,COMPLETED
+ORD-101556,2024-11-28,Thingamajig,1.0,297.22,West,Dana White,
+ORD-100640,2024-06-26,Sprocket,3.0,432.05,North,  Evan Brooks  ,Completed
+ORD-100478,09/26/2023,Widget A,2.0,,West,Bob  Smith,Pending
+ORD-101345,"Sep 27, 2023",,3.0,250.59,north,Fiona Grant,Cancelled
+ORD-100500,2023-08-31,,1.0,91.13,,Bob  Smith,
+ORD-101758,2023-03-11,widget a,1.0,124.94,North,Charlie Lee,Completed
+ORD-101172,28-02-2024,Sprocket,3.0,280.58,North,Bob Smith,Cancelled
+ORD-101132,05-11-2023,Gadget X,1.0,281.07,SOUTH,Bob  Smith,Completed
+ORD-100685,2023/08/01,Widget B,4.0,$136.18,West,Dana White,Completed
+ORD-100039,"Jan 13, 2023",Widget A,1.0,-195.08,West,Alice Khan,Completed
+ORD-100263,06/24/2023,Thingamajig,,302.42, East,Dana White,Completed
+ORD-101263,2023-04-29,Widget A,3.0,202.38,West ,Bob Smith,COMPLETED
+ORD-100982,21-02-2023,Gizmo Pro,5.0,140.62,North,Charlie Lee ,  Pending  
+ORD-100563,22-05-2023,widget a,1.0,393.71,South,,  COMPLETED  
+ORD-100425,09/02/2024,Thingamajig,1.0,$17.91,SOUTH,Bob Smith,Pending
+ORD-100129,2024/10/10,Sprocket,2.0,165.11,South,Fiona Grant,COMPLETED
+ORD-100552,11/20/2024,Widget B,4.0,,South,Alice Khan,COMPLETED
+ORD-100594,"Aug 13, 2023",Widget A,5.0,399.71, East,  Dana White  ,Completed
+ORD-101592,2024/09/30,Gadget X,1.0,$37.36,,,COMPLETED
+ORD-100786,2024-03-20,Gizmo Pro,1.0,23.36,north,Alice Khan,Refunded
+ORD-101391,2023/05/23,Widget A,1.0,43.16,,Bob Smith,Pending
+ORD-100855,2023-05-19,Widget B,3.0,449.85,East,Alice Khan,Completed
+ORD-100139,2023/03/29,Gadget X,2.0,$36.81,North,Alice Khan,
+ORD-100104,24-05-2023,Widget A,1.0,330.93,,,Completed
+ORD-101606,2023/12/29,Thingamajig,2.0,141.53,East,Charlie Lee,Refunded
+ORD-101271,2024/09/05,Gadget Y,4.0,$126.05,SOUTH,Fiona Grant,Completed
+ORD-101903,17-01-2024,Gadget X,5.0,203.38,South,Alice Khan,
+ORD-100358,2024-11-20,Doohickey,3.0,293.93,  West  ,Evan Brooks,completed
+ORD-101844,"Feb 28, 2023",Widget A,2.0,$163.19,North,Charlie Lee,Completed
+ORD-101164,2024/03/21,Doohickey,1.0,$415.96,north,alice khan,Completed
+ORD-100286,2023-12-06,  Gizmo Pro  ,4.0,-31.86,West,Alice Khan,Pending
+ORD-100868,2024/10/30,Widget B,2.0,103.73,West,Fiona Grant,COMPLETED
+ORD-100468,2023-07-22,Thingamajig,1.0,449.76,West,,completed
+ORD-100312,11-05-2023,Thingamajig,1.0,263.93,north,Alice Khan,Completed
+ORD-101425,2023-10-23,Gizmo Pro,2.0,145.77,,  Alice Khan  ,Cancelled
+ORD-101777,2023-02-15,Widget B,1.0,,,Bob Smith,Pending
+ORD-100683,07/30/2023,Gadget Y,1.0,264.58,  West  ,Dana White,Completed
+ORD-100607,2024-05-02,Widget B,2.0,461.75,South,  Fiona Grant  ,Completed
+ORD-101195,2023/05/13,Widget A,2.0,423.19,  north  ,Evan Brooks,Completed
+ORD-100564,2023/05/19,Gadget Y,1.0,228.19, East,Charlie Lee ,Completed
+ORD-101534,2024/04/13,Widget A,,$361.28,North,Fiona Grant,
+ORD-100329,02/08/2024,widget a,2.0,45.86, East,Charlie Lee ,Completed
+ORD-100726,"Jan 15, 2023",  Thingamajig  ,3.0,99.82,  North  ,Dana White,Pending
+ORD-100227,14-07-2024,Gizmo Pro,1.0,80.8,,Bob Smith,
+ORD-101921,11/30/2023,Doohickey,1.0,$166.44,West ,Evan Brooks,
+ORD-100209,2023/05/31,Widget A,1.0,263.98,West ,Fiona Grant,Cancelled
+ORD-101753,2024/06/22,  Gadget Y  ,1.0,249.92,East,Charlie Lee,Completed
+ORD-101766,2023-05-12,Gadget X,3.0,467.11,  South  ,Evan Brooks,COMPLETED
+ORD-101346,2023-01-13,Doohickey,2.0,323.98,,Dana White,Pending
+ORD-100595,"Apr 05, 2024",Doohickey,3.0,7.2,South,  Bob Smith  ,Refunded
+ORD-100004,2023/08/09,Gadget X,1.0,$483.42,north,  Dana White  ,Completed
+ORD-101789,05-04-2024,Sprocket,0.0,-355.1,north,Fiona Grant,COMPLETED
+ORD-100502,23-07-2023,Gadget X,1.0,422.79,West,Bob  Smith,  Pending  
+ORD-101449,2023-10-03,Widget A,3.0,329.86,East,Bob Smith,Completed
+ORD-101328,07/17/2024,Widget A,1.0,-55.44,,Bob Smith,Completed
+ORD-101385,22-12-2023,Sprocket,1.0,9.13,north,  Charlie Lee   ,COMPLETED
+ORD-100327,2024/08/24,Gadget X,1.0,$435.06,north,Charlie Lee ,Cancelled
+ORD-101186,"Nov 09, 2024",GADGET X,,109.76,South,Fiona Grant,Completed
+ORD-100557,2023/12/18,  Gizmo Pro  ,3.0,$201.35,North,Fiona Grant,Pending
+ORD-101307,"Feb 19, 2023",Gizmo Pro,2.0,332.68,West,Dana White,Completed
+ORD-100819,09/10/2023,Gadget X,2.0,N/A,north,Dana White,Completed
+ORD-100784,"Feb 18, 2023",Widget B,3.0,N/A,West ,,Completed
+ORD-100282,2023-06-10,Sprocket,1.0,179.2,North,,Completed
+ORD-100750,2023-08-11,,2.0,$74.31,,Dana White,Pending
+ORD-101430,05/21/2023,Gadget X,1.0,493.66,North,Evan Brooks,COMPLETED
+ORD-101890,"Jul 26, 2024",,2.0,481.83,  SOUTH  ,Alice Khan,Completed
+ORD-101060,"Feb 12, 2023",  Gadget X  ,1.0,316.81,,Fiona Grant,Completed
+ORD-101057,"Jan 29, 2024",  Sprocket  ,4.0,481.53,East,Bob Smith,COMPLETED
+ORD-100533,2023/11/06,Gadget X,3.0,404.64,West,Bob  Smith,Completed
+ORD-101915,"Dec 28, 2024",Gadget X,3.0,$87.16,SOUTH,  Charlie Lee  ,Completed
+ORD-100610,2024-10-25,Gadget X,-1.0,,  North  ,Bob Smith,Completed
+ORD-100241,13-06-2024,Gizmo Pro,5.0,256.82,West,Alice Khan,COMPLETED
+ORD-100886,06/12/2024,Gizmo Pro,1.0,23.09,,Bob Smith,Refunded
+ORD-101370,"May 17, 2023",Widget A,2.0,30.2,SOUTH,  Evan Brooks  ,  Pending  
+ORD-100047,"Jun 13, 2024",Gizmo Pro,1.0,343.9,  North  ,,Pending
+ORD-100968,2023-11-17,Sprocket,3.0,42.96,East,Charlie Lee ,
+ORD-100985,12/14/2024,,0.0,$276.26,  North  ,    ,COMPLETED
+ORD-100202,2024/09/16,Gizmo Pro,2.0,$248.57,north,Evan Brooks,Cancelled
+ORD-100676,2024/09/24,Gizmo Pro,1.0,N/A,  South  ,  Alice Khan  ,completed
+ORD-101204,05/10/2023,Gizmo Pro,2.0,11.76,East,Charlie Lee,COMPLETED
+ORD-101126,"Feb 15, 2024",Widget B,,146.8,West,Charlie Lee,Completed
+ORD-100433,"Jul 13, 2024",  Widget B  ,1.0,364.05,SOUTH,Dana White,Completed
+ORD-101076,2023-09-23,Gizmo Pro,,,South,Fiona Grant,
+ORD-100225,2023-07-26,Doohickey,5.0,443.47, East,Bob Smith,Pending
+ORD-101669,11/16/2023,Sprocket,2.0,100.31,West,Alice Khan,Cancelled
+ORD-101722,2024-02-05,Gizmo Pro,2.0,$98.23,East,Fiona Grant,Completed
+ORD-101670,11/22/2024,Thingamajig,1.0,253.87,East,Bob Smith,
+ORD-101332,"Nov 20, 2023",  Widget B  ,1.0,N/A,,Charlie Lee,Completed
+ORD-100419,2023/08/02,Thingamajig,3.0,416.88,East,Dana White,Completed
+ORD-101005,2023/04/27,  Widget A  ,1.0,42.82,SOUTH,Charlie Lee ,Cancelled
+ORD-100833,2023-10-01,Thingamajig,4.0,321.4,  SOUTH  ,Evan Brooks,Pending
+ORD-100803,12/31/2023,,1.0,$64.34,  north  ,Fiona Grant,Completed
+ORD-100591,08/31/2024,widget a,3.0,303.59, East,Dana White,Completed
+ORD-101181,02/25/2023,  Gizmo Pro  ,3.0,60.81,East,Evan Brooks,Completed
+ORD-100756,2024/11/13,Gadget X,2.0,N/A,South,,completed
+ORD-101906,2024/12/24,Thingamajig,2.0,273.65, East,Evan Brooks,Cancelled
+ORD-101100,12/06/2023,Widget A,1.0,,South,,Completed
+ORD-101319,2024-09-01,Widget B,1.0,377.01,South,alice khan,Pending
+ORD-100854,02-11-2024,Widget A,1.0,400.67,,Charlie Lee,Refunded
+ORD-101538,2023/10/10,Gadget Y,3.0,392.42,  East  ,Charlie Lee,Completed
+ORD-100692,06-05-2024,Gizmo Pro,0.0,45.89,East,Bob Smith,  Completed  
+ORD-100966,05-04-2023,  Gizmo Pro  ,2.0,$471.43,West,Alice Khan,Refunded
+ORD-101029,2024-09-08,Doohickey,4.0,143.34,West,Fiona Grant,Completed
+ORD-101895,01/10/2024,Sprocket,1.0,N/A,North,Bob  Smith,completed
+ORD-101165,"Sep 09, 2023",Gizmo Pro,2.0,404.43,north,Bob Smith,Refunded
+ORD-101084,"Oct 15, 2024",  Gizmo Pro  ,0.0,291.17,West,,Completed
+ORD-100138,12/25/2023,Widget A,2.0,9.39,South,Charlie Lee ,Cancelled
+ORD-100801,19-08-2023,Gadget X,2.0,275.57,  West   ,alice khan,completed
+ORD-100111,2024-12-25,,2.0,$489.12,South,Dana White,  Completed  
+ORD-101061,2024-12-05,Widget A,1.0,136.44,,Charlie Lee ,Cancelled
+ORD-101917,2023/08/30,  Gadget Y  ,2.0,$266.06,,Fiona Grant,Pending
+ORD-100769,22-03-2023,Thingamajig,1.0,478.39, East,Charlie Lee,Completed
+ORD-101495,"Feb 01, 2024",Widget A,1.0,481.48,North,Charlie Lee ,Pending
+ORD-101493,2024/08/14,Doohickey,2.0,319.96,West ,Charlie Lee,Completed
+ORD-101375,2023/12/26,Gadget Y,4.0,448.08,West,Charlie Lee,Completed
+ORD-101445,04-07-2024,widget a,4.0,16.5,East,Bob Smith,Pending
+ORD-101065,06/30/2024,Gadget X,1.0,198.54,South,Fiona Grant,  Pending  
+ORD-101817,09-02-2024,Gadget X,2.0,403.28,East,Dana White,  Completed  
+ORD-101894,05/05/2023,Gadget Y,1.0,270.3,  SOUTH  ,Bob  Smith,
+ORD-100325,2024/02/14,Thingamajig,3.0,363.68,East,Fiona Grant,Completed
+ORD-101453,13-08-2024,  Thingamajig  ,5.0,,  north  ,Evan Brooks,  Completed  
+ORD-101040,15-01-2024,Widget B,3.0,409.34,South,Charlie Lee,  Completed  
+ORD-100164,2023/09/30,Widget B,2.0,171.83,West ,Dana White,Completed
+ORD-101886,"Jun 28, 2024",Widget A,1.0,425.57,West,Alice Khan,Pending
+ORD-101731,04-06-2024,Widget B,3.0,333.25,  South  ,  Evan Brooks  ,completed
+ORD-100797,17-10-2023,Widget A,1.0,373.18,West,Dana White,Completed
+ORD-101466,2023-12-09,,2.0,$135.6,SOUTH,Bob Smith,Refunded
+ORD-101131,"Feb 09, 2023",Gadget X,3.0,102.34,  SOUTH  ,Bob Smith,Completed
+ORD-101371,2024-02-23,GADGET X,3.0,66.62,  north  ,Dana White,Cancelled
+ORD-101127,"May 15, 2024",Widget A,4.0,295.49,  South  ,Alice Khan,Refunded
+ORD-100338,01/23/2023,Widget A,2.0,$349.87,,Dana White,Refunded
+ORD-100406,"Mar 10, 2023",Gadget Y,5.0,240.26, East,Alice Khan,Completed
+ORD-100737,26-10-2024,Widget A,3.0,183.02,South,Dana White,Completed
+ORD-100951,"Sep 17, 2024",Widget B,2.0,473.95,,Fiona Grant,Cancelled
+ORD-100964,09-12-2023,Widget B,1.0,219.98,North,Bob  Smith,Cancelled
+ORD-100250,2024/07/31,Sprocket,2.0,321.57,South,Alice Khan,COMPLETED
+ORD-100231,"Mar 11, 2024",Widget B,2.0,405.81,   East  ,Bob Smith,Completed
+ORD-100784,2024-10-08,Gizmo Pro,0.0,163.97, East,  Alice Khan  ,  Completed  
+ORD-100219,2023/05/24,Thingamajig,2.0,421.57,  North  ,  Charlie Lee  ,Cancelled
+ORD-100885,2023-10-19,Widget A,3.0,330.91,,Bob Smith,Completed
+,,,,,,,
+ORD-101678,"Nov 18, 2024",  Widget B  ,1.0,14.21,East,Bob Smith,completed
+ORD-101746,15-02-2023,Thingamajig,2.0,407.69,North,Alice Khan,Cancelled
+ORD-100849,2023/12/16,Doohickey,3.0,325.57,East,Dana White,Completed
+ORD-101087,2024/12/16,Widget B,0.0,$444.55, East,  Bob Smith  ,COMPLETED
+ORD-101668,12/14/2023,Widget A,2.0,494.56,West ,Evan Brooks,Pending
+ORD-101918,18-07-2024,Sprocket,2.0,405.46, East,Bob Smith,Cancelled
+ORD-101347,2023/04/11,Gadget Y,4.0,46.13,East,Evan Brooks,Refunded
+ORD-101920,2023-02-27,Gadget X,1.0,239.57,north,Charlie Lee ,COMPLETED
+ORD-100793,2024/07/04,,4.0,365.29,North,Charlie Lee ,Pending
+ORD-100811,2023-10-01,  Widget A  ,3.0,294.17,north,Evan Brooks,Cancelled
+ORD-101726,2024/09/23,Gizmo Pro,1.0,376.22,North,Fiona Grant,completed
+ORD-100014,12/27/2024,Widget B,1.0,$146.03, East,alice khan,Completed
+ORD-101256,2023/10/15,Gadget X,2.0,466.37,north,Charlie Lee,completed
+ORD-101299,2024/11/11,Thingamajig,2.0,289.67,,Alice Khan,Completed
+ORD-101028,09/29/2023,  Doohickey  ,4.0,418.3,,Dana White,Completed
+ORD-100072,15-04-2024,Widget A,,$92.43,,Bob Smith,Completed
+ORD-101576,"May 04, 2024",Widget A,5.0,478.56, East,,Pending
+ORD-101934,2024/07/23,Sprocket,2.0,324.0,,Fiona Grant,Pending
+ORD-101864,2024-10-27,Widget A,2.0,221.56,South,Fiona Grant,Cancelled
+ORD-100645,05/10/2024,Gadget X,,421.65, East,Bob Smith,Completed
+ORD-100863,04/13/2023,  Widget B  ,5.0,255.64,North,Bob Smith,Cancelled
+ORD-100077,2024-02-25,Gadget X,4.0,68.3,East,Alice Khan,COMPLETED
+ORD-101779,2023-12-15,Gizmo Pro,3.0,262.24,West ,Dana White,Cancelled
+ORD-100421,2023-04-28,Sprocket,2.0,$282.01, East,Bob  Smith,Pending
+ORD-100135,2024/11/21,Gizmo Pro,1.0,362.53,North,Bob  Smith,completed
+ORD-100505,21-11-2023,  Thingamajig  ,3.0,245.72,South,Fiona Grant,  Refunded  
+ORD-100389,06/09/2024,Gadget Y,0.0,75.62, East,Bob Smith,Cancelled
+ORD-100297,2023-03-30,Gizmo Pro,4.0,499.8,West ,Charlie Lee ,Pending
+ORD-100019,07/29/2023,Sprocket,1.0,215.99,East,Dana White,Refunded
+ORD-100796,03-07-2023,Gadget X,2.0,248.96,North,  Alice Khan  ,Completed
+ORD-101133,2023/03/21,Gadget X,1.0,328.09,  West  ,  Dana White  ,Pending
+ORD-101367,15-01-2023,Widget A,,$341.58,East,Bob Smith,  Cancelled  
+ORD-101203,13-12-2024,Sprocket,2.0,28.26,north,  Bob Smith  ,Completed
+ORD-100929,23-05-2023,Gizmo Pro,-1.0,418.45, East,Dana White,Completed
+ORD-101227,2023/09/09,Gizmo Pro,2.0,333.55,north,  Dana White  ,  Completed  
+ORD-101063,2023/10/06,Thingamajig,2.0,241.73, East,Bob  Smith,Cancelled
+ORD-101205,05-05-2024,Sprocket,1.0,247.09, East,Bob Smith,
+ORD-101202,2023/07/13,Gizmo Pro,2.0,$397.27,North,alice khan,
+ORD-100448,2024-05-25,Widget A,2.0,185.05,South,Dana White,
+ORD-100038,01/01/2024,Thingamajig,3.0,121.09,West ,Evan Brooks,
+ORD-101333,14-04-2024,Gadget X,,11.97,north,Bob Smith,Completed
+ORD-101637,18-02-2023,Gadget X,2.0,204.0,,,Completed
+ORD-101093,2023/06/27,Widget A,1.0,261.05,West ,  Fiona Grant  ,Cancelled
+ORD-101400,2024/07/19,  Gizmo Pro  ,1.0,479.45,West ,Charlie Lee ,Pending
+ORD-101012,2023-03-13,Widget A,2.0,203.82,South,Fiona Grant,completed
+ORD-101664,2023/04/09,  Widget A  ,,133.59,South,,COMPLETED
+ORD-101389,2024-11-23,Sprocket,1.0,200.43,SOUTH,alice khan,Refunded
+ORD-101605,02-05-2024,Widget A,1.0,490.76,North,Evan Brooks,Cancelled
+ORD-100586,2024-07-29,Widget A,3.0,235.9,North,Charlie Lee,Completed
+ORD-101142,"Oct 07, 2024",Doohickey,1.0,161.28,West ,Charlie Lee ,Completed
+ORD-101121,12/02/2023,Doohickey,1.0,-127.87, East,Fiona Grant,Completed
+ORD-100458,29-05-2024,Widget A,5.0,497.29,north,Fiona Grant,
+ORD-101321,2023/06/09,Widget B,3.0,,,Evan Brooks,Pending
+ORD-101776,2023-04-12,Widget B,0.0,$251.58,South,Alice Khan,completed
+ORD-100787,2023-09-08,Widget B,5.0,121.0,South,Bob Smith,Pending
+ORD-100746,2023-05-18,Gadget Y,-1.0,261.82, East,Evan Brooks,Completed
+ORD-101645,"Nov 28, 2023",Gadget Y,2.0,31.79,north,alice khan,Pending
+ORD-100229,2024/04/10,Gadget X,2.0,265.76,East,  Charlie Lee  ,COMPLETED
+ORD-100930,2023-08-24,  Gizmo Pro  ,2.0,263.28,West,Dana White,COMPLETED
+ORD-100436,12/03/2023,Widget A,4.0,323.58,SOUTH,Bob Smith,Completed
+ORD-101825,"Nov 08, 2023",Widget B,2.0,316.5,,Evan Brooks,Refunded
+ORD-101661,03/31/2023,Gadget X,3.0,280.71,North,Evan Brooks,Cancelled
+ORD-100876,"Aug 26, 2024",Widget A,1.0,186.46,north,Dana White,
+ORD-100196,"Sep 03, 2023",Gadget Y,2.0,145.11,West,Alice Khan,Refunded
+ORD-100394,2023/10/07,Thingamajig,0.0,233.75,North,Charlie Lee,Completed
+ORD-101330,2023/12/07,Widget A,3.0,11.3,South,Bob  Smith,Completed
+ORD-101033,23-10-2024,Gadget X,1.0,220.93,East,Bob Smith,Completed
+ORD-100124,03/11/2024,Gadget X,2.0,39.93,South,Bob  Smith,Completed
+ORD-101198,"Jun 20, 2024",,,193.19,SOUTH,Evan Brooks,COMPLETED
+ORD-101382,"Oct 03, 2024",Gadget X,2.0,$320.03,SOUTH,Charlie Lee,Completed
+ORD-100268,"Sep 01, 2024",Gizmo Pro,2.0,364.69,north,Charlie Lee ,
+ORD-101218,2023/08/29,Sprocket,1.0,$381.46,West ,Fiona Grant,COMPLETED
+ORD-100598,08/11/2024,Sprocket,3.0,187.99,South,  Evan Brooks  ,Completed
+ORD-100815,27-12-2024,Widget A,1.0,191.36,East,Charlie Lee,  Completed  
+ORD-101013,2024-08-31,Widget A,5.0,488.96,West,Bob Smith,Completed
+ORD-101044,02-03-2024,Widget A,1.0,31.63,SOUTH,Charlie Lee ,Cancelled
+ORD-101163,"Aug 11, 2024",Thingamajig,3.0,69.21,West,Alice Khan,Pending
+ORD-100495,2024-11-02,Sprocket,3.0,88.78,SOUTH,Bob Smith,Completed
+ORD-100388,2024-05-18,Gadget Y,1.0,169.74,  north  ,Bob Smith,Pending
+ORD-101790,08/05/2023,Gadget Y,3.0,184.3,South,Evan Brooks,Cancelled
+ORD-101719,2024/06/16,Gadget X,1.0,11.12,,Dana White,Completed
+ORD-101018,14-02-2024,Gadget Y,1.0,205.7,,Alice Khan,Cancelled
+ORD-101905,2023-07-15,Gadget Y,1.0,338.47,South,Evan Brooks,Completed
+ORD-100931,10/31/2023,widget a,4.0,230.61,,Charlie Lee ,Completed
+ORD-101873,30-06-2023,Widget A,2.0,271.01,SOUTH,alice khan,  Completed  
+ORD-100218,2023/09/09,Widget A,3.0,$254.99,,Bob Smith,Completed
+ORD-101317,2024/03/01,Gadget Y,4.0,45.8,West ,,Completed
+ORD-100664,2024-07-11,Gizmo Pro,1.0,254.16,North,Dana White,Completed
+ORD-101276,08-05-2024,,3.0,420.55,East,  Charlie Lee  ,Completed
+ORD-101114,14-07-2024,  Gizmo Pro  ,2.0,280.99,East,Dana White,Completed
+ORD-101292,09-02-2024,Gadget Y,3.0,217.03,West ,Fiona Grant,Completed
+ORD-101698,2023/10/09,Widget A,2.0,229.13, East,Charlie Lee ,Completed
+ORD-100675,2024-04-27,  Gadget Y  ,5.0,371.31,North,,Cancelled
+ORD-101692,02/04/2024,Sprocket,5.0,272.69,South,Alice Khan,Completed
+ORD-100194,2024/09/06,  Thingamajig  ,3.0,-135.23,North,Fiona Grant,Completed
+ORD-100026,"Mar 10, 2024",Sprocket,1.0,195.43, East,Charlie Lee,Refunded
+ORD-100908,09/10/2023,Gadget Y,3.0,322.22,SOUTH,Charlie Lee,Completed
+ORD-100057,2024/07/28,  Doohickey  ,3.0,85.82, East,Charlie Lee ,Refunded
+ORD-101278,2023/03/12,Widget B,2.0,387.9,North,Bob Smith,
+ORD-100890,05/01/2023,Widget B,2.0,18.04,West,Charlie Lee,Pending
+ORD-100170,2024/09/29,Doohickey,1.0,$14.6,East,Evan Brooks,COMPLETED
+ORD-100016,04/09/2023,  Doohickey  ,3.0,26.79,North,Charlie Lee ,Completed
+ORD-100211,01/09/2023,Thingamajig,1.0,403.52,  North  ,Dana White,Refunded
+ORD-100843,"Jan 31, 2023",Gadget Y,1.0,148.84,  West   ,Fiona Grant,Cancelled
+ORD-101303,02-07-2024,Gizmo Pro,2.0,,,alice khan,  Completed  
+ORD-101000,2023-04-23,Thingamajig,1.0,$324.02,  East  ,Fiona Grant,
+ORD-100962,26-10-2024,Widget A,2.0,484.38,  East  ,  Bob  Smith  ,  Completed  
+ORD-100623,05/29/2023,Gadget X,3.0,30.4,West,Bob Smith,Refunded
+ORD-101871,03/19/2024,Widget B,3.0,333.54,East,Fiona Grant,Completed
+ORD-101245,"Mar 03, 2024",Doohickey,1.0,424.41,,Bob  Smith,COMPLETED
+ORD-100070,2023-08-12,Thingamajig,1.0,$219.91,north,  Charlie Lee   ,Completed
+ORD-101475,"Jun 02, 2023",Thingamajig,2.0,$308.39,  East  ,,Cancelled
+ORD-101509,2024-12-06,Gadget X,1.0,196.35,SOUTH,Bob  Smith,Completed
+ORD-100489,10/27/2024,Sprocket,2.0,314.9,East,Dana White,  Completed  
+ORD-101538,2024/08/25,Widget B,1.0,141.21,North,Alice Khan,Completed
+ORD-100504,2023/03/13,Gadget X,3.0,328.99,SOUTH,Fiona Grant,completed
+ORD-101616,2024-04-26,Widget B,3.0,293.87,West,Charlie Lee ,Cancelled
+ORD-100554,2024-04-28,Widget A,2.0,446.88,  South  ,  Alice Khan  ,Completed
+ORD-101650,28-03-2023,Sprocket,1.0,79.56, East,  Fiona Grant  ,Pending
+ORD-100928,"Sep 20, 2024",Gadget Y,3.0,83.4,,alice khan,Completed
+ORD-101848,11-09-2024,GADGET X,3.0,283.99,West,Evan Brooks,Completed
+ORD-101149,05/15/2024,Widget B,2.0,$27.36,East,Dana White,Pending
+ORD-100625,"May 07, 2024",Sprocket,3.0,125.36,north,  Dana White  ,
+ORD-100377,2024-10-04,Widget B,2.0,484.94,North,Evan Brooks,
+ORD-101413,2023/12/18,widget a,2.0,262.95,South,Evan Brooks,Completed
+ORD-101302,2023-10-22,Doohickey,3.0,403.12,East,Charlie Lee ,Completed
+ORD-101455,2023-01-16,Thingamajig,1.0,277.05,West,Dana White,Cancelled
+ORD-101837,01-05-2024,Thingamajig,1.0,15.02,West,Evan Brooks,Completed
+ORD-100751,"Jul 11, 2024",Widget A,4.0,$256.27,SOUTH,Fiona Grant,Completed
+ORD-100096,2024-03-17,GADGET X,4.0,388.22,West ,Evan Brooks,completed
+ORD-100049,"Apr 19, 2023",  Gadget X  ,-1.0,393.94,North,,completed
+ORD-101173,"Dec 18, 2023",Doohickey,4.0,237.09,South,Alice Khan,completed
+ORD-101223,"Sep 30, 2024",Sprocket,1.0,487.67,North,,Completed
+ORD-101533,2023-09-10,Doohickey,,-81.34,north,Bob Smith,Pending
+ORD-101600,01-09-2024,Gizmo Pro,1.0,364.92,South,Alice Khan,Cancelled
+ORD-101696,2023-01-03,Gizmo Pro,3.0,$11.08,East,  Bob  Smith  ,  COMPLETED  
+ORD-101736,2024-02-10,Gadget X,1.0,286.71,north,  Evan Brooks  ,Pending
+ORD-101745,"Mar 18, 2024",  Widget B  ,4.0,162.47,North,Bob  Smith,Completed
+ORD-100510,2023-12-30,  Thingamajig  ,2.0,280.73, East,,Completed
+ORD-100469,2023-12-10,Thingamajig,3.0,232.12,North,Charlie Lee,Completed
+ORD-101591,16-03-2024,Gizmo Pro,5.0,$290.13,North,,Cancelled
+ORD-101524,2023/06/07,Gadget X,1.0,41.61,north,Fiona Grant,Completed
+ORD-100538,18-04-2023,Widget B,3.0,287.22,  East  ,Bob  Smith,Cancelled
+ORD-101611,2024-03-31,Gadget X,1.0,407.33,  South  ,,Completed
+ORD-101244,08/15/2023,Gadget Y,2.0,,East,alice khan,Completed
+ORD-100821,2023/07/12,Gadget X,2.0,388.32,SOUTH,Bob Smith,Cancelled
+ORD-100472,13-02-2023,,2.0,155.44,North,Bob Smith,Completed
+ORD-101841,"Nov 05, 2023",Widget B,1.0,-383.81,SOUTH,Charlie Lee,Cancelled
+ORD-101603,2024/01/19,Doohickey,5.0,93.6,West,Evan Brooks,completed
+ORD-100509,19-06-2024,Thingamajig,1.0,257.74,West,Alice Khan,COMPLETED
+ORD-100125,17-07-2024,Widget A,1.0,N/A,West,Evan Brooks,Completed
+ORD-100913,05/14/2024,Widget B,4.0,266.51,SOUTH,Charlie Lee ,
+ORD-100757,2024-04-09,,1.0,30.97,South,  Alice Khan  ,completed
+ORD-101055,"Feb 17, 2024",Widget A,4.0,390.52,South,Dana White,Completed
+ORD-101604,05/17/2023,Gadget X,,N/A,  north  ,Bob  Smith,completed
+ORD-101066,"May 11, 2023",  Thingamajig  ,1.0,284.96,,Dana White,Refunded
+ORD-101446,2024/05/25,Gizmo Pro,1.0,490.43,SOUTH,,Completed
+ORD-101424,18-08-2023,Widget A,1.0,458.35,North,Fiona Grant,Completed
+ORD-101143,2024-04-28,Thingamajig,2.0,$94.09,West,    ,Pending
+ORD-101188,"Mar 27, 2024",Thingamajig,2.0,215.45,north,alice khan,Refunded
+ORD-101913,2023-12-08,Sprocket,2.0,$462.73,  North  ,Fiona Grant,  completed  
+ORD-101744,06/03/2024,Gizmo Pro,3.0,192.43,SOUTH,Evan Brooks,Pending
+ORD-101381,2023-08-15,GADGET X,2.0,341.87,SOUTH,Bob Smith,Completed
+ORD-100375,2024-12-31,GADGET X,1.0,107.69,West,Alice Khan,Pending
+ORD-101326,2023-01-04,Thingamajig,2.0,234.19,North,  Charlie Lee  ,Completed
+ORD-101684,2023/01/08,Gadget X,1.0,376.09,West ,Evan Brooks,COMPLETED
+ORD-101387,2024-08-23,GADGET X,1.0,132.62,West ,,Cancelled
+ORD-101657,"Jun 26, 2024",Sprocket,2.0,219.61,SOUTH,Bob Smith,Pending
+ORD-101559,2024/01/27,Widget A,1.0,34.73,North,Dana White,Completed
+ORD-100761,10/25/2023,Gizmo Pro,3.0,257.65,,Dana White,Completed
+ORD-101444,2023/11/08,Gadget Y,5.0,$59.67,,Charlie Lee,Completed
+ORD-101792,29-10-2023,Doohickey,1.0,349.05,North,Alice Khan,Completed
+ORD-101247,2023-04-06,Widget A,0.0,,north,Charlie Lee ,Completed
+ORD-100736,"Dec 06, 2023",Widget A,1.0,69.59,South,  Charlie Lee  ,Refunded
+ORD-101716,08-07-2023,Gadget X,2.0,$331.94,north,  Bob Smith  ,Completed
+ORD-101007,"Oct 01, 2023",Thingamajig,1.0,$142.19,North,,  COMPLETED  
+ORD-100848,2023-12-19,Gizmo Pro,1.0,450.6,,Dana White,  completed  
+ORD-100100,2024-04-19,Sprocket,2.0,422.56,East,    ,  Completed  
+ORD-101641,2023/01/06,Gadget Y,1.0,45.5,North,Dana White,Cancelled
+ORD-101447,2023-11-17,Widget A,1.0,62.89,East,Fiona Grant,Cancelled
+ORD-101213,2023-10-15,widget a,2.0,238.48,South,Fiona Grant,  Completed  
+ORD-100841,01/22/2024,Widget B,,56.98,South,Evan Brooks,Completed
+ORD-100608,2024-10-09,Widget A,2.0,$411.27,SOUTH,Dana White,Completed
+ORD-100343,2023/07/28,Gizmo Pro,1.0,147.09, East,Dana White,Completed
+ORD-101858,"Jul 18, 2023",Thingamajig,1.0,256.9,north,Alice Khan,Refunded
+ORD-101200,2023-06-30,Sprocket,1.0,$245.49,South,Evan Brooks,COMPLETED
+ORD-101308,21-10-2023,,2.0,139.19,South,Evan Brooks,Refunded
+ORD-100521,2024-10-28,Widget A,1.0,446.82,North,Bob Smith,
+ORD-100914,2024/03/09,Widget B,5.0,21.12,,Dana White,Completed
+ORD-101238,2024/02/24,widget a,2.0,$107.65,  North  ,Fiona Grant,  Completed  
+ORD-100101,22-10-2024,Widget A,1.0,220.16,West,Evan Brooks,Completed
+ORD-100948,2023-09-14,  Sprocket  ,3.0,292.39, East,Alice Khan,Cancelled
+ORD-100783,"Apr 23, 2024",Gadget Y,1.0,426.74,north,Dana White,Completed
+ORD-101900,05/13/2023,Widget B,3.0,$304.85,West,Bob Smith,Pending
+ORD-101309,2024-02-13,Gadget X,2.0,460.5,north,Evan Brooks,Completed
+ORD-101747,2024-07-02,Sprocket,4.0,135.36,South,Bob  Smith,COMPLETED
+ORD-100789,2024-09-25,Doohickey,1.0,294.88,West,Fiona Grant,Completed
+ORD-100249,2023/11/23,Widget A,0.0,155.16,South,Bob  Smith,COMPLETED
+ORD-100303,10/11/2023,Thingamajig,4.0,-40.32,North,  Evan Brooks  ,completed
+ORD-101741,07-11-2024,  Doohickey  ,2.0,303.3,North,Bob  Smith,  Completed  
+ORD-101797,2024-11-29,Gadget X,1.0,70.5, East,,
+ORD-101335,"Nov 06, 2023",  Widget A  ,1.0,328.13,,  alice khan  ,Completed
+ORD-100998,2024/05/31,Gadget Y,1.0,296.74,SOUTH,Evan Brooks,Completed
+ORD-101023,2024-11-01,Gizmo Pro,1.0,47.99,  East  ,alice khan,Completed
+ORD-100483,14-10-2024,Widget A,2.0,$98.03, East,,COMPLETED
+ORD-100997,01-11-2024,Gizmo Pro,1.0,,East,Charlie Lee ,
+ORD-100289,"Jan 26, 2023",Gizmo Pro,2.0,197.44,  SOUTH  ,Fiona Grant,Completed
+ORD-100059,04/24/2024,Widget B,1.0,-356.58,SOUTH,Alice Khan,Completed
+ORD-101058,02-05-2023,Sprocket,1.0,,SOUTH,Dana White,Completed
+ORD-100972,21-07-2024,widget a,3.0,,SOUTH,Dana White,Completed
+ORD-101294,2023/03/22,Gadget X,1.0,$288.65, East,Fiona Grant,Completed
+ORD-100795,2023/12/20,Gadget X,5.0,$444.15,East,Charlie Lee,Refunded
+ORD-100688,"May 16, 2023",Widget B,4.0,,West ,Charlie Lee ,completed
+ORD-100782,2024/12/21,Widget A,1.0,436.42,North,,COMPLETED
+ORD-100097,28-11-2024,GADGET X,3.0,100.17,South,Fiona Grant,Completed
+ORD-100068,12/27/2024,Widget A,2.0,470.75,West,Fiona Grant,
+ORD-100424,02/10/2023,Gadget Y,1.0,155.94,West,Charlie Lee,Cancelled
+ORD-100010,14-08-2024,  Sprocket  ,5.0,$190.71,South,Alice Khan,Cancelled
+ORD-101237,02/04/2023,Doohickey,1.0,386.64, East,,
+ORD-101671,09/12/2023,Thingamajig,1.0,5.69,East,Charlie Lee,Completed
+ORD-100660,2023/08/27,Doohickey,-1.0,142.87,North,Bob Smith,COMPLETED
+ORD-100718,2024/10/20,Widget A,1.0,162.77,SOUTH,Bob  Smith,Completed
+ORD-101499,10-07-2024,Gizmo Pro,2.0,,South,Bob Smith,Completed
+ORD-100181,"Oct 03, 2023",Sprocket,1.0,N/A,North,Charlie Lee,Cancelled
+ORD-101242,17-07-2024,Gizmo Pro,3.0,380.88,North,Bob  Smith,COMPLETED
+ORD-100296,23-09-2024,Widget B,,256.12,  North  ,,completed
+ORD-101437,"Jul 18, 2023",Gizmo Pro,1.0,364.52,South,Alice Khan,Refunded
+ORD-100413,"Feb 27, 2023",Thingamajig,4.0,363.86,East,Charlie Lee ,completed
+ORD-101254,2023/07/16,Widget B,2.0,119.89,East,Fiona Grant,Completed
+ORD-100363,26-06-2024,Thingamajig,3.0,326.53,north,Bob Smith,Completed
+ORD-100278,28-01-2023,Widget B,1.0,$67.78,,Alice Khan,Refunded
+ORD-100638,"Oct 14, 2023",Thingamajig,5.0,96.5,,alice khan,Completed
+ORD-100258,05/24/2023,Doohickey,-1.0,368.57,East,Evan Brooks,Completed
+ORD-101522,2024/01/19,Thingamajig,2.0,80.08,north,Alice Khan,Completed
+ORD-100385,2024/06/16,Gadget Y,1.0,189.38,  North  ,Charlie Lee,Refunded
+ORD-100529,"Sep 05, 2023",Widget B,1.0,54.06,North,Fiona Grant,Completed
+ORD-100091,"Sep 15, 2024",  Gadget X  ,1.0,389.21,SOUTH,Dana White,Pending
+ORD-100567,2024/05/11,Doohickey,2.0,,South,Dana White,COMPLETED
+ORD-101677,2024/10/22,Widget B,2.0,238.52,north,  Bob Smith  ,Completed
+ORD-101699,09/08/2023,Doohickey,2.0,$159.49,,Alice Khan,completed
+ORD-100299,"Feb 08, 2023",  Gadget X  ,2.0,$189.69,  North  ,Charlie Lee,
+ORD-101106,02-03-2024,Gadget Y,2.0,363.43,East,Fiona Grant,
+ORD-101552,"Sep 09, 2023",Gadget X,1.0,$492.0,north,Bob Smith,Completed
+ORD-101938,08/31/2024,Gadget X,1.0,,  West  ,Charlie Lee,Cancelled
+ORD-100684,"May 05, 2024",Widget B,1.0,255.77,  north  ,Fiona Grant,completed
+ORD-100206,12/02/2023,Sprocket,2.0,365.23,East,Fiona Grant,Completed
+ORD-100396,"Feb 05, 2023",  Doohickey  ,4.0,260.82,SOUTH,Dana White,Completed
+ORD-100947,07/04/2024,Gadget X,1.0,351.87,north,Charlie Lee ,Completed
+ORD-100071,"Aug 30, 2023",Widget B,1.0,35.69,East,alice khan,  Completed  
+ORD-100000,25-12-2024,Sprocket,2.0,66.27,   East  ,Bob  Smith,Completed
+ORD-101703,2023-10-16,Gadget Y,2.0,443.2,East,Dana White,Completed
+ORD-101874,30-12-2023,Widget A,4.0,$190.08,East,Dana White,Completed
+ORD-101833,05/13/2023,Widget B,1.0,105.03,North,Evan Brooks,Completed
+ORD-100307,05/17/2024,Widget A,1.0,N/A, East,Evan Brooks,Completed
+ORD-100336,08/03/2024,Sprocket,2.0,165.22,East,,Cancelled
+ORD-101570,"Feb 06, 2023",Sprocket,3.0,358.44,South,Evan Brooks,completed
+ORD-101031,08-10-2023,Gadget Y,3.0,287.23,north,Fiona Grant,completed
+ORD-100741,03/28/2024,GADGET X,1.0,485.98,  West   ,alice khan,  Pending  
+ORD-101762,"Dec 27, 2023",  Widget B  ,1.0,287.47,North,Dana White,Cancelled
+ORD-100743,"Dec 04, 2024",,1.0,76.04,,Dana White,COMPLETED
+ORD-100434,2024-07-04,Gizmo Pro,1.0,53.85, East,Fiona Grant,Cancelled
+ORD-100503,23-09-2024,  Gadget X  ,3.0,199.08,,,Pending
+ORD-100806,2024/12/01,Widget B,2.0,-237.1,East,alice khan,Completed
+ORD-101809,"Jan 23, 2023",Gadget Y,3.0,214.11,West,Dana White,Cancelled
+ORD-101150,2023/09/10,  Gizmo Pro  ,1.0,$101.8,South,Alice Khan,Completed
+ORD-100440,10-06-2024,Widget B,2.0,159.35,   East  ,Bob Smith,completed
+ORD-100981,2024-01-04,Gadget Y,2.0,,South,Fiona Grant,Completed
+ORD-101487,2023/05/26,,3.0,132.68, East,Dana White,Completed
+ORD-100044,"Dec 07, 2024",  Gadget Y  ,2.0,52.21,SOUTH,Fiona Grant,
+ORD-100451,14-08-2023,Widget B,2.0,89.66,West,Bob  Smith,Completed
+ORD-101548,"Aug 27, 2023",  Gadget X  ,2.0,494.25,West,Evan Brooks,Completed
+ORD-100471,11/29/2024,GADGET X,1.0,383.37,West,Bob Smith,COMPLETED
+ORD-100284,02/28/2024,Widget A,1.0,276.23,West,Fiona Grant,
+ORD-100205,2024-11-24,widget a,,200.24,West,Dana White,Cancelled
+ORD-101932,2024-05-02,Gadget X,3.0,23.95,North,Dana White,Completed
+ORD-100898,09/23/2023,Widget A,2.0,122.38,West ,alice khan,Completed
+ORD-101835,"Sep 19, 2024",Doohickey,4.0,$454.0,East,Fiona Grant,Cancelled
+ORD-100590,2023/10/26,Widget B,,226.34,,Bob Smith,completed
+ORD-101566,03/14/2024,,3.0,, East,Fiona Grant,Completed
+ORD-101224,"Apr 28, 2023",Gadget X,1.0,$166.06,West,alice khan,COMPLETED
+ORD-100099,2023-06-15,Doohickey,0.0,203.28,West ,Evan Brooks,completed
+ORD-101108,"Mar 30, 2023",Widget A,2.0,187.62, East,Bob Smith,Refunded
+ORD-100744,2024/06/28,Gizmo Pro,4.0,265.47,West ,  Alice Khan  ,Completed
+ORD-100177,04/15/2023,Doohickey,2.0,N/A, East,Charlie Lee,Refunded
+ORD-101923,01-01-2024,Doohickey,-1.0,252.61,  East  ,Bob Smith,completed
+ORD-100837,2024/10/26,Thingamajig,,193.45,West,Charlie Lee ,Completed
+ORD-100081,2023-04-02,Thingamajig,1.0,389.46,West ,,completed
+ORD-100140,2023-09-30,Gadget Y,1.0,$395.66,West,Evan Brooks,Pending
+ORD-101856,09/08/2024,Doohickey,4.0,$164.0,South,Fiona Grant,  Cancelled  
+ORD-101098,2024-02-14,Widget A,2.0,160.02,West ,Charlie Lee,Completed
+ORD-101714,30-08-2023,Thingamajig,1.0,445.67,north,  Fiona Grant  ,Refunded
+ORD-101774,02-10-2023,Widget A,2.0,476.85,north,Charlie Lee ,  Pending  
+ORD-100365,"Feb 28, 2024",Sprocket,4.0,170.07,South,Charlie Lee,COMPLETED
+ORD-101293,07/31/2023,Widget B,3.0,287.19,South,Evan Brooks,Completed
+ORD-101435,2024-07-24,  Gizmo Pro  ,,N/A,West ,Alice Khan,Completed
+ORD-100654,"Apr 05, 2024",Thingamajig,4.0,173.96,North,Dana White,Pending
+ORD-100429,"Apr 15, 2024",Widget A,2.0,75.21,East,Bob Smith,Completed
+ORD-101088,2024/12/30,Gadget X,1.0,153.14,SOUTH,  Dana White  ,Completed
+ORD-101167,2024/08/03,Doohickey,1.0,272.58,West ,Dana White,Pending
+ORD-101006,06-12-2024,Doohickey,2.0,443.18,South,,Completed
+ORD-101472,2023/08/04,Widget B,3.0,166.09,South,Charlie Lee ,Pending
+ORD-101434,"Jun 27, 2023",Gizmo Pro,2.0,147.97,North,,Cancelled
+ORD-100542,04/26/2024,Sprocket,3.0,$163.49,north,  Charlie Lee  ,Pending
+ORD-100634,01/24/2023,Gadget Y,-1.0,332.7,East,Dana White,Completed
+ORD-100184,2023-06-24,Gadget X,1.0,,South,Bob Smith,Cancelled
+ORD-100986,"Jun 07, 2024",Gadget X,1.0,192.45,  East  ,Fiona Grant,Refunded
+ORD-101362,2024/01/16,Thingamajig,-1.0,154.8,East,Bob  Smith,completed
+ORD-100032,"Apr 04, 2023",Sprocket,5.0,320.58,South,alice khan,Completed
+ORD-101806,25-10-2023,Gadget Y,,357.35,,Bob  Smith,Completed
+ORD-101888,"Jul 27, 2023",Sprocket,1.0,232.18,South,  Bob  Smith  ,  Cancelled  
+ORD-101924,14-05-2024,Gadget Y,2.0,92.53,West,Evan Brooks,Pending
+ORD-101392,2023-02-23,Gizmo Pro,2.0,$360.09,  SOUTH  ,Bob Smith,Completed
+ORD-101388,07/14/2023,Widget A,1.0,,North,  Evan Brooks  ,Pending
+ORD-100687,07/11/2023,Gizmo Pro,1.0,374.78,North,Bob  Smith,Cancelled
+ORD-100442,2024-12-08,Widget B,2.0,366.99,  North  ,,  Refunded  
+ORD-101386,"Sep 24, 2023",Gizmo Pro,5.0,272.14,north,Bob Smith,completed
+ORD-100535,08/28/2024,Widget B,2.0,449.63,East,Alice Khan,Pending
+ORD-101727,2024/11/25,Thingamajig,1.0,192.98,,Bob Smith,Completed
+ORD-100923,2024/11/21,Doohickey,1.0,201.2,East,Charlie Lee,Completed
+ORD-100641,10/22/2024,Thingamajig,0.0,$396.78,SOUTH,Dana White,
+ORD-100178,"Apr 05, 2024",Widget B,3.0,455.61, East,Fiona Grant,  Pending  
+ORD-100497,23-08-2023,Doohickey,1.0,48.04,West,  alice khan  ,Pending
+ORD-101845,10-07-2024,Thingamajig,2.0,379.61,North,Charlie Lee,Completed
+ORD-101564,2024-02-02,Gadget X,1.0,497.4,West ,Charlie Lee,completed
+ORD-101315,2023/12/08,Widget A,2.0,78.73,North,Alice Khan,Cancelled
+ORD-100548,2023/05/09,GADGET X,1.0,$291.3,West,Charlie Lee,COMPLETED
+ORD-100798,2023-12-24,Widget B,2.0,145.64,West,Fiona Grant,Completed
+ORD-101113,2023-12-13,,1.0,N/A,SOUTH,Alice Khan,Pending
+ORD-100112,"Nov 03, 2023",,1.0,357.38,North,  Dana White  ,  Refunded  
+ORD-100984,2023/05/26,Widget B,-1.0,228.59,East,Charlie Lee,Completed
+ORD-100185,2024-10-27,Gizmo Pro,0.0,268.71,North,Bob Smith,Pending
+ORD-100131,09/24/2024,Widget B,3.0,97.5,West,Bob  Smith,Cancelled
+ORD-100332,14-01-2024,widget a,1.0,470.88,South,Fiona Grant,Cancelled
+ORD-100080,"Feb 11, 2024",Thingamajig,2.0,46.21,North,Alice Khan,Completed
+ORD-101102,10/07/2023,Gadget X,1.0,164.21,West,Bob  Smith,
+ORD-100216,"Jul 06, 2024",Gadget X,1.0,283.32,West,Charlie Lee,Completed
+ORD-101373,07/25/2024,Sprocket,3.0,238.04,,alice khan,Refunded
+ORD-101428,2024/06/01,Doohickey,-1.0,$66.32,North,  Dana White  ,Refunded
+ORD-101542,2023-03-24,,3.0,,East,  Evan Brooks  ,
+ORD-100496,"Aug 11, 2023",Sprocket,3.0,229.6,SOUTH,alice khan,Pending
+ORD-100451,14-08-2023,Widget B,2.0,89.66,West,Bob  Smith,Completed
+ORD-100356,2023-01-31,Widget A,3.0,134.14,West ,Bob  Smith,
+ORD-100949,02/25/2023,Gadget Y,4.0,463.73,West ,Fiona Grant,COMPLETED
+ORD-100215,04/10/2023,Gadget X,2.0,,north,  Charlie Lee  ,Completed
+ORD-100063,2024-12-17,Thingamajig,2.0,214.77,West,Bob  Smith,Completed
+ORD-100366,2023-04-28,Thingamajig,2.0,41.08, East,alice khan,Completed
+ORD-101643,2023/01/09,Widget B,1.0,459.37,East,Dana White,Completed
+ORD-101219,02-03-2024,Gadget X,,400.88,SOUTH,Alice Khan,Cancelled
+ORD-100975,2023/01/18,Widget B,4.0,$347.07,,Charlie Lee,Completed
+ORD-101560,10/31/2024,Doohickey,1.0,276.92,East,Evan Brooks,Completed
+ORD-100342,"Sep 03, 2024",Sprocket,1.0,$432.54,North,Charlie Lee,Refunded
+ORD-100915,09/03/2024,Gadget X,4.0,,north,Fiona Grant,Completed
+ORD-100649,04/24/2024,Gizmo Pro,2.0,362.88,,Fiona Grant,Cancelled
+ORD-101510,2024/01/13,Widget B,2.0,380.43,north,,completed
+ORD-101164,2024/03/21,Doohickey,1.0,$415.96,north,alice khan,Completed
+ORD-100621,02/28/2023,Doohickey,2.0,222.29,South,  Evan Brooks  ,Pending
+ORD-100051,2023/07/21,  Widget A  ,1.0,44.96,North,Alice Khan,Pending
+ORD-100408,25-04-2024,Gadget X,2.0,149.08,North,Alice Khan,Pending
+ORD-100979,2024-02-24,Gadget X,1.0,176.48,East,Charlie Lee ,Completed
+ORD-101872,2024-04-09,Widget A,3.0,83.25,North,Evan Brooks,Pending
+ORD-101648,15-01-2023,Widget A,4.0,13.01,West,Charlie Lee,Cancelled
+ORD-100574,2024/08/15,Gadget X,1.0,$110.32,North,  Dana White  ,Cancelled
+ORD-101636,"Jan 03, 2024",Widget B,1.0,,West,Evan Brooks,completed
+ORD-100585,"Nov 04, 2024",Widget A,1.0,154.89,north,Bob  Smith,Completed
+ORD-101068,2024-09-30,Gadget X,2.0,332.23,East,Alice Khan,Completed
+ORD-101694,2023/03/18,Widget B,4.0,168.79,South,Charlie Lee,
+ORD-101897,"Oct 01, 2024",Gadget Y,5.0,120.25,,Fiona Grant,completed
+ORD-101823,22-01-2024,Gadget X,1.0,$129.09,West,Alice Khan,COMPLETED
+ORD-100753,2023-03-24,Sprocket,1.0,-192.74,East,Charlie Lee ,Pending
+ORD-101477,28-11-2023,Gadget Y,0.0,41.63,SOUTH,Charlie Lee,Completed
+ORD-101153,"Jan 26, 2024",widget a,5.0,$223.97,   East  ,Dana White,Pending
+ORD-100086,2024-01-03,,1.0,101.59,,Dana White,COMPLETED
+ORD-101086,17-06-2023,Sprocket,2.0,$81.48,West,Bob Smith,Completed
+ORD-101380,02-10-2024,Widget A,4.0,378.84,North,Bob  Smith,Refunded
+ORD-101907,07-03-2024,Thingamajig,2.0,84.35,West,Evan Brooks,Pending
+ORD-100657,01/04/2024,Thingamajig,3.0,169.12,SOUTH,Fiona Grant,Completed
+ORD-100558,"Sep 27, 2023",Sprocket,3.0,463.72,north,  Alice Khan  ,Cancelled
+ORD-101689,2024/07/08,Doohickey,5.0,296.91,SOUTH,Alice Khan,Completed
+ORD-101602,17-04-2024,  GADGET X  ,1.0,159.97,West,Bob Smith,Completed
+ORD-101812,2024/10/22,  Widget B  ,1.0,169.14,West ,Bob Smith,Completed
+ORD-100525,2023-10-13,Doohickey,2.0,400.75,West ,alice khan,completed
+ORD-100314,"Mar 18, 2024",Thingamajig,4.0,429.89,East,Charlie Lee,Completed
+ORD-101488,05-04-2024,Doohickey,1.0,382.73,North,Fiona Grant,Completed
+ORD-101128,27-03-2024,Doohickey,2.0,209.42,,Bob  Smith,Completed
+ORD-100604,11/04/2024,Gadget Y,2.0,301.96,north,Evan Brooks,Pending
+ORD-100847,2023/08/11,Widget A,-1.0,453.98,North,Evan Brooks,Pending
+ORD-100186,2024-05-24,Gizmo Pro,2.0,75.6,north,Bob Smith,Completed
+ORD-101144,09/28/2024,Widget A,1.0,375.88,West,Charlie Lee,Completed
+ORD-101713,2024/12/15,Widget A,3.0,227.74,West,Bob Smith,COMPLETED
+ORD-100416,02/14/2023,Doohickey,1.0,83.18,East,Bob Smith,Completed
+ORD-100310,"Mar 10, 2023",Widget B,2.0,106.33,South,Dana White,
+ORD-101049,"Dec 13, 2024",Widget A,3.0,313.51,North,Dana White,Cancelled
+ORD-100754,11-12-2023,Doohickey,2.0,488.05,East,Bob Smith,Completed
+ORD-100323,03/07/2024,Widget A,2.0,116.17,West,Evan Brooks,  completed  
+ORD-100397,2023-07-20,Thingamajig,3.0,-425.48,North,Evan Brooks,Pending
+ORD-101099,05/30/2024,Widget B,2.0,354.58,North,Dana White,Completed
+ORD-100834,09/20/2024,  Gadget X  ,2.0,$215.88,West,Charlie Lee,Completed
+ORD-100120,2024-05-14,Gizmo Pro,1.0,330.03,South,Alice Khan,Completed
+ORD-100053,2023-06-10,  Widget B  ,2.0,106.75,West,Alice Khan,Completed
+ORD-101327,"Mar 22, 2023",Doohickey,0.0,$372.46,East,,Completed
+ORD-100605,2023-05-04,Gadget Y,2.0,377.31,north,Bob Smith,Completed
+ORD-101246,"Aug 26, 2024",Doohickey,,251.92,north,Alice Khan,
+ORD-100693,"Feb 07, 2024",Thingamajig,4.0,124.16,East,Charlie Lee ,Completed
+ORD-101652,03/22/2024,Widget B,1.0,99.62,,Alice Khan,Completed
+ORD-100747,20-01-2024,Widget B,-1.0,228.18,East,Alice Khan,Pending
+ORD-101091,2024/11/04,Gadget Y,2.0,451.2,north,Alice Khan,completed
+ORD-100076,04-05-2023,GADGET X,2.0,210.5,north,Evan Brooks,  Completed  
+ORD-100860,2024/09/08,Gadget Y,1.0,-131.31,,Evan Brooks,Completed
+ORD-101912,2024/01/18,Thingamajig,2.0,322.32,North,Dana White,Completed
+ORD-101045,2023-11-19,Gizmo Pro,4.0,295.58,north,  Evan Brooks  ,Completed
+ORD-101334,2023-08-29,Sprocket,1.0,,West,Alice Khan,  Cancelled  
+ORD-100432,04/14/2024,Thingamajig,5.0,161.62,north,Dana White,  Pending  
+ORD-101158,"Feb 01, 2024",Thingamajig,1.0,270.08,North,Dana White,Pending
+ORD-100921,2024/03/18,Widget A,3.0,369.85,North,Bob Smith,Refunded
+ORD-100088,01/11/2023,Widget A,1.0,164.82,  East  ,Evan Brooks,Refunded
+ORD-101422,12/11/2024,Sprocket,0.0,157.18,South,Charlie Lee,  Pending  
+ORD-101412,"Aug 26, 2024",Sprocket,2.0,122.93, East,Bob Smith,  Completed  
+ORD-101201,"Jan 04, 2023",Widget B,1.0,386.64,South,Charlie Lee ,Refunded
+ORD-101360,27-01-2024,Gadget Y,-1.0,391.81,West,Dana White,Cancelled
+ORD-101802,"Dec 14, 2023",Gizmo Pro,0.0,378.71,,Fiona Grant,Completed
+ORD-101463,2023/06/18,  Gadget X  ,0.0,206.22,South,  Dana White  ,COMPLETED
+ORD-101633,2024-11-04,Widget A,1.0,27.85,SOUTH,alice khan,Cancelled
+ORD-100087,13-06-2024,Gizmo Pro,,$251.86,South,Bob  Smith,Completed
+ORD-101035,2024/10/23,Gadget Y,,422.11,SOUTH,Bob  Smith,Refunded
+ORD-100335,04/18/2024,Gadget X,4.0,374.48,West,Charlie Lee,completed
+ORD-100357,07/06/2024,Gadget Y,3.0,177.15,,,Completed
+ORD-101599,08/10/2024,  Gizmo Pro  ,3.0,362.94,South,Bob Smith,Pending
+ORD-101458,"Oct 09, 2024",Thingamajig,-1.0,360.68,North,Bob Smith,Completed
+ORD-101617,"May 19, 2024",,1.0,$195.6,West,Charlie Lee,  Pending  
+ORD-101421,2024-10-26,Gadget X,5.0,176.27,South,Dana White,  Completed  
+ORD-101690,2024-09-04,  Doohickey  ,5.0,,SOUTH,Dana White,completed
+ORD-101795,"Jan 02, 2023",Gadget X,1.0,287.48,West ,Charlie Lee,Pending
+ORD-100851,10/31/2024,Doohickey,1.0,247.97,North,Fiona Grant,Completed
+ORD-100340,09-05-2024,  Widget A  ,1.0,108.83,West,,
+ORD-101291,24-06-2023,Gadget X,3.0,331.47,South,Fiona Grant,Completed
+ORD-101884,2024/06/14,  Thingamajig  ,3.0,$261.04,West,Dana White,Completed
+ORD-101139,29-01-2024,Gadget Y,1.0,$160.68,north,Bob Smith,Cancelled
+ORD-101083,2024/01/16,Widget A,0.0,$58.66,North,Bob Smith,Refunded
+ORD-101672,2024/10/26,,3.0,$188.34,,Bob Smith,Cancelled
+ORD-100259,11/24/2023,Gadget X,2.0,,West,alice khan,Pending
+ORD-100956,20-08-2023,Gadget X,1.0,,West,alice khan,Completed
+ORD-100163,2023/10/15,Sprocket,1.0,397.61,East,Fiona Grant,Completed
+ORD-100245,"Jul 06, 2023",Widget B,1.0,228.08, East,Charlie Lee,Completed
+ORD-100825,"Apr 03, 2023",Sprocket,2.0,N/A,East,Fiona Grant,
+ORD-101677,2023/02/02,Gadget Y,2.0,468.44,,Charlie Lee,Cancelled
+ORD-100968,2023/04/20,Widget B,1.0,$215.29,,Charlie Lee,Pending
+ORD-100017,03/23/2024,Sprocket,3.0,173.59,West ,Charlie Lee ,COMPLETED
+ORD-100130,2024-05-10,Sprocket,3.0,,East,  Bob Smith  ,Refunded
+ORD-100537,2023-06-20,Sprocket,3.0,364.57,South,Charlie Lee ,Completed
+ORD-100110,"May 08, 2023",Gadget X,3.0,$276.44,North,Alice Khan,Cancelled
+ORD-100455,"Jun 14, 2024",Sprocket,1.0,76.58,north,Bob Smith,Completed
+ORD-101072,2024/11/04,Doohickey,1.0,$364.97,north,Charlie Lee,  Completed  
+ORD-100217,10/13/2023,Thingamajig,2.0,-497.41,South,Charlie Lee,  Completed  
+ORD-101394,07-12-2024,Gizmo Pro,2.0,258.08, East,Charlie Lee ,Completed
+ORD-100961,23-10-2024,Widget B,4.0,334.6,  SOUTH  ,Alice Khan,Completed
+ORD-100581,2024/06/24,Doohickey,1.0,107.7,North,,Completed
+ORD-101438,"Jan 19, 2024",Widget A,5.0,306.48,West,Dana White,Cancelled
+ORD-101218,2024-03-06,Gadget X,5.0,N/A,West ,alice khan,Completed
+ORD-101720,2023-09-11,Widget A,1.0,293.27,North,Evan Brooks,
+ORD-101750,2023/08/24,  GADGET X  ,1.0,123.31,north,Charlie Lee,  Completed  
+ORD-100568,2023/12/04,Sprocket,4.0,408.66, East,Evan Brooks,Completed
+ORD-101625,"Feb 06, 2024",Widget A,1.0,179.23,,,
+ORD-101168,04/10/2024,Thingamajig,1.0,72.52,East,Bob  Smith,Completed
+ORD-101285,06/15/2023,  Gizmo Pro  ,2.0,43.98,South,Evan Brooks,Refunded
+ORD-100944,31-03-2023,Sprocket,2.0,212.52,  South  ,Charlie Lee ,completed
+ORD-101868,2024-02-18,Widget B,3.0,6.64,North,Charlie Lee,Completed
+,,,,,,,
+ORD-100106,2024-12-02,Doohickey,4.0,122.01,North,Evan Brooks,Pending
+ORD-100906,02-12-2024,Gizmo Pro,2.0,427.46,South,Fiona Grant,Cancelled
+ORD-101517,03/20/2024,Widget B,1.0,451.18,north,alice khan,Completed
+ORD-101451,"Sep 18, 2024",GADGET X,3.0,N/A,East,Charlie Lee,  Refunded  
+ORD-101685,05/04/2024,Gadget Y,3.0,345.3,West ,Evan Brooks,Completed
+ORD-101368,08/22/2023,widget a,1.0,69.95,West,Charlie Lee ,Completed
+ORD-100169,11/22/2024,Widget B,2.0,296.42,North,Alice Khan,COMPLETED
+ORD-100941,2024/01/21,Gadget Y,1.0,21.27,SOUTH,Dana White,Completed
+ORD-100460,28-04-2023,Sprocket,4.0,127.44,West ,Fiona Grant,  Completed  
+ORD-100031,14-04-2023,Thingamajig,2.0,231.09, East,Bob Smith,Completed
+ORD-101207,27-11-2023,Widget B,4.0,344.06,South,Alice Khan,Completed
+ORD-100749,2023-01-21,Gadget Y,1.0,211.3,North,Bob  Smith,COMPLETED
+ORD-100252,2023-03-23,Doohickey,1.0,418.31,North,,COMPLETED
+ORD-101120,"Dec 04, 2023",  Gadget Y  ,2.0,108.87,  East  ,  Evan Brooks  ,COMPLETED
+ORD-100290,05/14/2023,  Doohickey  ,2.0,426.2,north,alice khan,Completed
+ORD-100601,2024-01-16,Thingamajig,5.0,$333.06, East,Alice Khan,Completed
+ORD-100456,2023-04-16,Doohickey,5.0,38.43,South,Dana White,Completed
+ORD-100275,12-01-2023,Widget A,0.0,182.25,East,Charlie Lee ,Refunded
+ORD-100452,2024-01-29,Gadget X,2.0,407.89,West,Dana White,
+ORD-100485,2024-04-26,Gadget X,1.0,490.61,West ,  Evan Brooks  ,  Completed  
+ORD-100441,2024/01/10,Doohickey,2.0,$155.27,South,Alice Khan,Completed
+ORD-101062,2024/02/12,Doohickey,1.0,$332.21,West ,,Completed
+ORD-101555,2023-05-29,Thingamajig,1.0,103.95,East,  Charlie Lee   ,Pending
+ORD-100302,2024/06/26,  Widget A  ,3.0,73.31,,Bob Smith,Completed
+ORD-100831,06/18/2024,widget a,1.0,$253.81,SOUTH,Fiona Grant,completed
+ORD-100540,"Feb 05, 2024",Widget A,1.0,425.67,  South  ,Dana White,Completed
+ORD-101739,"May 18, 2023",  Sprocket  ,1.0,,SOUTH,Bob Smith,completed
+ORD-100959,2023-03-01,Widget B,1.0,489.78,West,Fiona Grant,  Completed  
+ORD-100544,26-05-2023,Thingamajig,3.0,-461.03,SOUTH,  alice khan  ,COMPLETED
+ORD-101816,03/19/2024,Widget B,2.0,160.07,West,Charlie Lee,
+ORD-101751,02/14/2024,Widget A,3.0,102.95,West ,  Dana White  ,COMPLETED
+ORD-100794,2023-02-15,Thingamajig,2.0,368.07,West,,Completed
+ORD-101365,"Jun 21, 2023",  Widget A  ,2.0,441.8, East,  Bob  Smith  ,completed
+ORD-100030,"May 01, 2023",Gadget Y,1.0,298.73,North,  Alice Khan  ,Completed
+ORD-100598,"Dec 17, 2024",Doohickey,1.0,242.83,north,Bob Smith,Cancelled
+ORD-101593,"Sep 15, 2023",Sprocket,4.0,N/A, East,Evan Brooks,Cancelled
+ORD-101562,"May 25, 2024",,1.0,305.95,SOUTH,Bob  Smith,Completed
+ORD-100630,"Jan 28, 2024",Sprocket,2.0,87.67,North,,COMPLETED
+ORD-100368,"Apr 16, 2023",Gadget Y,3.0,62.09,,Bob Smith,Completed
+ORD-100933,2023/03/17,  Doohickey  ,1.0,383.38,North,Fiona Grant,COMPLETED
+ORD-100045,"Sep 03, 2024",Thingamajig,1.0,489.61,,  Dana White  ,Pending
+ORD-101064,05-09-2024,Sprocket,1.0,,SOUTH,Charlie Lee,COMPLETED
+ORD-100137,29-01-2023,Gizmo Pro,1.0,420.39,South,Bob Smith,  Pending  
+ORD-100704,"Dec 04, 2023",Doohickey,1.0,192.88,West,Bob Smith,Completed
+ORD-101643,"Sep 05, 2023",Widget A,1.0,252.52,South,Bob  Smith,COMPLETED
+ORD-100040,06-01-2023,Thingamajig,4.0,329.81,  West  ,Charlie Lee,Pending
+ORD-101764,"Oct 18, 2023",Gizmo Pro,1.0,112.64,  West  ,    ,Completed
+ORD-101176,2023-01-15,Doohickey,1.0,455.52,north,,Completed
+ORD-101676,2024/01/26,Gadget X,2.0,380.63,north,,completed
+ORD-100266,2024/01/02,Sprocket,2.0,137.81,West,Bob Smith,Completed
+ORD-100221,"Dec 10, 2023",Doohickey,2.0,$167.67,South,Fiona Grant,COMPLETED
+ORD-100856,07-06-2023,Sprocket,1.0,$336.68,East,  Dana White  ,
+ORD-101569,2023/05/02,Gadget X,1.0,205.68,  North  ,,COMPLETED
+ORD-100165,2023/07/06,Doohickey,1.0,,West ,Dana White,Completed
+ORD-101288,01/31/2023,Sprocket,-1.0,334.3,West,Alice Khan,Refunded
+ORD-100151,08/17/2024,Thingamajig,2.0,381.64,north,Bob Smith,Completed
+ORD-100364,"Oct 04, 2023",Widget A,3.0,72.9,,Bob Smith,completed
+ORD-100116,2024/11/12,Sprocket,2.0,33.33,West,Alice Khan,Completed
+ORD-101644,2024-03-23,  Doohickey  ,1.0,$241.42,North,Fiona Grant,Refunded
+ORD-101931,"Jan 26, 2024",Doohickey,2.0,31.76,SOUTH,Bob Smith,  Completed  
+ORD-100517,03-07-2023,  Gadget Y  ,1.0,43.09,East,  Charlie Lee  ,COMPLETED
+ORD-101933,24-07-2023,Gizmo Pro,2.0,$365.6,South,Fiona Grant,Cancelled
+ORD-100953,08/09/2024,Widget B,1.0,N/A,  North  ,Charlie Lee ,Cancelled
+ORD-101908,04/28/2023,Widget B,1.0,$285.81,East,Alice Khan,Completed
+ORD-100932,2023/05/31,Widget A,2.0,106.54,West,Bob Smith,  Cancelled  
+ORD-101149,02-12-2024,Sprocket,2.0,216.7,north,Bob  Smith,  Completed  
+ORD-101883,09/23/2023,GADGET X,4.0,77.34,north,Bob  Smith,
+ORD-101791,2023-11-08,Thingamajig,1.0,$63.71, East,Fiona Grant,Completed
+ORD-101598,2023-09-06,Doohickey,1.0,351.76,,Bob  Smith,Refunded
+ORD-100694,08/09/2023,,2.0,111.94,East,Bob  Smith,Pending
+ORD-101481,2023/05/20,Gizmo Pro,2.0,344.14,north,Dana White,
+ORD-101289,"Dec 18, 2024",Gadget X,4.0,362.17,West ,Evan Brooks,Completed
+ORD-100390,08/08/2024,Widget B,1.0,-232.88,South,Charlie Lee,Pending
+ORD-100818,03-10-2024,Gadget Y,1.0,127.34,  North  ,Evan Brooks,Completed
+ORD-100674,"Mar 01, 2023",Gizmo Pro,1.0,211.17,South,Charlie Lee,Completed
+ORD-100380,"Aug 05, 2023",GADGET X,-1.0,190.95,West ,alice khan,Completed
+ORD-100945,"Jun 24, 2023",  Gadget Y  ,5.0,360.7,  East  ,Fiona Grant,Pending
+ORD-100384,2024/07/11,Doohickey,1.0,443.32,South,  Alice Khan  ,Cancelled
+ORD-100346,19-09-2024,GADGET X,1.0,$322.25,  North  ,Alice Khan,  Pending  
+ORD-101479,2024-01-18,Widget B,1.0,335.04,North,Fiona Grant,Refunded
+ORD-100957,2023/08/29,Widget A,2.0,498.39,  North  ,Evan Brooks,Pending
+ORD-100128,"Jul 27, 2023",Widget A,1.0,430.92,East,Bob Smith,Pending
+ORD-100954,"Nov 14, 2023",Gadget X,1.0,334.43,SOUTH,,Pending
+ORD-101502,12/15/2024,Thingamajig,1.0,338.45,West,Charlie Lee,Cancelled
+ORD-101253,"Jun 22, 2024",Widget A,1.0,131.69,SOUTH,Fiona Grant,Pending
+ORD-100534,"Dec 23, 2023",Widget B,1.0,319.31,  South  ,Bob  Smith,Completed
+ORD-100719,2024-08-15,  Gizmo Pro  ,2.0,-35.04, East,Evan Brooks,Completed
+ORD-100571,2023/02/04,Sprocket,2.0,$424.61,,Dana White,COMPLETED
+ORD-100681,2024/05/19,Gizmo Pro,2.0,190.8,North,Bob  Smith,Completed
+ORD-101336,23-02-2024,Widget A,,32.68,East,  Bob Smith  ,Completed
+ORD-100092,16-07-2023,Widget B,3.0,$414.98,,Dana White,Completed
+ORD-101416,"May 29, 2023",Gizmo Pro,4.0,10.87,North,Bob  Smith,Completed
+ORD-101683,25-02-2024,Widget A,0.0,273.52,East,Alice Khan,  Cancelled  
+ORD-101742,05/18/2024,Thingamajig,2.0,,,Dana White,Pending
+ORD-100776,12/08/2023,  GADGET X  ,1.0,109.25,  West  ,Fiona Grant,completed
+ORD-101594,09-12-2024,Thingamajig,1.0,65.92,,Alice Khan,Completed
+ORD-101853,"Sep 14, 2023",Gadget Y,1.0,$28.62,SOUTH,Bob  Smith,COMPLETED
+ORD-101357,2024-03-24,widget a,3.0,121.82,  East  ,Charlie Lee,  completed  
+ORD-101408,26-06-2023,  Doohickey  ,5.0,297.13,West,Evan Brooks,Cancelled
+ORD-101397,2024/03/01,Widget B,3.0,281.6,North,Evan Brooks,completed
+ORD-100136,06/27/2023,,3.0,162.41,north,Bob Smith,Completed
+ORD-101749,"Jul 20, 2024",Sprocket,2.0,211.7,  SOUTH  ,  Dana White  ,COMPLETED
+ORD-100487,2024-07-06,Widget B,1.0,244.15,SOUTH,Alice Khan,  Refunded  
+ORD-101268,2024/06/29,Thingamajig,-1.0,368.3,West ,  Alice Khan  ,Pending
+ORD-101838,"Jun 10, 2023",Sprocket,2.0,426.68,,Fiona Grant,completed
+ORD-101378,2023-04-02,Widget A,1.0,$336.17,East,Charlie Lee ,Completed
+ORD-101310,02-10-2023,Gadget X,3.0,451.82,North,,
+ORD-101189,2023/11/27,  Doohickey  ,3.0,$206.4,East,Alice Khan,Pending
+ORD-100104,2023/05/27,Thingamajig,2.0,N/A,West,Fiona Grant,Cancelled
+ORD-100749,2023-01-21,Gadget Y,1.0,211.3,North,  Bob  Smith  ,COMPLETED
+ORD-101350,29-06-2024,Sprocket,0.0,339.55,West ,Bob Smith,Completed
+ORD-100154,2024/01/29,widget a,1.0,352.85,,  Bob  Smith  ,completed
+ORD-101262,13-12-2024,Gadget Y,1.0,309.76,north,Bob Smith,  Completed  
+ORD-100244,01-08-2023,Gadget Y,1.0,434.43,West,Bob  Smith,  completed  
+ORD-101410,12-03-2024,Doohickey,4.0,308.19,  West  ,Charlie Lee,completed
+ORD-100236,"Jan 19, 2023",Sprocket,3.0,150.6,East,Alice Khan,COMPLETED
+ORD-100267,01/28/2023,Gadget X,1.0,456.12,North,Evan Brooks,Completed
+ORD-100166,2023/01/05,,2.0,381.79,  SOUTH  ,Charlie Lee,Refunded
+ORD-101519,03/09/2023,Gadget Y,,387.92,West,Charlie Lee,Completed
+ORD-100473,"Feb 16, 2023",Widget B,1.0,$215.33,  West  ,  Charlie Lee  ,Completed
+ORD-100759,"Jul 03, 2024",Gadget X,4.0,47.07,North,Charlie Lee ,COMPLETED
+ORD-101769,29-12-2023,Gadget X,1.0,44.11,East,Bob Smith,Completed
+ORD-100655,29-10-2024,Gadget X,1.0,261.06,north,Alice Khan,Completed
+ORD-101709,05/26/2023,,1.0,310.36,   East  ,alice khan,
+ORD-101543,2023/06/01,Doohickey,2.0,216.42,West ,Alice Khan,Pending
+ORD-101788,"Aug 10, 2023",Widget B,4.0,-363.96,East,Fiona Grant,Pending
+ORD-100499,2024/02/24,Doohickey,1.0,260.5,SOUTH,  Charlie Lee  ,  Pending  
+ORD-100401,2023-06-13,Gadget Y,1.0,297.42,North,alice khan,Completed
+ORD-101002,"May 04, 2023",Gizmo Pro,3.0,$292.37,East,Evan Brooks,Refunded
+ORD-100437,2023/12/23,GADGET X,3.0,266.28,  North  ,Dana White,  Completed  
+ORD-101500,12/18/2023,Gadget Y,-1.0,320.97,East,,Cancelled
+ORD-100593,"Jul 13, 2024",Widget B,1.0,276.66,,Charlie Lee,Completed
+ORD-101403,10/31/2023,widget a,1.0,$45.76,North,Charlie Lee ,Pending
+ORD-100673,"Feb 10, 2024",Sprocket,1.0,19.41,East,,Pending
+ORD-100602,2023-05-28,  Widget A  ,4.0,144.3,West ,alice khan,  Completed  
+ORD-101316,2023/01/24,widget a,3.0,$319.67,SOUTH,Alice Khan,Completed
+ORD-101026,09/19/2023,Gadget X,2.0,N/A,West,  Charlie Lee   ,Pending
+ORD-100536,2024/08/06,  Gizmo Pro  ,3.0,155.8,East,Bob Smith,  Completed  
+ORD-101870,"Nov 29, 2023",Widget B,-1.0,432.32,SOUTH,Evan Brooks,Cancelled
+ORD-101693,2024/01/29,Widget B,2.0,440.57,East,Fiona Grant,Completed
+ORD-100304,12/18/2023,Gadget Y,1.0,303.8,SOUTH,alice khan,Pending
+ORD-100870,05/06/2023,Widget B,-1.0,210.8,West,,completed
+ORD-100090,2023/12/01,GADGET X,5.0,$494.85,South,Charlie Lee,Pending
+ORD-100470,24-07-2024,Doohickey,2.0,208.82,West ,Charlie Lee,  Cancelled  
+ORD-101516,2023/05/06,Widget A,4.0,285.5,South,  Dana White  ,Completed
+ORD-100896,2023-06-09,widget a,2.0,443.31,South,Fiona Grant,Pending
+ORD-100629,2024-05-05,GADGET X,1.0,232.4,north,Dana White,Completed
+ORD-100257,08/08/2024,Thingamajig,1.0,9.39,West,Bob Smith,Completed
+ORD-100095,2024/03/26,Widget A,1.0,387.97,,Bob Smith,Completed
+ORD-101361,19-05-2023,Widget A,3.0,,West,Dana White,completed
+ORD-100187,07/04/2024,Widget A,4.0,341.77,South,Bob Smith,COMPLETED
+ORD-101418,2024/02/04,Doohickey,1.0,44.21,North,Charlie Lee,Cancelled
+ORD-101550,"Oct 18, 2023",Widget A,2.0,40.27,East,Charlie Lee ,COMPLETED
+ORD-100556,2024-11-20,Thingamajig,4.0,13.87,North,Alice Khan,
+ORD-100980,"Aug 26, 2023",widget a,1.0,208.79,West,Fiona Grant,Cancelled
+ORD-100013,07-10-2023,Widget B,2.0,-326.07,West,Dana White,Completed
+ORD-101710,"Oct 23, 2024",Gizmo Pro,1.0,-143.9,North,alice khan,  Cancelled  
+ORD-100937,02/06/2023,Thingamajig,2.0,315.46,North,Alice Khan,Completed
+ORD-100569,10/23/2024,Gizmo Pro,2.0,$113.69,North,  Fiona Grant  ,Pending
+ORD-101619,18-09-2024,Gizmo Pro,3.0,499.32, East,Dana White,Pending
+ORD-100839,11/26/2024,Gizmo Pro,2.0,75.68,West,Bob Smith,completed
+ORD-101049,"Dec 13, 2024",Widget A,3.0,313.51,North,  Dana White  ,Cancelled
+ORD-100734,2023-10-24,Thingamajig,1.0,,South,Charlie Lee,Completed
+ORD-100730,2024/02/14,Gadget X,,196.39,,Bob Smith,Completed
+ORD-100232,2023/09/12,Widget A,5.0,224.27,East,Charlie Lee,  Completed  
+ORD-101582,2024/11/19,Doohickey,2.0,$9.05,East,Charlie Lee,Refunded
+ORD-101794,2023-07-23,Doohickey,2.0,$291.35,North,,  Pending  
+ORD-100549,"Aug 18, 2024",Gizmo Pro,2.0,395.8,North,Dana White,Completed
+ORD-100224,"Jun 14, 2023",Sprocket,1.0,365.72,north,Charlie Lee ,
+ORD-100891,"Sep 25, 2023",Widget B,1.0,430.54,   East  ,Charlie Lee ,Completed
+ORD-101209,2024-01-22,Gadget Y,2.0,439.19,  West  ,,
+ORD-101440,"Oct 27, 2024",Thingamajig,3.0,38.33,north,  Fiona Grant  ,Completed
+ORD-100082,10/12/2023,Thingamajig,3.0,359.26, East,Dana White,Completed
+ORD-100020,2023-11-05,Widget B,4.0,392.27,West,Charlie Lee,  COMPLETED  
+ORD-101409,2024-02-10,Widget A,1.0,392.19,north,Fiona Grant,  Completed  
+ORD-100283,13-08-2024,Gadget Y,0.0,40.21,South,  Fiona Grant  ,Completed
+ORD-100155,"Apr 05, 2023",Widget A,2.0,-171.73,West,Charlie Lee ,Completed
+ORD-100344,2023/04/06,Doohickey,,350.16,North,Alice Khan,Pending
+ORD-101531,2024-11-05,Thingamajig,4.0,150.46, East,Evan Brooks,Completed
+ORD-100809,2024/12/10,Widget A,5.0,70.69,South,Charlie Lee ,  Refunded  
+ORD-101230,23-11-2024,Gadget Y,4.0,$145.8,SOUTH,  Dana White  ,Completed
+ORD-101340,2024/03/01,Gadget Y,3.0,403.81,West,Fiona Grant,Pending
+ORD-100578,2023/06/18,Widget A,2.0,359.84,,Fiona Grant,  Cancelled  
+ORD-100717,2024-05-03,Thingamajig,1.0,116.96,East,Dana White,Pending
+ORD-100733,07/27/2023,Doohickey,1.0,N/A,South,,completed
+ORD-101008,2023-01-23,Doohickey,1.0,324.76,North,Bob Smith,Completed
+ORD-101787,"Oct 20, 2023",Gadget Y,1.0,319.62,West,Fiona Grant,completed
+ORD-101899,12/26/2023,Gizmo Pro,1.0,$129.69,north,  Charlie Lee  ,Completed
+ORD-100858,"Feb 12, 2024",  GADGET X  ,1.0,44.77,West,Fiona Grant,Pending
+ORD-100523,2024/08/03,Gizmo Pro,1.0,462.46,South,Evan Brooks,Pending
+ORD-101514,06/20/2024,Gadget Y,1.0,454.96,North,,Completed
+ORD-100311,2024/11/05,Widget A,2.0,91.82,West ,Fiona Grant,  Completed  
+ORD-101193,"Oct 15, 2024",Doohickey,2.0,232.07,North,Bob Smith,completed
+ORD-100705,09/17/2024,  Gizmo Pro  ,2.0,36.66,South,Bob Smith,COMPLETED
+ORD-100449,2024/07/18,Gizmo Pro,2.0,428.89,north,Charlie Lee ,Completed
+ORD-101240,23-11-2023,,-1.0,69.73,South,Alice Khan,Completed
+ORD-101359,12/01/2024,Thingamajig,1.0,157.95,East,Charlie Lee,completed
+ORD-101182,12-01-2023,Doohickey,,285.9,North,Fiona Grant,Cancelled
+ORD-100234,28-05-2024,Gadget Y,4.0,214.72,  north  ,Alice Khan,  Completed  
+ORD-101589,2024/11/06,  Widget A  ,1.0,352.54,North,Charlie Lee,Pending
+ORD-101280,2024/04/02,Doohickey,2.0,61.02,North,Fiona Grant,Cancelled
+ORD-101021,2024/04/06,Gizmo Pro,1.0,278.75,West ,Alice Khan,Refunded
+ORD-101515,07-09-2023,Widget B,5.0,232.13,West,Bob Smith,Refunded
+ORD-101019,2024/01/06,  Gizmo Pro  ,4.0,21.03,  north  ,Alice Khan,  completed  
+ORD-101101,2024/06/17,,1.0,$147.79,West,Alice Khan,Pending
+ORD-100467,05/02/2023,Widget A,1.0,440.42,,Bob Smith,Pending
+ORD-101136,2024-09-24,Widget B,2.0,315.45,  East  ,Evan Brooks,Completed
+ORD-100766,2024/04/04,  Thingamajig  ,1.0,481.07, East,Evan Brooks,Completed
+ORD-100883,2023/04/02,Sprocket,3.0,416.1,,Charlie Lee,Completed
+ORD-101793,02/27/2023,Gadget Y,4.0,14.86,East,Bob Smith,COMPLETED
+ORD-101273,05/21/2023,Widget B,2.0,193.98,East,Charlie Lee ,Pending
+ORD-100103,2024-12-09,Gadget X,4.0,433.12,West,Alice Khan,Completed
+ORD-101431,2023-02-19,widget a,1.0,300.77,East,,Pending
+ORD-100528,07/13/2024,  Widget A  ,1.0,477.45, East,Bob Smith,Completed
+ORD-101210,2024/06/22,Sprocket,3.0,$412.55,SOUTH,alice khan,Completed
+ORD-101771,"Apr 25, 2024",Thingamajig,2.0,213.4,North,Fiona Grant,COMPLETED
+ORD-101329,2023-01-10,widget a,2.0,409.47,,Bob  Smith,completed
+ORD-101583,"Mar 09, 2024",Widget B,4.0,408.87,North,  Fiona Grant  ,Completed
+ORD-100463,2023-12-20,Sprocket,2.0,151.24,East,Charlie Lee,Completed
+ORD-101056,2023-06-29,Sprocket,0.0,23.51,SOUTH,Charlie Lee,Completed
+ORD-100180,"Dec 14, 2024",,1.0,366.34,  West  ,Bob Smith,Completed
+ORD-101627,07/31/2023,Sprocket,1.0,158.33,East,Bob Smith,Completed
+ORD-101480,2024/03/23,Doohickey,0.0,91.23,West ,alice khan,Cancelled
+ORD-100136,2024/07/31,,4.0,164.63,  West  ,Fiona Grant,Completed
+ORD-100174,2023-08-01,Sprocket,1.0,171.17,  West  ,Dana White,
+ORD-100353,2024/02/28,Sprocket,4.0,99.29,,Charlie Lee,Completed
+ORD-101612,2023/11/11,,1.0,34.16,North,Fiona Grant,Completed
+ORD-100361,2024/06/11,Gizmo Pro,2.0,$157.73, East,Fiona Grant,completed
+ORD-101831,03-09-2024,GADGET X,-1.0,N/A,,Bob Smith,  Completed  
+ORD-100739,"May 23, 2023",Widget A,3.0,17.27,West,Dana White,Refunded
+ORD-101850,14-11-2023,  Doohickey  ,3.0,436.54,,Charlie Lee,Completed
+ORD-100474,2024/12/07,  Widget A  ,2.0,25.97,SOUTH,Alice Khan,Completed
+ORD-101464,2023/03/03,Widget B,1.0,316.14,SOUTH,Dana White,Completed
+ORD-100172,2024-11-16,,5.0,74.6, East,Bob Smith,Cancelled
+ORD-100802,"Jul 29, 2024",Thingamajig,3.0,207.52,West ,Dana White,Cancelled
+ORD-100121,"Dec 07, 2023",Thingamajig,1.0,,North,Alice Khan,completed
+ORD-101191,02/23/2023,Sprocket,-1.0,$396.55,East,Bob Smith,completed
+ORD-101527,2023/07/27,Widget B,3.0,418.77,  East  ,,Pending
+ORD-101814,04/11/2023,Gadget X,1.0,487.24,West,Evan Brooks,
+ORD-101355,2023-09-23,Widget A,3.0,60.13,  South  ,Alice Khan,Completed
+ORD-101415,"Aug 28, 2023",Thingamajig,2.0,278.54,SOUTH,Bob Smith,  COMPLETED  
+ORD-100074,01/04/2024,Gadget X,2.0,N/A,South,Dana White,Completed
+ORD-101130,2024-08-12,Widget A,3.0,145.76,South,Dana White,completed
+ORD-101379,09/10/2024,Gadget Y,4.0,N/A, East,  Evan Brooks  ,Completed
+ORD-100771,14-08-2023,Thingamajig,1.0,,East,Charlie Lee,Cancelled
+ORD-101728,18-12-2024,Widget A,1.0,203.29,   East  ,Alice Khan,Completed
+ORD-101034,2023/12/10,Doohickey,1.0,178.64,  West  ,Bob  Smith,Completed
+ORD-100740,"Aug 27, 2023",  Doohickey  ,1.0,N/A,South,Evan Brooks,  Completed  
+ORD-101288,10/23/2023,Thingamajig,2.0,247.06,West ,Dana White,Completed
+ORD-101228,2023-09-12,widget a,2.0,121.58,north,Charlie Lee,Completed
+ORD-100762,08/31/2023,Gadget Y,1.0,296.02,East,Charlie Lee,Pending
+ORD-101615,"Feb 11, 2024",Widget B,3.0,258.2,,Evan Brooks,Cancelled
+ORD-101520,10-05-2024,,2.0,,South,alice khan,Completed
+ORD-101024,11-09-2023,Doohickey,-1.0,67.57,   East  ,Fiona Grant,
+ORD-101491,"May 12, 2023",Widget B,3.0,277.18,West,alice khan,Completed
+ORD-100042,21-12-2024,Widget B,3.0,321.16, East,Evan Brooks,Completed
+ORD-101489,2024/10/18,Thingamajig,3.0,446.21,North,Charlie Lee ,Pending
+ORD-101513,01/19/2024,Widget B,3.0,68.53,East,Evan Brooks,Completed
+ORD-100689,2023-08-06,Gadget X,1.0,236.73,  East  ,Charlie Lee ,
+ORD-101296,2023/05/14,Doohickey,1.0,43.65,North,Dana White,completed
+ORD-100862,2024/12/28,Gizmo Pro,4.0,$45.92, East,Dana White,Completed
+ORD-101452,01/29/2023,Thingamajig,1.0,$296.86,South,Alice Khan,  Pending  
+ORD-100551,"Mar 28, 2024",Widget A,3.0,27.21,West,Bob  Smith,Completed
+ORD-100974,2024-03-21,Sprocket,1.0,81.11,South,Fiona Grant,Completed
+ORD-101290,01/12/2024,Thingamajig,2.0,,north,Bob Smith,Completed
+ORD-101660,02/24/2023,  Widget B  ,2.0,$118.78,East,Fiona Grant,Completed
+ORD-100407,2024-11-26,Gadget X,4.0,484.92,north,Dana White,Pending
+ORD-100119,03/02/2023,Thingamajig,-1.0,409.3,,Bob  Smith,Completed
+ORD-101407,"Jul 07, 2023",Widget A,,-350.83,  North  ,Alice Khan,Completed
+ORD-100889,08/01/2024,  Doohickey  ,1.0,N/A,SOUTH,Fiona Grant,Completed
+ORD-101688,2023/07/02,Thingamajig,1.0,113.19,north,Charlie Lee,Completed
+ORD-101820,08/12/2023,Thingamajig,4.0,110.98,,alice khan,Pending
+ORD-100711,2024/12/13,widget a,4.0,492.95,North,Charlie Lee,Completed
+ORD-101590,"Sep 22, 2024",Thingamajig,4.0,270.06,West,Charlie Lee,completed
+ORD-101461,2024-04-17,Gadget X,1.0,18.08,South,Charlie Lee ,Completed
+ORD-101937,"Jun 27, 2023",Widget A,2.0,25.11,West,Dana White,COMPLETED
+ORD-101553,2023-11-19,Widget A,1.0,47.96,West,Bob  Smith,Completed
+ORD-100716,03/03/2023,Gadget Y,0.0,220.74,north,Evan Brooks,Completed
+ORD-101192,06-11-2023,Gadget X,4.0,$304.0, East,Dana White,Cancelled
+ORD-100774,"Dec 02, 2024",Widget B,1.0,192.56,north,Dana White,
+ORD-100672,2024-11-24,Gizmo Pro,2.0,150.98,South,Charlie Lee,Pending
+ORD-100485,"May 11, 2024",Thingamajig,2.0,$61.78,South,Fiona Grant,Completed
+ORD-100814,2024-04-02,Gizmo Pro,1.0,146.83,West ,,Completed
+ORD-101082,17-01-2023,Gadget X,1.0,175.68,SOUTH,  Fiona Grant  ,Pending
+ORD-101109,02/25/2023,Doohickey,4.0,169.33,South,Evan Brooks,COMPLETED
+ORD-101312,2023-03-20,Doohickey,1.0,$407.79,South,  Alice Khan  ,Completed
+ORD-101194,04/20/2023,widget a,2.0,490.74,North,Dana White,  COMPLETED  
+ORD-101125,"Feb 16, 2023",Sprocket,2.0,N/A,West ,Dana White,Completed
+ORD-100073,03-11-2023,Gadget Y,1.0,392.65,SOUTH,Bob Smith,Completed
+ORD-101014,05/02/2023,Widget A,2.0,$168.46,South,Charlie Lee,Completed
+ORD-101584,09-07-2024,Gadget X,,139.17,SOUTH,Alice Khan,Pending
+ORD-101614,10/26/2024,,-1.0,N/A,West,Bob  Smith,Cancelled
+ORD-101215,"Apr 29, 2024",Gadget X,3.0,N/A,,Alice Khan,Pending
+ORD-101036,02/08/2023,Gadget X,3.0,301.05,East,Bob  Smith,  Refunded  
+ORD-101003,2023/02/27,Widget A,2.0,297.57,North,Alice Khan,Pending
+ORD-101145,01-04-2023,Gadget X,2.0,136.28,East,Charlie Lee,Completed
+ORD-100636,12/06/2024,Widget B,2.0,154.42,North,Dana White,Completed
+ORD-100731,09/22/2023,Sprocket,1.0,205.7,West,Charlie Lee,Pending
+ORD-100158,23-09-2024,Sprocket,1.0,481.76,East,Dana White,  Refunded  
+ORD-101862,2024/02/23,Gadget X,2.0,154.9,North,Charlie Lee,  Completed  
+ORD-100150,06-12-2023,  GADGET X  ,2.0,271.96, East,Evan Brooks,Completed
+ORD-101325,09-09-2023,Widget A,4.0,441.98,  South  ,Bob Smith,Completed
+ORD-101423,15-08-2024,Sprocket,1.0,51.1,East,Evan Brooks,Cancelled
+ORD-101855,2023/06/29,  Widget A  ,1.0,28.21, East,Bob Smith,  Completed  
+ORD-101115,2024-12-21,Thingamajig,1.0,40.0,South,Charlie Lee,Refunded
+ORD-101580,15-03-2023,Thingamajig,1.0,237.28, East,  Evan Brooks  ,Completed
+ORD-101376,25-11-2023,widget a,3.0,$304.46,West,  Charlie Lee   ,  COMPLETED  
+ORD-100012,2023/09/10,Doohickey,2.0,$444.25,,Dana White,Pending
+ORD-101712,"Jul 25, 2023",Widget A,,235.16,South,Alice Khan,Pending
+ORD-101662,2024/11/30,Widget B,0.0,111.28,West ,Fiona Grant,Completed
+ORD-100272,08/31/2024,widget a,1.0,320.85,South,  alice khan  ,completed
+ORD-101071,"Nov 19, 2023",Thingamajig,2.0,165.7,South,Fiona Grant,Completed
+ORD-101629,2024/05/09,Widget A,1.0,,West,alice khan,Cancelled
+ORD-100108,2023/06/24,Gizmo Pro,2.0,42.13,north,Evan Brooks,Refunded
+ORD-100147,2024-10-16,Widget B,4.0,373.02,SOUTH,Evan Brooks,completed
+ORD-100587,2024-07-07,Thingamajig,1.0,445.57,,  alice khan  ,Refunded
+ORD-100061,01/22/2023,Widget A,4.0,428.85,  West  ,  Fiona Grant  ,Completed
+ORD-101401,02-10-2024,Widget A,,51.25,West ,Fiona Grant,Completed
+ORD-100965,2023-05-19,Widget B,1.0,$472.08,East,Bob Smith,COMPLETED
+ORD-101544,"Nov 13, 2024",Gadget Y,2.0,358.6,East,Bob Smith,Completed
+ORD-101015,2023-04-19,Widget B,4.0,-114.89,  north  ,  Dana White  ,Refunded
+ORD-100050,28-06-2023,Gizmo Pro,1.0,126.75,West,,
+ORD-101546,"Oct 06, 2024",Widget B,1.0,295.35,,Evan Brooks,Completed
+ORD-101518,07/28/2024,  Gadget X  ,1.0,$358.03,,Bob Smith,Completed
+ORD-101786,05-07-2024,widget a,1.0,,  North  ,Alice Khan,Completed
+ORD-101095,2023-10-22,Thingamajig,4.0,223.98,East,Evan Brooks,
+ORD-101770,11/26/2023,Doohickey,1.0,339.74,north,  Dana White  ,Completed
+ORD-100223,2024-11-09,Thingamajig,2.0,98.1,East,  Charlie Lee  ,COMPLETED
+ORD-100824,10/27/2024,Sprocket,4.0,46.21,East,Bob Smith,Pending
+ORD-100977,"Apr 15, 2024",,2.0,350.13,East,Fiona Grant,
+ORD-101284,2024/05/19,Gizmo Pro,2.0,332.74,,Charlie Lee,Completed
+ORD-100632,"Oct 10, 2023",Widget A,1.0,$395.63,West,Evan Brooks,completed
+ORD-101926,"Jul 09, 2023",,1.0,312.95,West,Charlie Lee,completed
+ORD-101819,2024-06-24,,1.0,451.13,East,alice khan,Completed
+ORD-100251,"Apr 18, 2023",GADGET X,,$63.28,West,,Completed
+ORD-101891,2024/06/06,Gadget Y,1.0,$426.99,South,Charlie Lee,Completed
+ORD-100069,2024-02-15,Gadget Y,5.0,101.35,East,Alice Khan,Refunded
+ORD-100041,2024/08/21,Thingamajig,5.0,373.26,South,Alice Khan,Refunded
+ORD-100566,2024/03/04,Widget A,3.0,197.55,West,Charlie Lee ,COMPLETED
+ORD-100352,06/22/2024,Widget B,2.0,402.07,,alice khan,Completed
+ORD-100680,22-08-2024,Doohickey,0.0,,North,Bob Smith,completed
+ORD-100828,"May 31, 2024",Widget A,2.0,488.87,East,Alice Khan,completed
+ORD-100005,"Dec 28, 2023",Doohickey,1.0,140.9,SOUTH,Charlie Lee,Completed
+ORD-100195,"Apr 04, 2024",Widget A,1.0,327.97,South,Bob Smith,Completed
+ORD-100443,2024-07-28,,5.0,444.46,north,  Evan Brooks  ,Completed
+ORD-101799,01/16/2023,Doohickey,4.0,$481.23,South,Alice Khan,  completed  
+ORD-100479,03/28/2023,Widget A,,411.75,East,Dana White,Cancelled
+ORD-101865,2023/10/14,  Widget B  ,1.0,$290.45,North,Bob  Smith,Completed
+ORD-101010,2024-07-14,Sprocket,1.0,230.13,,Bob Smith,Completed
+ORD-101796,"May 01, 2024",Thingamajig,1.0,$240.75,North,Evan Brooks,  Refunded  
+ORD-101882,2024/08/18,Doohickey,2.0,434.83,North,Charlie Lee,Cancelled
+ORD-100083,05/02/2024,Doohickey,5.0,321.71,North,Charlie Lee,
+ORD-101647,"Jul 03, 2024",Widget B,3.0,261.86,North,  Fiona Grant  ,Completed
+ORD-100678,09/13/2023,Widget A,4.0,158.85, East,Bob Smith,Completed
+ORD-101737,04-02-2024,Gadget Y,1.0,N/A,SOUTH,Evan Brooks,Completed
+ORD-100378,"Aug 24, 2024",Gadget Y,1.0,$60.7,West,,Completed
+ORD-101353,02/26/2024,Gadget X,3.0,$307.22,SOUTH,Bob Smith,Completed
+ORD-101847,05/29/2023,Sprocket,1.0,464.64,West ,Alice Khan,
+ORD-100635,"Oct 04, 2024",  Widget A  ,1.0,120.75,East,Fiona Grant,Completed
+ORD-100480,01/14/2023,Gadget Y,1.0,232.78,north,,
+ORD-101504,2023/01/03,Sprocket,1.0,$471.82, East,Alice Khan,Completed
+ORD-101740,08/27/2024,,2.0,49.64,West,  Charlie Lee  ,Pending
+ORD-101927,2024-05-08,Gizmo Pro,1.0,467.85,north,Dana White,Completed
+ORD-100134,"Feb 03, 2023",Widget B,3.0,152.73,West,Fiona Grant,Completed
+ORD-100233,27-09-2024,Widget B,1.0,472.96,  SOUTH  ,Dana White,Cancelled
+ORD-101922,2024-05-29,Thingamajig,1.0,326.21,,Charlie Lee,Pending
+ORD-100609,2023-02-12,  Widget B  ,1.0,320.52,north,Bob  Smith,  Completed  
+ORD-101414,28-03-2024,Widget A,1.0,367.16,,Dana White,Completed
+ORD-100697,23-12-2023,Widget A,2.0,252.81,,  Charlie Lee  ,  Refunded  
+ORD-101377,"Jul 01, 2023",Widget A,2.0,317.37,SOUTH,alice khan,Completed
+ORD-101830,2024-10-17,Widget B,3.0,170.09, East,Charlie Lee,completed
+ORD-101297,2023-06-28,Widget B,4.0,428.03,West,alice khan,Pending
+ORD-100710,2023/11/23,Widget A,2.0,139.96,,Dana White,completed
+ORD-100279,05/03/2024,Sprocket,3.0,304.33,  north  ,Bob Smith,  Completed  
+ORD-101439,2023-05-05,  Widget A  ,-1.0,321.28,South,Fiona Grant,Pending
+ORD-101925,10/09/2024,widget a,2.0,313.96,South,Dana White,Completed
+ORD-100879,06-01-2023,Doohickey,0.0,$381.87,North,,Completed
+ORD-101649,09/22/2024,Doohickey,2.0,158.4,South,  Bob  Smith  ,completed
+ORD-100844,30-06-2023,,2.0,15.39,  South  ,Charlie Lee,Completed
+ORD-101881,02/05/2024,,2.0,N/A,North,Bob Smith,Pending
+ORD-100939,2024/01/06,Gadget X,3.0,110.64, East,Bob Smith,Pending
+ORD-101557,"Feb 16, 2023",Widget B,1.0,$24.35,north,Charlie Lee,  completed  
+ORD-100427,"Mar 25, 2023",Doohickey,2.0,$353.36,East,Charlie Lee ,COMPLETED
+ORD-101051,06-04-2023,Widget B,2.0,308.75,North,Charlie Lee,Cancelled
+ORD-100991,13-01-2023,GADGET X,-1.0,157.5,South,Alice Khan,COMPLETED
+ORD-100788,2023-10-03,Thingamajig,1.0,284.57,North,Charlie Lee ,Completed
+ORD-101135,01/19/2024,Doohickey,4.0,$12.94,South,Evan Brooks,Completed
+ORD-101467,11/24/2023,Sprocket,1.0,209.9,North,Bob Smith,Completed
+ORD-100691,02/15/2024,Gizmo Pro,1.0,$160.29,SOUTH,Evan Brooks,Completed
+ORD-100492,"Mar 28, 2024",Thingamajig,2.0,485.21,South,Dana White,Pending
+ORD-101239,"Jul 14, 2024",Widget B,5.0,270.65,East,  Evan Brooks  ,Cancelled
+ORD-101050,2024-03-10,Gadget X,1.0,415.23,East,  Dana White  ,Cancelled
+ORD-101331,04/28/2024,Gadget Y,4.0,237.21,South,Evan Brooks,Completed
+ORD-100618,05/25/2024,Widget B,4.0,138.28,north,Charlie Lee,  Completed  
+ORD-100603,"Mar 14, 2023",,3.0,$389.73,South,alice khan,COMPLETED
+ORD-100330,2023-05-26,Widget A,3.0,16.88,South,alice khan,  Completed  
+ORD-101080,27-07-2024,Doohickey,3.0,227.0,,Bob Smith,Pending
+ORD-100513,2023-05-16,Gizmo Pro,1.0,,North,  Dana White  ,Completed
+ORD-100943,"Jun 14, 2024",Gadget X,1.0,375.18,SOUTH,Alice Khan,
+ORD-101129,05/23/2023,Sprocket,2.0,497.16,North,Fiona Grant,Completed
+ORD-100823,03/17/2024,Doohickey,1.0,57.59,North,Dana White,  Pending  
+ORD-101445,04-07-2024,widget a,4.0,16.5,East,Bob Smith,Pending
+ORD-100271,2024-09-26,  Widget A  ,3.0,N/A,South,Charlie Lee ,Completed
+ORD-101025,"May 19, 2024",Doohickey,1.0,$118.91, East,Bob  Smith,  COMPLETED  
+ORD-100881,"Jul 12, 2023",  Thingamajig  ,1.0,462.62,East,Bob Smith,Completed
+ORD-101630,02/07/2024,Gadget Y,,391.8,North,Evan Brooks,
+ORD-101175,18-12-2024,  Widget A  ,3.0,283.99,  South  ,Bob  Smith,Pending
+ORD-101146,12/02/2023,Gadget Y,5.0,N/A,north,Fiona Grant,Cancelled
+ORD-100260,2023-07-05,Sprocket,1.0,$152.52,  West   ,Bob Smith,Completed
+ORD-100596,"Sep 30, 2023",Widget B,5.0,$459.04,north,  Bob Smith  ,Cancelled
+ORD-101575,24-12-2024,  Sprocket  ,1.0,424.66,West,Charlie Lee,Completed
+ORD-101803,23-04-2024,Doohickey,1.0,268.7,East,Fiona Grant,Cancelled
+ORD-101255,2023-02-20,Widget A,1.0,93.23,  West  ,Bob  Smith,Completed
+ORD-100846,2024-09-26,Thingamajig,1.0,N/A,SOUTH,  Bob Smith  ,Pending
+ORD-101704,10/04/2023,  Sprocket  ,1.0,428.87,South,Charlie Lee,Completed
+ORD-101634,12-11-2024,Widget B,0.0,441.79,South,Evan Brooks,Completed
+ORD-100360,01/06/2024,Widget A,1.0,355.54,West,alice khan,  COMPLETED  
+ORD-101878,2024/08/21,Gadget X,4.0,-57.65,West ,Charlie Lee,Refunded
+ORD-100214,2023/12/31,Widget A,1.0,340.21,South,Bob Smith,  Completed  
+ORD-100699,05-04-2024,Sprocket,1.0,-363.67,West ,Dana White,COMPLETED
+ORD-100316,05/14/2023,Gadget Y,2.0,192.21,South,Dana White,Completed
+ORD-100519,12-04-2023,Widget B,2.0,$300.57,South,  Alice Khan  ,COMPLETED
+ORD-100269,2024/09/06,widget a,1.0,184.83,  SOUTH  ,Alice Khan,  Completed  
+ORD-100324,27-08-2023,Widget A,,395.34,North,Bob  Smith,  Completed  
+ORD-101815,2024/01/31,Widget A,1.0,484.71, East,Alice Khan,
+ORD-101607,01/14/2024,Widget B,4.0,,South,Charlie Lee,Completed
+ORD-100320,"Mar 21, 2023",Thingamajig,4.0,253.51,  SOUTH  ,Evan Brooks,Pending
+ORD-100409,10/15/2024,Gizmo Pro,1.0,$256.83,South,Evan Brooks,Cancelled
+ORD-101618,"May 27, 2023",Widget A,5.0,393.51,  North  ,Bob Smith,Completed
+ORD-100022,11-08-2024,Gadget X,1.0,483.2,South,Bob  Smith,  Completed  
+ORD-100663,2023-09-12,Gizmo Pro,2.0,469.61,North,Bob  Smith,COMPLETED
+ORD-100723,20-10-2024,Doohickey,1.0,482.65,East,Evan Brooks,Pending
+ORD-101303,"Nov 01, 2023",Widget A,1.0,233.27,West ,Evan Brooks,
+ORD-100785,2024-06-19,GADGET X,2.0,,South,Evan Brooks,Refunded
+ORD-100193,11-05-2023,Widget A,1.0,,West,Evan Brooks,Cancelled
+ORD-101229,05/04/2023,Widget B,4.0,425.49, East,Charlie Lee,Completed
+ORD-100490,2023/06/09,,1.0,364.51,SOUTH,  Bob Smith  ,Completed
+ORD-101442,03/15/2024,GADGET X,3.0,40.96,,Evan Brooks,
+ORD-101272,2024-05-18,Widget B,2.0,30.79,North,  Alice Khan  ,Refunded
+ORD-100454,2024-07-01,Thingamajig,3.0,55.63,East,Fiona Grant,Completed
+ORD-100476,2024/11/10,Gadget X,1.0,232.08,North,Evan Brooks,Completed
+ORD-101161,11-11-2024,Widget B,1.0,,East,Bob Smith,
+ORD-100897,2023/02/22,  Thingamajig  ,1.0,156.69,,Bob Smith,Pending
+ORD-101197,2024-11-29,Gadget X,1.0,323.71,  North  ,Bob Smith,Completed
+ORD-101441,2023-03-11,Doohickey,4.0,265.01,SOUTH,Bob  Smith,Refunded
+ORD-100182,"May 24, 2023",Widget B,2.0,458.87,South,,Completed
+ORD-100514,01/25/2024,Sprocket,2.0,N/A,North,Bob  Smith,
+ORD-100345,2023-11-28,Doohickey,3.0,,East,Bob  Smith,
+ORD-100620,16-11-2024,Widget B,0.0,232.35,,Charlie Lee,Pending
+ORD-101298,"Jul 03, 2023",  Doohickey  ,3.0,231.62,  north  ,Charlie Lee,Completed
+ORD-101131,"Feb 09, 2023",Gadget X,3.0,102.34,SOUTH,Bob Smith,Completed
+ORD-100450,10/02/2024,Gadget Y,2.0,281.28,East,Evan Brooks,Completed
+ORD-100671,2023-10-08,Doohickey,4.0,128.94,,Bob Smith,  Completed  
+ORD-100619,02/03/2024,Doohickey,5.0,37.68,South,Evan Brooks,Completed
+ORD-101032,"May 30, 2024",Widget B,5.0,$164.58,SOUTH,Alice Khan,Completed
+ORD-101530,2023/04/22,Widget A,5.0,439.49,East,Fiona Grant,Cancelled
+ORD-100417,2023/06/20,Sprocket,2.0,459.92,West ,Evan Brooks,Completed
+ORD-100942,02-01-2024,Widget A,1.0,$272.87,West,Charlie Lee,
+ORD-101105,2023-04-12,,3.0,418.97,,Bob Smith,Pending
+ORD-101429,2023-09-04,Doohickey,3.0,$97.58,East,Dana White,  COMPLETED  
+ORD-100204,11/11/2024,Thingamajig,0.0,349.66,West ,Bob Smith,Completed
+ORD-101221,06-04-2023,Thingamajig,3.0,,North,Dana White,Completed
+ORD-100445,2023/12/01,Thingamajig,1.0,114.09,South,Dana White,  Pending  
+ORD-101643,2023/01/09,Widget B,1.0,459.37,East,Dana White,Completed
+ORD-100696,2023-07-12,GADGET X,1.0,86.28, East,Dana White,Pending
+ORD-101705,"May 11, 2024",Gadget X,1.0,$385.16,,alice khan,Completed
+ORD-101581,2023-11-12,Gadget X,4.0,409.14,North,Bob  Smith,Completed
+ORD-100983,2023-06-11,Doohickey,4.0,62.45,North,Evan Brooks,Pending
+ORD-101780,03/08/2024,Widget A,1.0,204.33,East,Charlie Lee,Completed
+ORD-100376,"Oct 19, 2024",Sprocket,1.0,$125.69,West,Evan Brooks,Cancelled
+ORD-101077,2023/02/01,GADGET X,3.0,86.67, East,Dana White,Completed
+ORD-100265,03-10-2023,Doohickey,1.0,77.24,,Bob Smith,
+ORD-100355,2023/10/14,Doohickey,2.0,22.15,North,Evan Brooks,Pending
+ORD-101772,16-10-2023,Thingamajig,3.0,N/A,North,Bob  Smith,Completed
+ORD-100161,2024-02-17,Gadget Y,1.0,$459.43,  South  ,Charlie Lee ,Completed
+ORD-101433,12/20/2023,Thingamajig,3.0,326.79,north,Bob Smith,Completed
+ORD-101529,"Sep 08, 2023",Thingamajig,5.0,,SOUTH,  Dana White  ,Pending
+ORD-100113,"Nov 25, 2024",Sprocket,2.0,290.44,north,Fiona Grant,Pending
+ORD-100530,2024-02-06,widget a,1.0,55.82,West ,Alice Khan,Pending
+ORD-100074,2024-07-13,Gadget X,1.0,468.78,West,Fiona Grant,Completed
+ORD-100724,10/14/2023,Gadget X,2.0,484.35, East,Charlie Lee,  Completed  
+ORD-100752,"Feb 08, 2023",Widget B,2.0,187.45,East,Bob Smith,  Completed  
+ORD-100428,2024/11/04,Widget B,2.0,370.01,East,Bob  Smith,Completed
+ORD-100520,"Nov 25, 2024",Thingamajig,,344.83,  West   ,  Alice Khan  ,Completed
+ORD-101715,2024/05/17,Widget A,2.0,$24.35,North,Dana White,Completed
+ORD-101563,2024-05-14,GADGET X,1.0,407.93,South,Bob  Smith,Completed
+ORD-100990,2023/09/14,GADGET X,1.0,$316.04,  South  ,Evan Brooks,Completed
+ORD-101737,2023/10/08,Sprocket,3.0,485.39,  East  ,Alice Khan,  Completed  
+ORD-100985,12/14/2024,,0.0,$276.26,North,,COMPLETED
+ORD-100243,06/04/2024,Widget A,,90.96,South,Fiona Grant,Cancelled
+ORD-100387,2024/10/16,Widget A,2.0,$260.06,East,,Completed
+ORD-100457,"Oct 17, 2023",  Widget B  ,3.0,$246.74,East,Bob  Smith,COMPLETED
+ORD-100926,2024/12/09,Widget A,2.0,396.41,SOUTH,Charlie Lee ,COMPLETED
+ORD-101610,2023-04-10,  Widget A  ,1.0,404.99,South,  Charlie Lee  ,Pending
+ORD-100381,07/29/2024,Widget A,5.0,230.82,South,Charlie Lee,  completed  
+ORD-100549,15-03-2023,Widget A,2.0,366.34,  East  ,Charlie Lee,completed
+ORD-101214,"Aug 04, 2023",Widget A,2.0,175.81,  West   ,Charlie Lee ,Pending
+ORD-100838,2023-03-29,Gizmo Pro,2.0,366.42,West,Fiona Grant,completed
+ORD-100582,2024/07/15,Gadget X,1.0,285.79,East,Evan Brooks,Cancelled
+ORD-100532,"Jan 24, 2023",,5.0,315.18,South,Bob  Smith,Pending
+ORD-100765,2024-01-29,widget a,2.0,495.43,West,,Pending
+ORD-100173,2024/05/16,Sprocket,2.0,$76.45,South,Charlie Lee ,  Completed  
+ORD-101266,21-03-2024,Widget A,2.0,$103.08,South,Fiona Grant,Completed
+ORD-101426,07/02/2024,Gadget X,5.0,490.03,SOUTH,Charlie Lee,Completed
+ORD-101348,06/21/2023,widget a,2.0,67.46,East,Evan Brooks,Cancelled
+ORD-100790,06/01/2024,  Gadget Y  ,2.0,$270.83,West,Fiona Grant,Completed
+ORD-100382,07/27/2023,Gadget X,1.0,294.43,North,Bob  Smith,Pending
+ORD-101486,08/09/2024,Widget A,2.0,159.63,  South  ,Bob  Smith,COMPLETED
+ORD-100192,2024-10-02,Thingamajig,1.0,107.63,North,Alice Khan,Completed
+ORD-101821,16-04-2024,Gadget Y,1.0,489.35, East,Bob Smith,Completed
+ORD-100367,2023-12-06,GADGET X,,294.39,East,Evan Brooks,Completed
+ORD-100511,2023-05-09,Sprocket,1.0,358.32,West,Alice Khan,Refunded
+ORD-100067,27-07-2024,Sprocket,3.0,288.87,SOUTH,Bob Smith,Completed
+ORD-100288,04/17/2024,Widget A,2.0,149.21,north,Fiona Grant,Completed
+ORD-101250,"Feb 09, 2024",  Gizmo Pro  ,4.0,309.92,  South  ,Fiona Grant,Cancelled
+ORD-101170,08/16/2023,GADGET X,1.0,203.29,East,Bob Smith,
+ORD-100875,2024/03/05,Thingamajig,3.0,204.67,,Evan Brooks,Pending
+ORD-101094,"Jan 27, 2023",Gizmo Pro,1.0,304.77,East,Charlie Lee,Completed
+ORD-101578,07/12/2024,Sprocket,1.0,277.3,West,Alice Khan,
+ORD-100804,26-01-2024,Gadget X,,371.99,North,Fiona Grant,Cancelled
+ORD-101843,2024-12-05,widget a,1.0,61.66,East,Evan Brooks,
+ORD-100516,2024/04/27,Doohickey,1.0,169.7,East,Evan Brooks,Completed
+ORD-101369,04/03/2023,Widget B,1.0,387.73,South,alice khan,Completed
+ORD-100698,2024-08-20,Widget B,0.0,314.45,West ,Fiona Grant,Pending
+ORD-100276,2023-04-27,Gadget X,3.0,252.03,north,Bob  Smith,Pending
+ORD-100183,2024/02/11,Sprocket,5.0,375.76,West,Evan Brooks,Completed
+ORD-100822,16-03-2023,Widget B,5.0,332.76,South,Bob  Smith,Cancelled
+ORD-101231,"Dec 25, 2023",Gadget Y,2.0,110.11,north,Charlie Lee,  Completed  
+ORD-101041,06/09/2023,  Gadget Y  ,3.0,445.36,North,Alice Khan,Pending
+ORD-101264,2023-08-11,  Doohickey  ,4.0,397.49,,Alice Khan,completed
+ORD-100115,"Dec 11, 2024",Widget B,-1.0,115.5,SOUTH,Evan Brooks,Completed
+ORD-100526,03-07-2024,Doohickey,1.0,408.01,SOUTH,,Completed
+ORD-101759,"Feb 13, 2024",Gizmo Pro,1.0,265.3,South,Fiona Grant,Completed
+ORD-101568,2024/06/09,Sprocket,2.0,361.69,  north  ,Fiona Grant,Pending
+ORD-100768,11/17/2023,Widget B,4.0,129.38,West ,Dana White,
+ORD-100550,"Aug 09, 2024",Gadget X,5.0,$276.03,West ,Charlie Lee,
+ORD-100222,19-06-2024,  widget a  ,,340.6,North,Evan Brooks,COMPLETED
+ORD-100902,19-08-2023,Sprocket,0.0,155.19,North,Bob Smith,Completed
+ORD-101384,"May 22, 2024",Doohickey,3.0,288.49,north,Dana White,completed
+ORD-100767,2023-06-28,Widget B,1.0,183.31,North,Bob Smith,Completed
+ORD-100431,2024-01-13,Widget A,3.0,254.68,,Fiona Grant,Completed
+ORD-100732,04/07/2024,Widget B,4.0,156.47,  West   ,  Bob Smith  ,Pending
+ORD-100447,05-11-2023,Sprocket,3.0,388.39,East,  Bob Smith  ,COMPLETED
+ORD-101579,"May 14, 2023",Gadget X,0.0,397.36,East,Dana White,Completed
+ORD-101270,2023-05-25,Widget A,1.0,453.49,West,,Completed
+ORD-100319,09/12/2023,Gadget X,1.0,$175.45,North,Bob Smith,  Pending  
+ORD-100777,2024-02-29,Gadget Y,3.0,,West,Bob  Smith,Pending
+ORD-101155,09/26/2023,Gadget X,1.0,454.13,West,Alice Khan,Completed
+ORD-100665,06/10/2024,Gadget Y,5.0,381.9,South,Dana White,completed
+ORD-100807,"Sep 07, 2023",Widget B,2.0,84.27,,  Bob Smith  ,Completed
+ORD-101046,26-07-2024,Widget A,1.0,63.79,SOUTH,Alice Khan,Completed
+ORD-100242,07/07/2023,Widget A,,103.83,,  Dana White  ,Completed
+ORD-101808,18-05-2023,Sprocket,4.0,383.11,  North  ,Dana White,  Pending  
+ORD-100805,2023/12/17,Thingamajig,2.0,39.08,North,Alice Khan,Completed
+ORD-101501,"Jan 22, 2023",GADGET X,2.0,,SOUTH,Alice Khan,Pending
+ORD-100018,"May 24, 2023",Gadget X,3.0,394.38,West,Bob Smith,Completed
+ORD-100541,"Jan 13, 2024",GADGET X,1.0,467.38,West,Fiona Grant,Completed
+ORD-101581,06/28/2023,Gadget X,,361.01,,Alice Khan,Completed
+ORD-100652,07-11-2023,,5.0,248.35,north,Evan Brooks,  Completed  
+ORD-100093,"Sep 17, 2023",Widget B,1.0,303.92,West ,alice khan,Pending
+ORD-100768,11/17/2023,Widget B,4.0,129.38,West ,Dana White,
+ORD-101755,2024-10-22,Widget B,3.0,133.12,South,Evan Brooks,
+ORD-101675,11-06-2024,Thingamajig,2.0,59.93,North,Alice Khan,  Completed  
+ORD-100662,07/25/2023,Thingamajig,1.0,249.54,north,,Pending
+ORD-101074,25-12-2024,Gadget X,1.0,478.71,South,,Pending
+ORD-100144,2024/11/22,Gizmo Pro,1.0,297.44,,,Completed
+ORD-101122,"Jul 17, 2023",Widget B,1.0,380.02,North,  Charlie Lee  ,Pending
+ORD-100918,2023-06-15,Thingamajig,2.0,$426.47,,Bob Smith,COMPLETED
+ORD-100703,03-04-2023,Widget B,3.0,$480.66,,Charlie Lee ,COMPLETED
+ORD-100646,10-08-2023,GADGET X,1.0,99.62,North,Dana White,
+ORD-100085,2024/03/18,Gadget Y,2.0,251.28,SOUTH,Bob Smith,completed
+ORD-101842,2023-08-25,Gizmo Pro,4.0,9.53,East,Bob  Smith,Pending
+ORD-100853,03/01/2023,Thingamajig,0.0,,South,Alice Khan,Completed
+ORD-101352,"Sep 17, 2024",GADGET X,3.0,283.28,,Evan Brooks,Completed
+ORD-101554,04-06-2024,Widget A,2.0,N/A,West ,Dana White,Pending
+ORD-100411,07/19/2024,Thingamajig,2.0,371.94,north,Dana White,Cancelled
+ORD-100867,"Jun 29, 2023",,0.0,156.74,  West   ,Bob Smith,Refunded
+ORD-100722,01/18/2024,  Gadget X  ,2.0,$248.27,North,Charlie Lee,
+ORD-101337,"Apr 21, 2024",Widget A,1.0,407.36, East,Bob Smith,Cancelled
+ORD-100212,"Feb 05, 2023",Doohickey,3.0,349.89,north,Evan Brooks,
+ORD-100735,2024/08/21,Widget A,2.0,335.78,West,,Refunded
+ORD-100293,06/12/2024,Gizmo Pro,1.0,338.64,South,Alice Khan,Pending
+ORD-100708,08/08/2024,Sprocket,4.0,325.45,north,alice khan,Cancelled
+ORD-101596,"Sep 27, 2023",Sprocket,2.0,5.36,  South  ,Fiona Grant,Completed
+ORD-100464,01/29/2024,Widget B,4.0,$198.1,East,  Alice Khan  ,
+ORD-100861,22-06-2023,Sprocket,1.0,$131.5,South,Bob  Smith,
+ORD-101405,2023-10-29,Thingamajig,2.0,$476.07,East,Dana White,Cancelled
+ORD-101628,14-06-2023,Widget B,2.0,$77.48,West ,Fiona Grant,Pending
+ORD-100198,"Sep 04, 2023",  Doohickey  ,2.0,247.6,East,,Pending
+ORD-100359,18-11-2024,  Gadget Y  ,2.0,423.48,north,Fiona Grant,Completed
+ORD-101473,2024-12-20,  widget a  ,2.0,6.42,East,Dana White,Completed
+ORD-100274,19-08-2023,Widget B,1.0,76.45,South,Evan Brooks,  completed  
+,,,,,,,
+ORD-100543,2023-05-30,Widget A,1.0,157.9,north,  alice khan  ,Cancelled
+ORD-100350,04/12/2023,Gizmo Pro,2.0,317.56,West ,Charlie Lee,Cancelled
+ORD-100002,16-02-2024,Thingamajig,-1.0,343.62, East,  Dana White  ,Pending
+ORD-101801,09/29/2023,Widget A,3.0,248.4,South,Alice Khan,completed
+ORD-101402,14-11-2024,Sprocket,2.0,109.88,East,Alice Khan,Completed
+ORD-100631,2023/02/12,Thingamajig,3.0,171.51,East,Fiona Grant,Completed
+ORD-101666,02/27/2023,Thingamajig,1.0,148.19, East,Dana White,Completed
+ORD-100036,"Feb 13, 2023",Sprocket,2.0,240.26,West ,Alice Khan,Cancelled
+ORD-101154,"Apr 15, 2023",  GADGET X  ,1.0,371.05,West ,Charlie Lee,Completed
+ORD-100255,2023/04/08,Thingamajig,3.0,140.96,West ,Charlie Lee ,
+ORD-100482,02-06-2023,Widget B,3.0,446.26,East,  alice khan  ,Completed
+ORD-100298,02/07/2023,Widget B,0.0,14.44,West ,Bob  Smith,Refunded
+ORD-101724,04-08-2023,Gizmo Pro,4.0,453.29,South,Evan Brooks,Completed
+ORD-100127,2023/06/16,Gizmo Pro,2.0,146.04,South,Alice Khan,completed
+ORD-100842,07/26/2024,Gadget X,1.0,450.3, East,Fiona Grant,Completed
+ORD-100637,"Mar 20, 2024",Gadget X,1.0,34.64,West,Alice Khan,Pending
+ORD-100963,2024-07-26,Widget A,1.0,101.73,  North  ,,  Completed  
+ORD-100682,"Jun 28, 2024",Gizmo Pro,3.0,13.28,South,Alice Khan,Completed
+ORD-101196,2024/06/11,Gizmo Pro,4.0,6.55,North,,completed
+ORD-100398,"Jun 04, 2023",Doohickey,3.0,N/A,East,Charlie Lee,Refunded
+ORD-101854,08/08/2024,Gizmo Pro,4.0,190.18,West,Fiona Grant,Completed
+ORD-100118,10/03/2023,Gadget Y,1.0,404.83,South,,COMPLETED
+ORD-100123,2024-07-31,Gadget Y,2.0,N/A,West,Charlie Lee,Pending
+ORD-101682,08-06-2023,Sprocket,2.0,438.23,South,Dana White,Completed
+ORD-100328,"Jul 03, 2023",Gadget Y,1.0,316.59,South,Charlie Lee,Completed
+ORD-101222,2023/10/11,Gizmo Pro,,38.03,West,Charlie Lee,  Completed  
+ORD-101503,2024-06-19,Doohickey,1.0,,,Bob  Smith,  Completed  
+ORD-100780,22-08-2024,  Widget A  ,1.0,270.37,SOUTH,Dana White,completed
+ORD-100149,2024/09/25,Sprocket,1.0,444.4,,Bob Smith,Completed
+ORD-101701,2023/03/10,Gadget Y,2.0,333.18, East,Bob Smith,Cancelled
+ORD-101195,11-06-2023,Gadget X,1.0,N/A, East,Dana White,Pending
+ORD-101866,2023-01-09,Doohickey,1.0,468.44,north,Alice Khan,Completed
+ORD-101141,"Dec 07, 2024",GADGET X,2.0,$56.55,north,Dana White,Refunded
+ORD-100748,01/10/2023,Doohickey,2.0,-423.44,South,Bob Smith,Completed
+ORD-100878,2024/06/26,Gadget X,4.0,402.14,,Charlie Lee ,  Completed  
+ORD-100659,"May 06, 2023",Gadget X,1.0,435.86,north,Fiona Grant,Completed
+ORD-100874,"Oct 06, 2023",Gadget X,1.0,484.92,North,Bob  Smith,Cancelled
+ORD-101622,"Feb 22, 2024",Gadget X,2.0,404.71,,Charlie Lee ,Completed
+ORD-101356,"May 25, 2023",,1.0,300.23,SOUTH,Dana White,Completed
+ORD-100900,2023-11-06,Gadget X,3.0,$11.87,north,Evan Brooks,Completed
+ORD-100228,29-04-2024,Gadget X,2.0,340.86,,Charlie Lee ,completed
+ORD-101875,2024/07/04,Gizmo Pro,,$279.8,East,Alice Khan,Cancelled
+ORD-100666,07/12/2023,Gizmo Pro,3.0,459.51,East,Fiona Grant,Completed
+ORD-100246,"Jan 07, 2024",Widget A,3.0,227.89,West ,  Alice Khan  ,Completed
+ORD-100866,"Jul 26, 2023",Widget A,3.0,26.69,North,Fiona Grant,Completed
+ORD-100973,12/11/2024,Gadget X,1.0,201.76, East,Dana White,Completed
+ORD-101702,2024-10-07,Sprocket,,332.52,north,Bob Smith,Pending
+ORD-100669,06/11/2023,Thingamajig,5.0,484.98,East,Dana White,Completed
+ORD-101621,2024/02/07,  Sprocket  ,1.0,442.75,West,Evan Brooks,Completed
+ORD-101053,31-08-2023,Gadget X,1.0,492.92,north,Dana White,Completed
+ORD-101512,2023-11-08,Gizmo Pro,2.0,169.45,,Bob Smith,Refunded
+ORD-100643,27-05-2024,  Sprocket  ,2.0,463.22,East,Dana White,Pending
+ORD-100892,26-05-2024,Doohickey,1.0,463.49,West,Charlie Lee ,Completed
+ORD-101574,2023/07/06,Doohickey,1.0,375.31,West,Evan Brooks,Completed
+ORD-101482,"Mar 28, 2023",Sprocket,2.0,-71.09,West,Bob Smith,Completed
+ORD-100309,11-08-2024,Widget A,2.0,492.28,North,Alice Khan,Cancelled
+ORD-101478,18-01-2023,Doohickey,4.0,479.02,West ,,Refunded
+ORD-101432,08/17/2023,Widget B,1.0,158.89,North,Bob  Smith,Pending
+ORD-100240,07-05-2024,Thingamajig,2.0,444.32,West ,Evan Brooks,COMPLETED
+ORD-100393,01/16/2024,Doohickey,1.0,65.54,SOUTH,Charlie Lee ,Pending
+ORD-101232,2023-05-31,Widget A,2.0,-402.93,South,,completed
+ORD-100200,2023/10/09,  Widget B  ,2.0,$64.4,West,Charlie Lee,Completed
+ORD-100477,"May 16, 2024",Thingamajig,,408.8,North,Evan Brooks,Pending
+ORD-100546,23-01-2024,Sprocket,0.0,141.11,north,Bob Smith,Refunded
+ORD-101140,2023/12/26,Widget B,4.0,411.11,West,Bob Smith,Completed
+ORD-101024,11-09-2023,Doohickey,-1.0,67.57, East,Fiona Grant,
+ORD-101366,01-11-2024,  widget a  ,1.0,411.69,,Dana White,  Pending  
+ORD-101349,02/03/2024,Gadget X,2.0,371.94,SOUTH,,Refunded
+ORD-101756,2023-12-18,Widget B,5.0,86.36,  West  ,Evan Brooks,  Pending  
+ORD-101878,2024/09/19,Widget B,1.0,310.49,West,Bob  Smith,Completed
+ORD-100877,2024-01-18,  Thingamajig  ,1.0,255.44,,alice khan,Completed
+ORD-100800,14-03-2023,Gizmo Pro,4.0,N/A,South,Dana White,
+ORD-101457,2023-05-21,Widget B,1.0,489.07,South,Alice Khan,Pending
+ORD-100414,11/21/2023,Gizmo Pro,3.0,420.29, East,Alice Khan,Pending
+ORD-101267,2023/03/14,Doohickey,1.0,252.74,  North  ,Fiona Grant,Completed
+ORD-101311,2024-11-22,Gizmo Pro,1.0,31.63,South,Alice Khan,COMPLETED
+ORD-101304,"Nov 22, 2024",Widget B,3.0,414.11,South,Dana White,
+ORD-100871,2024-05-02,GADGET X,1.0,$367.81, East,Alice Khan,Completed
+ORD-100015,2024-01-13,Widget A,1.0,$136.58,East,alice khan,Completed
+ORD-101123,2024-12-14,Doohickey,2.0,-175.18,north,Alice Khan,completed
+ORD-100522,"May 28, 2024",Gadget X,4.0,437.04,,  Bob Smith  ,Completed
+,,,,,,,
+ORD-100075,08/08/2024,Gadget X,2.0,344.58,West,Bob Smith,COMPLETED
+ORD-101282,2024/03/01,Widget A,1.0,$108.67,North,Bob  Smith,Refunded
+ORD-100488,2023-07-14,Gadget Y,3.0,,East,Bob Smith,Pending
+ORD-100054,27-11-2024,GADGET X,1.0,265.01,East,alice khan,  Pending  
+ORD-101374,2023/09/28,Doohickey,1.0,N/A,South,Charlie Lee ,Pending
+ORD-100262,2024/02/04,widget a,1.0,$107.43,East,  Charlie Lee  ,Pending
+ORD-101178,"Oct 08, 2024",Thingamajig,3.0,212.56,South,Charlie Lee,Completed
+ORD-101004,09-08-2024,  Gizmo Pro  ,3.0,$491.59,SOUTH,Fiona Grant,  Completed  
+ORD-100348,"Jul 23, 2023",Sprocket,1.0,282.54,North,Alice Khan,completed
+ORD-101042,2024-05-11,,2.0,76.75,West,Fiona Grant,Pending
+ORD-101505,14-03-2024,,,$208.91,South,alice khan,  Completed  
+ORD-100658,2024/05/23,Gadget X,1.0,399.66,north,Dana White,Completed
+ORD-101111,06/08/2024,Gadget Y,2.0,443.28,South,Bob  Smith,Pending
+ORD-100438,"Nov 08, 2024",Doohickey,1.0,25.97,West,Bob Smith,Completed
+ORD-100715,"Sep 07, 2024",  Gadget X  ,3.0,,  North  ,Charlie Lee ,Completed
+ORD-101281,04/18/2024,Gadget X,2.0,$426.66,  SOUTH  ,  Dana White  ,Cancelled
+ORD-100126,"Jul 31, 2023",Widget A,2.0,183.82,East,Evan Brooks,  Completed  
+ORD-101040,2024-11-10,Thingamajig,2.0,41.09,West ,Alice Khan,Refunded
+ORD-100237,2024-02-20,Doohickey,3.0,328.66,East,  Bob Smith  ,Completed
+ORD-101323,"Jun 07, 2024",Sprocket,2.0,411.68,  SOUTH  ,Fiona Grant,
+ORD-100481,07/07/2023,Gizmo Pro,1.0,451.63,East,Charlie Lee,Completed
+ORD-100465,2023/08/14,  Widget B  ,1.0,166.55,West,Charlie Lee,Cancelled
+ORD-101638,"Sep 13, 2023",Widget A,4.0,231.6,  South  ,alice khan,Cancelled
+ORD-100153,2024/05/31,Gadget Y,1.0,405.36,East,Charlie Lee,Pending
+ORD-100524,01/29/2023,Thingamajig,2.0,158.72,,Fiona Grant,Completed
+ORD-100143,"Jun 30, 2024",Gadget X,1.0,N/A,  North  ,,  Completed  
+ORD-101497,"Jun 15, 2024",Widget B,,289.74,,Fiona Grant,Cancelled
+ORD-100028,"Jul 13, 2024",Doohickey,1.0,354.2,South,,Pending
+ORD-100686,2024/01/05,Widget B,1.0,-357.26,East,Alice Khan,Completed
+ORD-101011,03/25/2024,  Gadget Y  ,3.0,,East,Alice Khan,  completed  
+ORD-101137,2023-01-30,Gadget X,4.0,,North,  Alice Khan  ,  Completed  
+ORD-100236,2023-02-12,Thingamajig,1.0,,East,Evan Brooks,Completed
+ORD-101048,2023-12-23,Widget B,-1.0,497.01,North,,Completed
+ORD-100065,26-05-2023,  widget a  ,1.0,125.96,East,Bob  Smith,Pending
+ORD-101081,01/03/2023,Gizmo Pro,2.0,478.23, East,  Evan Brooks  ,Completed
+ORD-100201,10/10/2024,Gadget Y,2.0,284.0,South,Charlie Lee,Refunded
+ORD-101252,01-01-2024,  Widget A  ,2.0,204.06,East,Charlie Lee,COMPLETED
+ORD-100008,09/12/2024,Doohickey,0.0,$204.96,SOUTH,Alice Khan,Pending
+ORD-100770,2023/11/25,Widget B,1.0,472.77,  SOUTH  ,Evan Brooks,COMPLETED
+ORD-100911,2024-03-12,GADGET X,2.0,-380.31,West,Evan Brooks,  Refunded  
+ORD-100152,"Oct 25, 2024",  Sprocket  ,1.0,$96.46,West,Dana White,Completed
+ORD-100996,2023/12/18,Gadget X,4.0,372.77,West,Bob  Smith,Completed
+ORD-101279,2023/03/31,Thingamajig,1.0,304.37,,    ,Completed
+ORD-101233,09/11/2023,Gizmo Pro,1.0,-148.65,North,Fiona Grant,completed
+ORD-101824,03/28/2024,Widget A,4.0,206.55,South,Charlie Lee ,Completed
+ORD-100738,2023/01/04,GADGET X,2.0,-412.83,North,Evan Brooks,Completed
+ORD-101436,12/05/2024,Widget B,1.0,342.31,  north  ,Charlie Lee,  Completed  
+ORD-100033,"Nov 25, 2024",Gizmo Pro,1.0,291.78,South,Fiona Grant,Pending
+ORD-100836,02/22/2024,Doohickey,2.0,14.22,East,Dana White,Completed
+ORD-100912,2024/04/21,Gadget Y,2.0,115.78,West,Dana White,completed
+ORD-100280,2024/03/20,Widget A,1.0,482.84,North,Charlie Lee,Pending
+ORD-101103,2023/08/17,Gadget X,1.0,336.23, East,Dana White,  Completed  
+ORD-101067,2023-01-23,Gizmo Pro,3.0,80.45,,Dana White,Pending
+ORD-100203,2023/02/13,Gadget Y,1.0,161.13,South,Dana White,completed
+ORD-100799,07-05-2023,Widget A,1.0,354.73,North,  Charlie Lee  ,Completed
+ORD-100613,2023-01-05,Thingamajig,4.0,384.72,West,Evan Brooks,Completed
+ORD-101148,2023/01/10,  Widget B  ,1.0,417.98,West,Fiona Grant,Completed
+ORD-101358,2024-06-19,Sprocket,4.0,$157.62,West ,Bob Smith,Pending
+ORD-101910,2024/04/05,Widget A,2.0,$365.29,north,Alice Khan,Completed
+ORD-100188,"Aug 15, 2023",Sprocket,1.0,250.61,West ,Charlie Lee,Completed
+ORD-101283,01-01-2024,Thingamajig,1.0,236.26,SOUTH,Charlie Lee,Pending
+ORD-101892,04-11-2024,Gadget Y,3.0,308.28,  West  ,Fiona Grant,Completed
+ORD-101930,10/24/2024,  Widget B  ,2.0,42.2,East,Bob Smith,Completed
+ORD-101587,2023-04-23,  Doohickey  ,3.0,148.35,South,Alice Khan,Completed
+ORD-100156,02/07/2023,  Gizmo Pro  ,5.0,$431.76,North,Dana White,Completed
+ORD-100420,"Feb 08, 2023",Sprocket,1.0,391.16,West ,Alice Khan,completed
+ORD-100410,2024-06-18,Gadget X,3.0,,West,Fiona Grant,Completed
+ORD-100827,2024/01/17,Doohickey,1.0,92.9,East,Charlie Lee,Completed
+ORD-100615,07/28/2023,Thingamajig,-1.0,492.73,North,Bob Smith,  Pending  
+ORD-100462,2023-04-16,Widget A,5.0,-279.34,,,Completed
+ORD-101151,2023/06/12,Thingamajig,,$390.98,North,Alice Khan,COMPLETED
+ORD-101620,2024/03/22,Gizmo Pro,2.0,23.32,SOUTH,Dana White,Cancelled
+ORD-100426,2024-08-20,Widget B,3.0,$234.56,north,,Cancelled
+ORD-100642,25-03-2023,Thingamajig,4.0,466.08,East,Bob Smith,Pending
+ORD-101730,2023-05-20,Sprocket,5.0,403.94,West ,Charlie Lee,Completed
+ORD-101054,2024/05/18,Thingamajig,4.0,384.11,East,Charlie Lee,Cancelled
+ORD-100006,03-03-2023,Gadget X,3.0,425.42,  West  ,,
+ORD-100247,"May 29, 2024",  Widget B  ,1.0,496.31,,Alice Khan,Completed
+ORD-100157,2023/09/10,Gadget X,1.0,25.7,north,Bob  Smith,Completed
+ORD-100064,"Jan 07, 2023",Widget A,3.0,$152.68,West,,Completed
+ORD-100677,"Jul 30, 2024",Gadget X,1.0,379.46,North,Fiona Grant,Cancelled
+ORD-101259,2024/03/25,widget a,3.0,437.62,South,Charlie Lee ,
+ORD-100690,2023-03-15,Gizmo Pro,1.0,443.02,North,Charlie Lee,Pending
+ORD-101798,19-04-2024,Gadget Y,3.0,190.7,SOUTH,,Refunded
+ORD-101860,"Apr 04, 2024",Gizmo Pro,5.0,$269.15,  East  ,Alice Khan,Completed
+ORD-100515,20-04-2023,  Widget B  ,2.0,97.83, East,Alice Khan,  Completed  
+ORD-100334,22-11-2023,Doohickey,1.0,288.23,East,,Cancelled
+ORD-100562,01/17/2023,Widget A,1.0,108.57,South,Dana White,Refunded
+ORD-100909,2023/12/19,Doohickey,4.0,329.12,,Charlie Lee,Completed
+ORD-101396,2024/03/09,Sprocket,3.0,415.61,West,Fiona Grant,Completed
+ORD-100484,2023-07-20,Sprocket,3.0,$428.79,north,Bob  Smith,  Pending  
+ORD-101680,"Jul 20, 2023",Sprocket,1.0,$126.34,   East  ,Bob Smith,Completed
+ORD-101183,22-10-2024,Sprocket,2.0,$429.69,North,,completed
+ORD-101212,14-02-2024,  Sprocket  ,1.0,303.57,West ,Dana White,Completed
+ORD-100600,2024/08/28,Sprocket,0.0,$15.53,South,Dana White,Cancelled
+ORD-101226,2023-01-10,Widget A,,410.04,South,Fiona Grant,Completed
+ORD-100168,"Jul 06, 2023",Widget A,1.0,135.94,East,Dana White,completed
+ORD-101216,"Jul 19, 2024",Widget B,1.0,188.26,West,  Bob  Smith  ,Refunded
+ORD-101490,01/30/2023,Widget B,1.0,246.62,SOUTH,,Cancelled
+ORD-100518,03/08/2024,Widget A,4.0,$118.33,East,Charlie Lee ,COMPLETED
+ORD-101174,"Jul 17, 2024",Gadget X,1.0,354.86,North,Bob  Smith,Completed
+ORD-101417,"Nov 14, 2023",Gizmo Pro,5.0,408.63,East,  Alice Khan  ,Completed
+ORD-101577,2024-11-15,Doohickey,1.0,209.13,,,Pending
+ORD-100210,2023-08-03,widget a,1.0,396.54,north,Dana White,Cancelled
+ORD-101483,21-11-2023,,2.0,457.04,East,  Evan Brooks  ,Completed
+ORD-100902,10/26/2023,Gadget X,4.0,N/A,north,  Fiona Grant  ,completed
+ORD-100832,2023/11/08,Widget B,1.0,290.69,East,Dana White,Completed
+ORD-100903,2024/12/15,Sprocket,2.0,$455.34,West,Evan Brooks,
+ORD-101277,07-02-2024,Gizmo Pro,2.0,$139.62,  north  ,Evan Brooks,Completed
+ORD-100648,2023/12/17,Widget A,4.0,400.73,SOUTH,Charlie Lee,Completed
+ORD-100720,"Jan 05, 2023",GADGET X,2.0,94.38,  East  ,Bob Smith,Completed
+ORD-101869,2024/07/15,widget a,1.0,345.66,north,  Bob Smith  ,COMPLETED
+ORD-100466,2024/09/13,Gizmo Pro,5.0,285.74,North,Evan Brooks,Completed
+ORD-100001,03/29/2023,widget a,1.0,381.04,,Charlie Lee,Completed
+ORD-100213,2024/07/01,Widget B,1.0,217.67,  North  ,Charlie Lee ,Completed
+ORD-101807,"Sep 09, 2024",Gizmo Pro,2.0,449.0, East,Bob Smith,Completed
+ORD-101768,"Feb 15, 2024",Gadget X,1.0,N/A,north,Dana White,Cancelled
+ORD-100936,2024-05-07,Gadget X,1.0,182.99,,Charlie Lee,  COMPLETED  
+ORD-100024,2023-12-19,Doohickey,2.0,34.83,South,Charlie Lee,completed
+ORD-100037,2023/04/05,Gadget X,3.0,400.52, East,,  COMPLETED  
+ORD-100622,20-04-2023,Widget A,2.0,411.86,North,Charlie Lee,Cancelled
+ORD-101459,"Feb 07, 2024",Gadget Y,1.0,-438.98,north,Charlie Lee,Refunded
+ORD-101813,2024-09-14,Doohickey,4.0,324.9,,Charlie Lee ,Completed
+ORD-101695,16-11-2024,Sprocket,1.0,345.68, East,Evan Brooks,Completed
+ORD-101107,2024/10/04,Sprocket,3.0,63.81,North,Bob Smith,  Pending  
+ORD-100639,2024-10-14,widget a,1.0,365.35,East,Bob Smith,completed
+ORD-101118,09/24/2023,Widget B,5.0,221.03,North,Charlie Lee ,Completed
+ORD-101754,27-03-2023,Gizmo Pro,1.0,434.25,West,Dana White,Completed
+ORD-100575,2024-08-05,  Thingamajig  ,5.0,438.21,,Dana White,Refunded
+ORD-101721,11/01/2024,Sprocket,1.0,$225.66,South,Evan Brooks,Completed
+ORD-100500,"Jan 19, 2023",widget a,2.0,227.21,SOUTH,Dana White,Completed
+ORD-100539,"Mar 07, 2024",Widget A,4.0,348.28,South,Alice Khan,Pending
+ORD-101069,02/02/2024,Doohickey,2.0,$168.48,  West  ,Dana White,
+ORD-100599,2023/04/16,,0.0,399.4,East,Evan Brooks,Completed
+ORD-101199,2024/02/29,  Widget A  ,2.0,,  West   ,Bob Smith,Completed
+ORD-101432,2023-04-15,Sprocket,1.0,$441.09,North,Dana White,Cancelled
+ORD-100978,03/09/2023,Widget A,0.0,$231.65,South,Charlie Lee,Completed
+ORD-101572,2023-02-17,Gadget X,3.0,$419.17,,Fiona Grant,Refunded
+ORD-101609,05/05/2024,Widget A,-1.0,271.6,West,Bob Smith,
+ORD-100197,2024/12/12,Widget B,4.0,392.08,East,Dana White,Completed
+ORD-101784,09/18/2023,GADGET X,4.0,476.13,West ,Alice Khan,
+ORD-101547,"Aug 02, 2023",Gadget Y,2.0,479.22,West,Evan Brooks,Completed
+ORD-101540,2024/07/16,Sprocket,2.0,41.21,East,Fiona Grant,Completed
+ORD-101829,01/23/2023,Gadget X,2.0,373.58, East,Bob  Smith,Pending
+ORD-101399,09-04-2024,widget a,2.0,328.0,West,Evan Brooks,Pending
+ORD-101022,"Mar 05, 2024",Widget B,1.0,447.07,East,Charlie Lee,Completed
+ORD-100935,"Apr 16, 2023",Thingamajig,5.0,$374.05,South,Evan Brooks,Completed
+ORD-101471,"Oct 31, 2024",Sprocket,1.0,221.3,East,Charlie Lee,Completed
+ORD-100119,2024-11-06,Widget A,2.0,$496.71,West,Alice Khan,Completed
+ORD-101635,18-07-2023,GADGET X,1.0,$491.81,East,Dana White,completed
+ORD-100289,"Jan 26, 2023",Doohickey,3.0,$32.55,SOUTH,Charlie Lee,Completed
+ORD-100745,2023/10/14,Gadget X,,254.89,  West  ,Charlie Lee,Refunded
+ORD-100565,"Jul 30, 2023",Sprocket,1.0,96.47,North,  Bob Smith  ,Pending
+ORD-100700,2023/08/02,Widget B,2.0,480.8,north,Evan Brooks,Completed
+ORD-100857,24-05-2023,Sprocket,2.0,162.67,,Charlie Lee,completed
+ORD-101456,2023/04/06,  Doohickey  ,2.0,142.72,South,Dana White,Pending
+ORD-100347,2024/12/29,Widget B,4.0,353.74,North,,COMPLETED
+ORD-101691,02-06-2023,Doohickey,1.0,378.44,East,Charlie Lee ,Completed
+ORD-100677,"May 04, 2023",Sprocket,1.0,-106.13,East,Dana White,Refunded
+ORD-101217,27-05-2023,Gadget X,3.0,465.36,West,Alice Khan,Pending
+ORD-101122,"Nov 03, 2024",Doohickey,5.0,454.51,West ,Evan Brooks,Cancelled
+ORD-100351,06/19/2024,  Thingamajig  ,4.0,207.83,West,Alice Khan,  Completed  
+ORD-101653,2023-05-25,Widget A,5.0,,South,Evan Brooks,Cancelled
+ORD-100810,12-03-2023,  Sprocket  ,1.0,152.68, East,Charlie Lee,  Completed  
+ORD-100899,2023/02/08,Thingamajig,1.0,131.62,  West  ,Fiona Grant,Completed
+ORD-100934,2024-05-30,Sprocket,2.0,$172.18,East,Charlie Lee,Cancelled
+ORD-100179,03/31/2024,Thingamajig,1.0,205.87, East,Bob Smith,Pending
+ORD-100292,2024/09/07,Gadget Y,3.0,N/A,  West  ,  Bob Smith  ,Completed
+ORD-101287,2024/05/20,Gizmo Pro,1.0,,West,Fiona Grant,Completed
+ORD-100816,"Apr 09, 2023",Widget A,1.0,120.39, East,Alice Khan,Pending
+ORD-100668,04-03-2023,Gadget Y,2.0,206.5,SOUTH,Fiona Grant,Completed
+ORD-100383,20-05-2023,Widget B,,269.87,West,Evan Brooks,
+ORD-100459,2024-11-09,Gizmo Pro,2.0,395.46,,Dana White,Completed
+ORD-101099,"Feb 02, 2023",Gadget X,2.0,$254.13,north,Dana White,Pending
+ORD-100412,12-10-2023,Gizmo Pro,,144.08,,Alice Khan,Cancelled
+ORD-101187,"May 01, 2024",Doohickey,4.0,73.57,South,Alice Khan,Completed
+ORD-101781,03/22/2024,Widget B,2.0,497.31,West,Charlie Lee,COMPLETED
+ORD-101549,09/20/2024,Widget A,2.0,74.48,North,Bob Smith,Pending
+ORD-100707,07/19/2024,Sprocket,2.0,285.02,North,Evan Brooks,COMPLETED
+ORD-101030,"Apr 06, 2024",Widget B,3.0,N/A,East,Fiona Grant,Cancelled
+ORD-101573,2023-04-12,Sprocket,3.0,56.39,north,Dana White,Completed
+ORD-101539,03/30/2024,Gadget X,3.0,148.84,South,Alice Khan,  COMPLETED  
+ORD-101448,"Oct 19, 2023",Sprocket,1.0,,north,,Pending
+ORD-101460,08-01-2024,,1.0,$52.96,South,Dana White,
+ORD-101508,07/25/2024,Gadget Y,1.0,147.69, East,Fiona Grant,completed
+ORD-100644,07/02/2024,Widget A,4.0,221.21,SOUTH,Evan Brooks,Refunded
+ORD-101117,"Feb 20, 2024",Widget B,2.0,10.89,East,Dana White,Completed
+ORD-101536,2024-02-26,GADGET X,5.0,-215.32,West,Evan Brooks,Completed
+ORD-100588,08/14/2023,Doohickey,2.0,209.15, East,Evan Brooks,Completed
+ORD-100670,10/16/2023,  GADGET X  ,1.0,-186.96, East,Bob Smith,Refunded
+ORD-100404,23-01-2024,Gadget X,2.0,$449.62,West ,,Completed
+ORD-101027,07/03/2023,Gadget X,2.0,490.8,SOUTH,Charlie Lee ,Refunded
+ORD-101916,2024/02/27,Doohickey,3.0,222.89,South,Charlie Lee,  Cancelled  
+ORD-101851,03/16/2023,Widget A,4.0,295.85,,  Evan Brooks  ,Completed
+ORD-101528,2023-08-18,Gadget X,,212.93,West ,Charlie Lee,COMPLETED
+ORD-100079,2023-07-26,Widget B,2.0,335.59,North,  Bob  Smith  ,Completed
+ORD-100094,2023-01-24,widget a,2.0,272.27,East,Charlie Lee,Refunded
+ORD-100812,20-03-2023,Widget B,1.0,153.45,North,Fiona Grant,Completed
+ORD-100624,"Mar 31, 2024",Widget A,3.0,212.44,West,alice khan,Completed
+ORD-100611,01/03/2023,Widget A,,$77.56,West ,Charlie Lee ,Pending
+ORD-100435,11/01/2023,Gadget X,2.0,471.26, East,Evan Brooks,Refunded
+ORD-101541,12/26/2024,Widget B,2.0,62.87,West ,Bob Smith,Pending
+ORD-101169,2024-05-19,Gizmo Pro,,214.87,  East  ,Fiona Grant,Completed
+ORD-101804,2024-03-22,Widget A,1.0,264.26,North,  Fiona Grant  ,Pending
+ORD-101818,2024-10-28,Doohickey,3.0,$288.36,East,Charlie Lee ,Completed
+ORD-101827,2023-07-15,Gizmo Pro,2.0,352.41, East,Bob Smith,Pending
+ORD-101112,"Nov 05, 2023",  Widget A  ,2.0,495.28,South,Alice Khan,Pending
+ORD-101220,10/16/2023,Gadget X,2.0,37.33,,Charlie Lee ,completed
+ORD-101605,2024/10/03,Gizmo Pro,1.0,N/A,West,Fiona Grant,Completed
+ORD-100547,2023/03/26,widget a,1.0,N/A,South,Dana White,Completed
+ORD-101344,12/29/2024,Sprocket,1.0,$161.76, East,Evan Brooks,Completed
+ORD-100917,"Dec 07, 2024",Gadget X,4.0,357.71,West,Charlie Lee ,Completed
+ORD-101235,2024-10-05,Widget A,3.0,368.92, East,Evan Brooks,  Pending  
+ORD-101760,01-12-2023,Gadget Y,2.0,98.83,West ,,completed
+ORD-100905,01-05-2023,Gizmo Pro,5.0,190.36, East,Bob Smith,Refunded
+ORD-100895,2024-04-24,Gadget Y,1.0,343.82, East,Alice Khan,completed
+ORD-100729,2024/07/10,  Widget A  ,1.0,7.71,South,Evan Brooks,
+ORD-100003,12/09/2024,,1.0,6.01,West,Dana White,Completed
+ORD-100333,2023/03/17,Widget A,1.0,42.77,North,  Charlie Lee  ,Pending
+ORD-100561,2023/01/26,Sprocket,2.0,385.42,West,alice khan,Completed
+ORD-100392,"Oct 28, 2023",Gadget X,1.0,290.65,East,Evan Brooks,Completed
+ORD-101810,"Mar 09, 2023",Widget B,5.0,48.78,North,Charlie Lee ,  Completed  
+ORD-101427,2023-01-19,Sprocket,4.0,22.74,West,,Pending
+ORD-101867,2024-02-01,  Doohickey  ,2.0,474.81,West ,Bob  Smith,Refunded
+ORD-100239,29-11-2024,Widget A,-1.0,317.97,South,Bob  Smith,Completed
+ORD-101265,05/17/2023,Gadget Y,0.0,351.51,  East  ,Bob  Smith,Cancelled
+ORD-101861,10/20/2023,Gizmo Pro,0.0,85.23,   East  ,Dana White,COMPLETED
+ORD-101655,06-02-2024,Thingamajig,2.0,331.33,North,Fiona Grant,Completed
+ORD-100625,24-07-2023,Gadget X,2.0,279.37,North,Bob  Smith,Pending
+ORD-101893,04/28/2023,Doohickey,2.0,375.59,,Bob Smith,Completed
+ORD-101526,2024-01-07,Gadget Y,2.0,N/A,East,Alice Khan,Completed
+ORD-101711,2024/05/10,Thingamajig,1.0,,North,  Charlie Lee   ,Refunded
+ORD-100062,"Sep 25, 2024",Doohickey,1.0,282.86,East,Bob Smith,Completed
+ORD-101184,02-11-2023,,2.0,262.54,,Alice Khan,Completed
+ORD-101773,2024-01-15,Widget B,2.0,363.62,East,,
+ORD-100369,2023/04/21,Widget A,3.0,N/A,  South  ,Fiona Grant,COMPLETED
+ORD-101420,17-09-2023,Thingamajig,1.0,388.23,West,Charlie Lee,Completed
+ORD-101783,2023-01-01,Thingamajig,1.0,164.21,South,Fiona Grant,Refunded
+ORD-101306,01/24/2024,Widget B,1.0,311.77,South,Charlie Lee,Completed
+ORD-100011,2024/01/17,GADGET X,2.0,334.17,West,Bob Smith,COMPLETED
+ORD-100960,05-05-2024,Doohickey,2.0,202.13,South,Dana White,Pending
+ORD-101075,"Nov 08, 2023",Doohickey,1.0,187.3,East,alice khan,Completed
+ORD-100191,2024/09/02,Doohickey,1.0,344.46,South,Alice Khan,Refunded
+ORD-101314,2024/01/29,Widget B,0.0,458.38,SOUTH,Charlie Lee ,Pending
+ORD-100356,24-01-2023,Gizmo Pro,2.0,210.39,South,Dana White,Completed
+ORD-100102,2023-11-26,Doohickey,5.0,437.35,North,Charlie Lee,Completed
+ORD-100029,2023-07-27,Widget B,2.0,130.29,North,Bob Smith,Completed
+ORD-101928,10-01-2023,Gadget Y,3.0,,West ,Evan Brooks,Completed
+ORD-100820,2023/12/20,Sprocket,1.0,$265.71,North,Bob Smith,Cancelled
+ORD-100362,2024-01-24,Gadget X,,109.07,South,Fiona Grant,Pending
+ORD-100628,2024-08-31,Widget A,,337.65,West,Evan Brooks,Refunded
+ORD-101208,30-01-2024,Thingamajig,2.0,369.41,East,Fiona Grant,Refunded
+ORD-100189,2024-12-29,Gizmo Pro,1.0,418.59,West ,Bob Smith,Refunded
+ORD-100714,2024-09-23,Widget A,1.0,370.27,South,  Alice Khan  ,COMPLETED
+ORD-100418,06/16/2023,Sprocket,2.0,478.76,,Bob  Smith,Completed
+ORD-100679,08/16/2023,Widget B,1.0,15.74,West ,Evan Brooks,Pending
+ORD-101729,02/27/2024,Thingamajig,1.0,114.23,north,Bob Smith,COMPLETED
+ORD-101667,"May 22, 2024",Widget A,5.0,264.72,South,Bob Smith,Completed
+ORD-101156,2023-03-19,Widget B,2.0,317.66,South,Charlie Lee ,  Pending  
+ORD-100967,12-07-2024,Widget B,3.0,76.32, East,alice khan,Completed
+ORD-101595,2024/11/30,Sprocket,3.0,$412.17,East,Bob Smith,  Completed  
+ORD-101525,2024/06/14,Widget B,1.0,46.91,West,,Completed
+ORD-100559,2023/06/03,Doohickey,1.0,92.42,North,Dana White,Completed
+ORD-100148,06/18/2023,Gadget X,1.0,92.34,East,,Cancelled
+ORD-101567,10/31/2024,GADGET X,1.0,499.66,South,Alice Khan,completed
